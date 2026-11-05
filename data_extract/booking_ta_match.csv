@@ -1,0 +1,1493 @@
+city,booking_name,ta_slug,hotel_id,score
+Amsterdam,Hampshire Hotel Rembrandt Square Amsterdam,Hotel_Rembrandt,d239022,100.0
+Vienna,Strandhotel Alte Donau,Strandhotel_Alte_Donau,d944657,100.0
+Vienna,ARCOTEL Kaiserwasser Superior,Arcotel_Kaiserwasser,d654615,100.0
+Vienna,Mercure Hotel Raphael Wien,Mercure_Hotel_Raphael_Wien,d229558,100.0
+Vienna,Arthotel ANA Boutique Six,Arthotel_ANA_Boutique_Six,d2715529,100.0
+Vienna,Austria Trend Hotel Anatol Wien,Austria_Trend_Hotel_Anatol_Wien,d206623,100.0
+Vienna,Hotel Kaiserin Elisabeth,Kaiserin_Elisabeth,d228065,100.0
+Vienna,Das Triest Hotel,Hotel_Das_Triest,d195241,100.0
+Vienna,Suite Hotel 900 m zur Oper,Suite_Hotel_900_m_zur_Oper,d324708,100.0
+Amsterdam,Morgan Mees,Morgan_Mees,d7724407,100.0
+Paris,Mercure Paris 17 me Saint Lazare Monceau,Mercure_Paris_Saint_Lazare_Monceau,d1065100,100.0
+Vienna,Hotel Bellevue Wien,Bellevue_Hotel,d228036,100.0
+Vienna,Hotel Am Konzerthaus Vienna MGallery by Sofitel,Hotel_Am_Konzerthaus_Vienna_MGallery_by_Sofitel,d228058,100.0
+Vienna,Park Hyatt Vienna,Park_Hyatt_Vienna,d6603500,100.0
+Vienna,Hilton Vienna,Hilton_Garden_Inn_Vienna_South,d206600,100.0
+Amsterdam,Canal House,Amstel_Canal_Guest_House,d1185651,100.0
+Amsterdam,The Toren,The_Toren,d229137,100.0
+Amsterdam,Holiday Inn Amsterdam,Holiday_Inn_Express_Amsterdam_City_Hall,d13489848,100.0
+Amsterdam,Bilderberg Garden Hotel,Bilderberg_Garden_Hotel,d206846,100.0
+Amsterdam,NH Amsterdam Noord,NH_Amsterdam_Noord,d1858853,100.0
+Amsterdam,Grand Hotel Downtown,Grand_Hotel_Downtown,d3451953,100.0
+Amsterdam,Amadi Park Hotel,Park_Hotel_Amsterdam,d230118,100.0
+Amsterdam,Novotel Amsterdam City,Novotel_Amsterdam_City,d1071829,100.0
+Amsterdam,Savoy Hotel Amsterdam,Hotel_Savoy_Amsterdam,d320980,100.0
+Amsterdam,Hotel V Fizeaustraat,Hotel_V_Fizeaustraat,d10332886,100.0
+Amsterdam,WestCord Fashion Hotel Amsterdam,WestCord_Fashion_Hotel_Amsterdam,d1382766,100.0
+Vienna,Hotel Capricorno,Hotel_Capricorno,d228057,100.0
+Amsterdam,Hotel Die Port van Cleve,Die_Port_van_Cleve,d229237,100.0
+Amsterdam,Inntel Hotels Amsterdam Centre,Inntel_Hotels_Amsterdam_Centre,d230113,100.0
+Amsterdam,Mercure Hotel Amsterdam Centre Canal District,Mercure_Amsterdam_Centre_Canal_District,d229124,100.0
+Amsterdam,DoubleTree by Hilton Amsterdam Centraal Station,DoubleTree_by_Hilton_Hotel_Amsterdam_Centraal_Station,d1946024,100.0
+Amsterdam,Banks Mansion All Inclusive Hotel,Banks_Mansion,d230616,100.0
+Amsterdam,Waldorf Astoria Amsterdam,Waldorf_Astoria_Amsterdam,d5555141,100.0
+Amsterdam,Courtyard by Marriott Amsterdam Arena Atlas,Amsterdam_Marriott_Hotel,d229495,100.0
+Amsterdam,Holiday Inn Amsterdam Arena Towers,Holiday_Inn_Amsterdam,d229480,100.0
+Amsterdam,Amadi Panorama Hotel,Amadi_Panorama_Hotel,d7394684,100.0
+Amsterdam,Room Mate Aitana,Room_Mate_Aitana,d4345724,100.0
+Amsterdam,Hotel JL No76,Hotel_JL_No76,d2095235,100.0
+Amsterdam,Bilderberg Hotel Jan Luyken,Bilderberg_Hotel_Jan_Luyken,d229144,100.0
+Amsterdam,Mercure Hotel Amsterdam City South,Mercure_Hotel_Amsterdam_City,d230114,100.0
+Amsterdam,Ozo Hotel,Ozo_Hotel,d7786396,100.0
+Amsterdam,art otel Amsterdam,Art_otel_Amsterdam,d4105659,100.0
+Amsterdam,Pulitzer Amsterdam,Pulitzer_Amsterdam,d189387,100.0
+Amsterdam,Andaz Amsterdam Prinsengracht A Hyatt Hotel,Prinsengracht_Hotel,d237564,100.0
+Amsterdam,Hotel Seven One Seven,Hotel_Seven_one_Seven,d296630,100.0
+Amsterdam,NH Amsterdam Caransa,NH_Amsterdam_Caransa,d229228,100.0
+Amsterdam,Park Plaza Vondelpark Amsterdam,Park_Hotel_Amsterdam,d230118,100.0
+Amsterdam,Hampshire Hotel Amsterdam American,American_Hotel_Amsterdam,d229477,100.0
+Amsterdam,Mercure Amsterdam Sloterdijk Station,Mercure_Amsterdam_Sloterdijk_Station,d7855996,100.0
+Amsterdam,DoubleTree by Hilton Hotel Amsterdam NDSM Wharf,Hilton_Amsterdam,d228438,100.0
+Amsterdam,Hyatt Regency Amsterdam,Hyatt_Regency_Amsterdam,d12264790,100.0
+Amsterdam,WestCord Art Hotel Amsterdam 4 stars,WestCord_Art_Hotel_Amsterdam,d614078,100.0
+Amsterdam,W Amsterdam,W_Amsterdam,d8470249,100.0
+Amsterdam,NH City Centre Amsterdam,NH_Amsterdam_Centre,d275406,100.0
+Amsterdam,Ramada Apollo Amsterdam Centre,Ramada_Apollo_Amsterdam_Centre,d2151608,100.0
+Amsterdam,Amsterdam Marriott Hotel,Residence_Inn_by_Marriott_Amsterdam_Houthavens,d13345991,100.0
+Amsterdam,Park Hotel,Park_Mansion,d1186174,100.0
+Amsterdam,NH Amsterdam Centre,NH_Amsterdam_Centre,d275406,100.0
+Amsterdam,Luxury Suites Amsterdam,Luxury_Suites_Amsterdam,d7760616,100.0
+Amsterdam,Sofitel Legend The Grand Amsterdam,Sofitel_Legend_The_Grand_Amsterdam,d189389,100.0
+Amsterdam,Sir Adam Hotel,Sir_Adam_Hotel,d9589433,100.0
+Amsterdam,Hampton by Hilton Amsterdam Centre East,Hilton_Amsterdam,d228438,100.0
+Amsterdam,M venpick Hotel Amsterdam City Centre,City_Hotel_Amsterdam,d324562,100.0
+Vienna,Novotel Wien City,Novotel_Wien_City,d675101,100.0
+Vienna,Vienna Sporthotel,Vienna_Sporthotel,d278255,100.0
+Vienna,Hotel Boltzmann,Hotel_Boltzmann,d230931,100.0
+Vienna,Hotel ViennArt am Museumsquartier,Hotel_Viennart_am_Museumsquartier,d231974,100.0
+Paris,Best Western Le Jardin de Cluny,Best_Western_Jardin_De_Cluny,d198051,100.0
+Paris,Le Pigalle Hotel,Grand_Pigalle_Hotel,d1033073,100.0
+Paris,Relais H tel du Vieux Paris,Relais_Hotel_du_Vieux_Paris,d242962,100.0
+Paris,Victoire Germain,Hotel_Victoire_Germain,d10227714,100.0
+Paris,Hotel Le Sainte Beuve,Hotel_Sainte_Beuve,d194284,100.0
+Paris,Hotel Villa Saxe Eiffel,La_Villa_Paris,d646480,100.0
+Paris,Holiday Inn Paris Saint Germain des Pr s,Hotel_Saint_Germain,d239626,100.0
+Paris,Rochester Champs Elysees,Hotel_Elysees_Paris,d207659,100.0
+Amsterdam,Albus Hotel Amsterdam City Centre,The_Albus,d232328,100.0
+Amsterdam,Hotel Vondel Amsterdam,Vondel_View_B_B,d1550596,100.0
+Amsterdam,Amsterdam Canal Residence,Amsterdam_Canal_Hotel,d3935747,100.0
+Amsterdam,The Student Hotel Amsterdam City,City_Hotel_Amsterdam,d324562,100.0
+Barcelona,Sansi Diputacio,Sansi_Diputacio_Hotel,d304310,100.0
+Barcelona,The One Barcelona GL,The_One_Barcelona,d11847896,100.0
+Barcelona,Eurostars Angli,Eurostars_Angli,d596514,100.0
+Barcelona,Catalonia Catedral,Hotel_Barcelona_Catedral,d610494,100.0
+Barcelona,Axel Hotel Barcelona Urban Spa Adults Only,Axel_Hotel_Barcelona_Urban_Spa,d305582,100.0
+Barcelona,Room Mate Gerard,Room_Mate_Gerard,d12211996,100.0
+Amsterdam,NH Amsterdam Schiller,NH_Amsterdam_Schiller,d229160,100.0
+Amsterdam,Royal Amsterdam Hotel,Royal_Plaza_Hotel,d12332382,100.0
+Amsterdam,The College Hotel,The_College_Hotel,d483134,100.0
+Amsterdam,Hotel Roemer Amsterdam,Hotel_Roemer,d283029,100.0
+Amsterdam,Radisson Blu Hotel Amsterdam,Radisson_Blu_Hotel_Amsterdam,d230875,100.0
+Barcelona,Sansi Pedralbes,Hotel_Pedralbes,d206932,100.0
+Barcelona,Crowne Plaza Barcelona Fira Center,Barcelona_Center_Plaza,d655311,100.0
+Vienna,Hotel Nestroy Wien,Hotel_Nestroy,d206611,100.0
+Vienna,Austria Trend Hotel Schloss Wilhelminenberg Wien,Austria_Trend_Hotel_Schloss_Wilhelminenberg_Wien,d206631,100.0
+Vienna,Austria Trend Hotel Park Royal Palace Vienna,Vienna_Palace,d10061473,100.0
+Vienna,Hilton Vienna Plaza,Hilton_Vienna,d228207,100.0
+Vienna,Grand Ferdinand Vienna Your Hotel In The City Center,Grand_Ferdinand,d8684482,100.0
+Vienna,Hotel Am Schubertring,Hotel_am_Schubertring,d10505776,100.0
+Vienna,Hotel Domizil,Domizil_In_Wien,d5565500,100.0
+Barcelona,Olivia Balmes Hotel,Olivia_Balmes_Hotel,d4569039,100.0
+Barcelona,Catalonia Diagonal Centro,Catalonia_Diagonal_Centro,d228576,100.0
+Barcelona,AC Hotel Victoria Suites a Marriott Lifestyle Hotel,AC_Hotel_Victoria_Suites,d228461,100.0
+Barcelona,H10 Marina Barcelona,H10_Marina_Barcelona_Hotel,d282300,100.0
+Barcelona,Barcelona Princess,Barcelona_Princess,d1227764,100.0
+Barcelona,Novotel Barcelona City,Novotel_Barcelona_City,d1532202,100.0
+Barcelona,The Gates Diagonal Barcelona,The_Gates_Diagonal_Barcelona,d518349,100.0
+Barcelona,AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel,AC_Hotel_Diagonal_L_Illa,d228554,100.0
+Barcelona,Hilton Barcelona,Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton,d228648,100.0
+Barcelona,Vincci Mae,Vincci_Mae,d10902390,100.0
+Barcelona,Fairmont Rey Juan Carlos I,Fairmont_Rey_Juan_Carlos_I,d208210,100.0
+Barcelona,Pullman Barcelona Skipper,Pullman_Barcelona_Skipper,d614392,100.0
+Barcelona,Hotel Ciutadella Barcelona,Residencia_Universitaria_La_Ciutadella,d1203227,100.0
+Barcelona,Catalonia Atenas,Catalonia_Atenas_Hotel,d228469,100.0
+Barcelona,Tryp Barcelona Apolo Hotel,Tryp_Barcelona_Apolo_Hotel,d231502,100.0
+Barcelona,Hotel Barcelona Catedral,The_Moods_Catedral,d12509045,100.0
+Barcelona,Arenas Atiram Hotels,Barcelona_Atiram_Hotel,d206927,100.0
+Barcelona,Room Mate Anna,Room_Mate_Anna,d10266358,100.0
+Barcelona,Gran Hotel Torre Catalunya,Gran_Hotel_Torre_Catalunya,d289670,100.0
+Barcelona,Hotel Abbot,Hotel_Abbot,d229871,100.0
+Barcelona,ABaC Restaurant Hotel Barcelona GL Monumento,Hotel_ABaC_Barcelona,d1077341,100.0
+Barcelona,Hotel SB Icaria Barcelona,Hotel_SB_Icaria_Barcelona,d498018,100.0
+Barcelona,Hotel Barcelona Universal,Barcelona_City_Hotel_Hotel_Universal,d608393,100.0
+Barcelona,Aparthotel Arai 4 Superior,Aparthotel_Arai,d3971172,100.0
+Barcelona,NH Collection Barcelona Podium,NH_Collection_Barcelona_Podium,d206920,100.0
+Barcelona,Hotel Ronda Lesseps,Hotel_Ronda_Lesseps,d586863,100.0
+Barcelona,Hotel Barcelona Center,Hostal_Center_Inn,d1724923,100.0
+Paris,Hotel d Orsay Esprit de France,Paris_France_Hotel,d290407,100.0
+Paris,Mercure Paris Opera Louvre,Mercure_Paris_Opera_Louvre,d197472,100.0
+Paris,La Villa des Ternes,Hotel_La_Villa_des_Ternes,d229622,100.0
+Paris,H tel Monna Lisa Champs Elys es,Hotel_Monna_Lisa,d231063,100.0
+Paris,Best Western Amiral Hotel,Best_Western_Amiral_Hotel,d623558,100.0
+Paris,H tel Arvor Saint Georges,Hotel_De_Paris_Saint_Georges,d315151,100.0
+Paris,Le M ridien Etoile,Hotel_Le_M,d648105,100.0
+Paris,La Clef Tour Eiffel,La_Clef_Tour_Eiffel_Paris,d197452,100.0
+Paris,La Chambre du Marais,La_Chambre_du_Marais,d10319445,100.0
+Paris,Novotel Paris Centre Bercy,Hotel_du_Centre,d3338551,100.0
+Paris,Hotel OFF Paris Seine,Hotel_OFF_Paris_Seine,d10506106,100.0
+Paris,Snob Hotel by Elegancia,Snob_Hotel_by_Elegancia,d11725503,100.0
+Paris,Sofitel Paris Baltimore Tour Eiffel,Sofitel_Paris_Baltimore_Tour_Eiffel,d229450,100.0
+Paris,Best Western Premier Faubourg 88,Best_Western_Premier_Faubourg_88,d1576551,100.0
+Paris,Hotel De Vigny,De_Vigny_Hotel,d197940,100.0
+Barcelona,Mercer Hotel Barcelona,Mercer_House_Boria_BCN,d543388,100.0
+Barcelona,Melia Barcelona Sky 4 Sup,Melia_Barcelona_Sky,d1153245,100.0
+Barcelona,HCC St Moritz,HCC_St_Moritz,d258869,100.0
+Barcelona,Petit Palace Museum,Petit_Hotel,d652746,100.0
+Barcelona,Primero Primera,Hotel_Primero_Primera,d2367494,100.0
+Barcelona,Catalonia Plaza Catalunya,Plaza_Catalunya,d10666658,100.0
+Barcelona,Hotel Pulitzer,Hotel_Pulitzer_Barcelona,d296915,100.0
+Barcelona,Hotel Alimara,Alimara_Barcelona_Hotel,d228464,100.0
+Barcelona,Petit Palace Boqueria Garden,Petit_Hotel,d652746,100.0
+Barcelona,Mercer House B ria BCN,B_Hotel,d506652,100.0
+Barcelona,Catalonia La Pedrera,Catalonia_La_Pedrera,d228553,100.0
+Barcelona,Ohla Eixample,Ohla_Eixample,d10061941,100.0
+Barcelona,AC Hotel Irla a Marriott Lifestyle Hotel,AC_Hotel_Irla,d277228,100.0
+Barcelona,Sunotel Central,Sunotel_Club_Central,d4741644,100.0
+Barcelona,Silken Gran Hotel Havana,Gran_Hotel_Havana,d208209,100.0
+Barcelona,H10 Casanova,H10_Casanova,d614395,100.0
+Barcelona,Avenida Palace,Hotel_El_Avenida_Palace,d206936,100.0
+Barcelona,Acta Atrium Palace,Acta_Atrium_Palace,d275097,100.0
+Barcelona,Hotel Indigo Barcelona Plaza Catalunya,Plaza_Catalunya,d10666658,100.0
+Barcelona,Gran Hotel La Florida,Gran_Hotel_La_Florida,d266131,100.0
+Barcelona,Zenit Borrell,Hotel_Zenit_Barcelona,d231531,100.0
+Barcelona,U232 Hotel,U232_Hotel,d234572,100.0
+Barcelona,Pestana Arena Barcelona,Pestana_Arena_Barcelona,d609760,100.0
+Barcelona,The Mirror Barcelona,The_Mirror_Barcelona,d2018633,100.0
+Barcelona,Tryp Barcelona Condal Mar Hotel,Hotel_Condal,d648030,100.0
+Barcelona,Gran Hotel Barcino,Gran_Hotel_Barcino,d234569,100.0
+Barcelona,Hotel 1898,Hotel_1898,d506158,100.0
+Barcelona,Eurostars Ramblas,Ramblas_Hotel,d229682,100.0
+Barcelona,Royal Ramblas,Ramblas_Hotel,d229682,100.0
+Barcelona,Ilunion Bel Art,Ilunion_Barcelona,d1048732,100.0
+Barcelona,Ofelias Hotel 4 Sup,Ofelias_Hotel,d2440485,100.0
+Barcelona,Hotel 4 Barcelona,Barcelona_4_Fun_Hostel,d1372535,100.0
+Barcelona,Medinaceli,Hotel_Medinaceli,d603788,100.0
+Barcelona,H10 Art Gallery 4 Sup,Gallery_Hotel,d228465,100.0
+Barcelona,NH Hesperia Barcelona del Mar,Hotel_Del_Mar,d1228670,100.0
+Barcelona,Hotel Well and Come,Hotel_Well_and_Come,d8956703,100.0
+Paris,H tel Le Relais Saint Germain,Hotel_Relais_Saint_Germain,d194309,100.0
+Paris,Villa Alessandra,Villa_Alessandra,d228775,100.0
+Paris,Ibis Styles Paris Gare Saint Lazare,Hotel_Ibis_Styles_Paris_Gare_Saint_Lazare,d229625,100.0
+Paris,Golden Tulip Opera de Noailles,Golden_Hotel_Paris,d315163,100.0
+Paris,Hotel Eiffel Blomet,Hotel_Eiffel_Blomet,d6395273,100.0
+Paris,H tel Thoumieux,Hotel_Thoumieux,d571562,100.0
+Paris,Auteuil Tour Eiffel,Hotel_Auteuil_Tour_Eiffel,d229556,100.0
+Paris,Derby Alma,Le_Derby_Alma,d240927,100.0
+Paris,Mercure Paris Gobelins Place d Italie,Mercure_Paris_Gobelins_Place_d_Italie,d197559,100.0
+Paris,Novotel Paris Les Halles,Novotel_Paris_Les_Halles,d197424,100.0
+Paris,Melia Paris Vendome,Hotel_de_Vendome,d190671,100.0
+Paris,MARQUIS Faubourg St Honor Relais Ch teaux,Le_Faubourg_Hotel,d229563,100.0
+Barcelona,Hotel Gran Derby Suites,Hotel_Derby,d206933,100.0
+Barcelona,The Corner Hotel,The_Corner_Hotel,d10127321,100.0
+Barcelona,Hotel Balmes,Balmes_Residence,d1950986,100.0
+Barcelona,Room Mate Carla,Room_Mate_Carla,d646310,100.0
+Barcelona,Upper Diagonal,Upper_Diagonal,d8875531,100.0
+Barcelona,Aparthotel Mariano Cubi Barcelona,Aparthotel_Mariano_Cubi,d231505,100.0
+Barcelona,Hotel Arts Barcelona,Hotel_Arts_Barcelona,d190635,100.0
+Barcelona,Grupotel Gran Via 678,Grupotel_Gran_Via_678,d1718864,100.0
+Barcelona,Hotel Casa Bonay,Casa_Bonay,d8780848,100.0
+Barcelona,Pol Grace Hotel,Pol_Grace_Hotel,d232792,100.0
+Barcelona,Hotel G tico,G_and_G,d4145768,100.0
+Barcelona,Catalonia Barcelona 505,Hotel_Catalonia_Barcelona_505,d228572,100.0
+Barcelona,Acta CITY47,Acta_City47,d1103924,100.0
+Barcelona,Onix Liceo,Onix_Liceo_Hotel,d667881,100.0
+Barcelona,Abba Sants,Abba_Sants_Hotel,d228626,100.0
+Barcelona,NH Sants Barcelona,NH_Sants_Barcelona,d206930,100.0
+Barcelona,Hotel Grums Barcelona,Hotel_Grums,d1989060,100.0
+Barcelona,Hotel Spa Villa Olimpica Suites,Villa_Olimpica,d1214460,100.0
+Barcelona,Silken Concordia,Hotel_Concordia_Barcelona,d309580,100.0
+Barcelona,Hotel Margot House,Margot_House,d7905626,100.0
+Barcelona,Monument Hotel,Monument_Hotel,d9587943,100.0
+Barcelona,The Level at Melia Barcelona Sky,Melia_Barcelona_Sky,d1153245,100.0
+Barcelona,Hotel Derby,Hotel_Derby,d206933,100.0
+Vienna,Saint SHERMIN bed breakfast champagne,Hotel_Saint_Shermin,d206635,100.0
+Vienna,Le Meridien Vienna,Le_Meridien_Vienna,d278251,100.0
+Barcelona,Occidental Atenea Mar Adults Only,Occidental_Atenea_Mar_Adults_only,d291590,100.0
+Barcelona,Eurostars Bcn Design,Eurostars_BCN_Design,d1008130,100.0
+Barcelona,Mandarin Oriental Barcelona,Mandarin_Oriental_Barcelona,d1456413,100.0
+Barcelona,Hotel Casa Fuster G L Monumento,G_and_G,d4145768,100.0
+Barcelona,Sixtytwo Hotel,Sixtytwo_Hotel,d1501787,100.0
+Barcelona,Majestic Hotel Spa Barcelona GL,Majestic_Hotel_Spa_Barcelona,d190616,100.0
+Barcelona,Royal Passeig de Gracia,Hotel_Royal_Passeig_de_Gracia,d4463171,100.0
+Barcelona,K K Hotel Picasso,K_K_Hotel_Picasso,d2558794,100.0
+Barcelona,AC Hotel Sants a Marriott Lifestyle Hotel,AC_Hotel_Sants,d1176318,100.0
+Barcelona,Hilton Diagonal Mar Barcelona,Hilton_Diagonal_Mar_Barcelona,d559387,100.0
+Barcelona,Eurostars Grand Marina Hotel GL,Eurostars_Grand_Marina_Hotel,d240860,100.0
+Barcelona,Guitart Grand Passage,Guitart_Grand_Passage,d237156,100.0
+Barcelona,Hotel Rekord,Hotel_Rekord,d259370,100.0
+Barcelona,Catalonia Barcelona Plaza,Catalonia_Barcelona_Plaza,d229676,100.0
+Barcelona,Attica 21 Barcelona Mar,Attica_21_Barcelona_Mar,d229678,100.0
+Barcelona,Hotel America Barcelona,Hotel_America_Barcelona,d228653,100.0
+Barcelona,Catalonia Park Putxet,Park_Hotel_Barcelona,d234578,100.0
+Vienna,Hotel Palais Strudlhof,Hotel_Palais_Strudlhof,d729696,100.0
+Vienna,Arthotel ANA Westbahn,Arthotel_ANA_Westbahn,d497282,100.0
+Vienna,Hotel Wandl,Hotel_Wandl,d235663,100.0
+Vienna,Hotel Sacher Wien,Pension_Sacher,d238191,100.0
+Vienna,Austria Trend Hotel Rathauspark Wien,Austria_Trend_Hotel_Rathauspark_Wien,d237845,100.0
+Vienna,Austria Trend Hotel Doppio Wien,Austria_Trend_Hotel_Doppio,d2557177,100.0
+Vienna,Appartement Hotel an der Riemergasse,Appartement_Hotel_an_der_Riemergasse,d238190,100.0
+Paris,H tel Le Bellechasse Saint Germain,Hotel_Saint_Germain,d239626,100.0
+Paris,Hotel Verneuil Saint Germain,Hotel_Saint_Germain,d239626,100.0
+Paris,Hotel Daniel Paris,Hotel_Daniel,d197542,100.0
+Paris,Residence Du Roy,Residence_du_Roy_Hotel,d228803,100.0
+Paris,Goralska R sidences H tel Paris Bastille,Hotel_R_de_Paris,d233583,100.0
+Paris,Hotel West End,West_End_Hotel,d228727,100.0
+Paris,Arioso,Hotel_Arioso,d312950,100.0
+Paris,Melia Paris Notre Dame,Melia_Paris_Notre_Dame,d228850,100.0
+Paris,Hotel Mademoiselle,Les_Jardins_de_Mademoiselle,d14195735,100.0
+Paris,Hotel Les Bains Paris,Hotel_des_Bains,d194236,100.0
+Paris,Hotel Ares Eiffel,Hotel_Ares_Paris,d197666,100.0
+Paris,Francois 1er,Francois_1er,d4353230,100.0
+Paris,H tel Montmartre Mon Amour,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Hotel Monceau Wagram,Monceau_Wagram_Hotel,d229590,100.0
+Barcelona,Negresco Princess 4 Sup,Barcelona_Princess,d1227764,100.0
+Barcelona,Petit Palace Barcelona,ICON_BCN_by_Petit_Palace,d633539,100.0
+Barcelona,Hotel Garbi Millenni,Hotel_Garbi_Millenni,d227465,100.0
+Barcelona,Vincci Gala,Vincci_Gala,d5416370,100.0
+Barcelona,H10 Casa Mimosa 4 Sup,H10_Casa_Mimosa,d10683772,100.0
+Barcelona,Catalonia Ramblas 4 Sup,Ramblas_Hotel,d229682,100.0
+Barcelona,Hotel Midmost,Hotel_Midmost,d10440705,100.0
+Barcelona,Silken Ramblas,Ramblas_Hotel,d229682,100.0
+Barcelona,Duquesa Suites Barcelona,Duquesa_Suites_Barcelona,d8846187,100.0
+Barcelona,Hotel SB Diagonal Zero Barcelona 4 Sup,Hotel_SB_Diagonal_Zero,d1223953,100.0
+Barcelona,Hotel DO Pla a Reial G L ,G_and_G,d4145768,100.0
+Barcelona,H10 Urquinaona Plaza,Hotel_Urquinaona,d208594,100.0
+Barcelona,Hotel Miramar Barcelona GL,Hotel_Miramar_Barcelona,d626303,100.0
+Barcelona,Olivia Plaza Hotel,Olivia_Plaza_Hotel,d589352,100.0
+Barcelona,Zenit Barcelona,Hotel_Zenit_Barcelona,d231531,100.0
+Barcelona,Hotel Advance,Hotel_Advance,d579016,100.0
+Barcelona,NH Barcelona Stadium,NH_Barcelona_Stadium,d206925,100.0
+Barcelona,Mercure Barcelona Condor,Mercure_Barcelona_Condor,d206923,100.0
+Barcelona,Hotel Murmuri Barcelona,Murmuri_Residence_Mercader,d10465078,100.0
+Barcelona,H10 Metropolitan 4 Sup,H10_Metropolitan,d6973853,100.0
+Barcelona,HCC Regente,Hotel_HCC_Regente,d280919,100.0
+Barcelona,Ilunion Barcelona,Ilunion_Barcelona,d1048732,100.0
+Barcelona,The Wittmore Adults Only,The_Wittmore_Hotel,d10279308,100.0
+Barcelona,Vilana Hotel,Vilana_Hotel,d237154,100.0
+Barcelona,Acevi Villarroel,Acevi_Villarroel,d313039,100.0
+London,K K Hotel George,K_K_Hotel_George,d195217,100.0
+London,Apex Temple Court Hotel,Apex_Temple_Court_Hotel,d2539103,100.0
+London,The Park Grand London Paddington,Park_Grand_London_Paddington,d1575619,100.0
+London,Park Plaza County Hall London,Plaza_Hotel,d1453293,100.0
+Barcelona,Catalonia Square 4 Sup,Catalonia_Square,d6204834,100.0
+Barcelona,Bcn Urban Hotels Gran Rosellon,BCN_Urban_Hotels_Gran_Rosellon,d8115750,100.0
+Barcelona,Gallery Hotel,Gallery_Hotel,d228465,100.0
+Barcelona,Catalonia Rigoletto,Catalonia_Rigoletto,d1371392,100.0
+Barcelona,Hotel Espa a Ramblas,Ramblas_Hotel,d229682,100.0
+Paris,Paris Marriott Champs Elysees Hotel,Hotel_Elysees_Paris,d207659,100.0
+Paris,H tel Exquis by Elegancia,Hotel_Exquis_by_Elegancia,d1986355,100.0
+Paris,Les Jardins Du Marais,Paris_Le_Marais,d1699937,100.0
+Paris,Hotel Monsieur,Hotel_Monsieur_Saintonge,d248398,100.0
+Paris,Hotel Saint Dominique,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,Hotel Malte Astotel,Hotel_Malte_Astotel,d228694,100.0
+Paris,InterContinental Paris Avenue Marceau,InterContinental_Paris_Avenue_Marceau,d1139859,100.0
+Paris,Mercure Tour Eiffel Grenelle,Mercure_Paris_Tour_Eiffel_Grenelle_Hotel,d197655,100.0
+Paris,Mercure Paris Bastille Saint Antoine,Hotel_Paris_Bastille,d315149,100.0
+Paris,Boutique H tel Konfidentiel,Hotel_Konfidentiel,d1978931,100.0
+Paris,R Kipling by Happyculture,Hotel_R_de_Paris,d233583,100.0
+Paris,Hotel Des Saints Peres Esprit de France,Hotel_des_Saints_Peres_Esprit_de_France,d194281,100.0
+Paris,Best Western Hotel Montmartre Sacr Coeur,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Hotel Le Chat Noir,Hotel_Noir,d220003,100.0
+London,Knightsbridge Hotel,Knightsbridge_Hotel,d195395,100.0
+London,The Cranley Hotel,The_Cranley_Hotel,d199856,100.0
+London,The Nadler Soho,The_Nadler_Soho,d4062677,100.0
+London,Grange St Paul s Hotel,Grange_St_Paul_s_Hotel,d605356,100.0
+London,The Ampersand Hotel,The_Ampersand_Hotel,d2554997,100.0
+London,Covent Garden Hotel,The_Nadler_Covent_Garden,d15134890,100.0
+London,The Nadler Victoria,The_Victoria,d259781,100.0
+Barcelona,H10 Cubik 4 Sup,H10_Cubik,d8778628,100.0
+Barcelona,Sunotel Club Central,Sunotel_Club_Central,d4741644,100.0
+Barcelona,Hotel Balmoral,Hotel_Balmoral,d206935,100.0
+Barcelona,Exe Laietana Palace,Exe_Laietana_Palace,d234574,100.0
+Barcelona,Grand Hotel Central,Grand_Hotel_Central,d583963,100.0
+Barcelona,Ilunion Almirante,Ilunion_Barcelona,d1048732,100.0
+Barcelona,Ohla Barcelona,Ohla_Eixample,d10061941,100.0
+Barcelona,Barcelona Hotel Colonial,Hotel_Colonial_Barcelona,d1485476,100.0
+London,Doubletree by Hilton London Kensington,Hilton_London_Kensington,d195185,100.0
+London,Staybridge Suites London Vauxhall,Staybridge_Suites_London_Vauxhall,d6787576,100.0
+London,The Grosvenor,LSE_Grosvenor_House_Studios,d1149803,100.0
+London,The Park Tower Knightsbridge a Luxury Collection Hotel,Knightsbridge_Hotel,d195395,100.0
+London,Thistle Kensington Gardens,Kensington_Gardens_Hotel,d195311,100.0
+London,Park Plaza Sherlock Holmes London,Plaza_Hotel,d1453293,100.0
+London,The Kensington Hotel,88_Studios_Kensington,d10059493,100.0
+London,Holiday Inn London Stratford City,Stratford_Hotel,d1056104,100.0
+London,Staybridge Suites London Stratford,Stratford_Hotel,d1056104,100.0
+London,InterContinental London Park Lane,InterContinental_London_Park_Lane,d195205,100.0
+London,Grand Royale London Hyde Park,Grand_Royale_London_Hyde_Park,d218403,100.0
+London,Crowne Plaza London Kings Cross,Plaza_Hotel,d1453293,100.0
+London,Novotel London West,Novotel_London_West,d193672,100.0
+London,Haymarket Hotel,Haymarket_Hotel,d651511,100.0
+London,Marlin Waterloo,Marlin_Waterloo,d12475989,100.0
+London,The Athenaeum,The_Athenaeum_Hotel_Residences,d187594,100.0
+London,Park International Hotel,Park_International_Hotel,d192145,100.0
+London,Lansbury Heritage Hotel,Lansbury_Heritage_Hotel,d12259847,100.0
+London,Batty Langley s,Batty_Langley_s,d8009809,100.0
+London,Best Western Mornington Hotel Hyde Park,Hyde_Park_Boutique_Hotel,d3904778,100.0
+London,Arbor City,Arbor_City_Hotel,d192029,100.0
+London,Ambassadors Bloomsbury,Ambassadors_Bloomsbury,d199106,100.0
+London,The Bryson Hotel,The_Bryson_Hotel,d9990151,100.0
+London,Novotel London Tower Bridge,London_Bridge_Hotel,d192044,100.0
+London,The Victoria,The_Victoria_Inn,d1005740,100.0
+London,Pullman London St Pancras,Pullman_London_St_Pancras_Hotel,d192068,100.0
+London,Crowne Plaza London Kensington,Plaza_Hotel,d1453293,100.0
+London,The Chamberlain,Chamberlain_Hotel,d278529,100.0
+London,Radisson Blu Edwardian Grafton,Radisson_Blu_Edwardian_Grafton_Hotel,d192261,100.0
+London,London Marriott Hotel Marble Arch,The_Marble_Arch_London,d199159,100.0
+London,Saint Georges Hotel,Saint_Georges_Hotel,d249231,100.0
+London,Park Grand London Lancaster Gate,The_Gate,d210363,100.0
+London,The Henrietta Hotel,The_Henrietta_Hotel,d12147326,100.0
+London,Windermere Hotel,The_Windermere_Hotel,d210760,100.0
+London,Mercure London Paddington Hotel,The_Paddington_Hotel,d267239,100.0
+London,Hilton London Paddington,Hilton_London_Paddington,d209371,100.0
+London,London Marriott Hotel Kensington,Residence_Inn_Marriott_London_Kensington,d13451678,100.0
+London,My Bloomsbury,The_Bloomsbury,d209229,100.0
+London,11 Cadogan Gardens,11_Cadogan_Gardens,d195174,100.0
+London,The Wellesley Knightsbridge a Luxury Collection Hotel London,Knightsbridge_Hotel,d195395,100.0
+London,Ashburn Hotel,Ashburn_Court_Apartments,d577078,100.0
+London,The Pelham Starhotels Collezione,The_Pelham_Starhotels_Collezione,d193147,100.0
+London,The Leonard Hotel,The_Leonard_Hotel,d193162,100.0
+London,DoubleTree by Hilton London Hyde Park,Hilton_London_Hyde_Park,d195184,100.0
+London,The Ritz London,The_Ritz_London,d187591,100.0
+London,M by Montcalm Shoreditch London Tech City,M_by_Montcalm_Shoreditch_London_Tech_City,d7182667,100.0
+London,St Paul s Hotel,Club_Quarters_Hotel_St_Paul_s,d239656,100.0
+London,The Bloomsbury Hotel,Radisson_Blu_Edwardian_London_Bloomsbury_Street,d188029,100.0
+London,Hotel Indigo London Paddington,Hotel_Indigo_London_Paddington,d1139866,100.0
+London,Number Sixteen,Number_Sixteen,d188478,100.0
+London,Britannia International Hotel Canary Wharf,Britannia_International_Hotel,d195153,100.0
+London,Hilton London Hyde Park,Hilton_London_Hyde_Park,d195184,100.0
+London,Staunton Hotel B B,Staunton_Hotel,d279744,100.0
+London,Mercure London Bloomsbury Hotel,The_Bloomsbury,d209229,100.0
+Paris,Mercure Vaugirard Paris Porte De Versailles,Mercure_Paris_Vaugirard_Porte_de_Versailles_Hotel,d197653,100.0
+Paris,Hotel de Nell,Nell_Hotel_Suites,d2555907,100.0
+Paris,9Hotel Republique,9HOTEL_REPUBLIQUE,d229579,100.0
+Paris,Victoria Palace Hotel,Hotel_Victoria,d1419309,100.0
+Paris,Le Relais Montmartre,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Amarante Beau Manoir,Amarante_Beau_Manoir_Hotel,d274975,100.0
+Paris,Hotel Maison FL,Maison_FL,d229601,100.0
+Paris,The Chess Hotel,The_Chess_Hotel,d6613318,100.0
+Paris,AC Hotel Paris Porte Maillot by Marriott,AC_Hotel_by_Marriott_Paris_Porte_Maillot,d6612756,100.0
+Paris,B Montmartre,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,H tel Regent s Garden,Hotel_Le_Regent,d236507,100.0
+Paris,Mercure Paris 15 Porte de Versailles,Hotel_Mercure_Paris_15_Porte_de_Versailles,d197665,100.0
+Paris,Hotel Le Placide Saint Germain Des Pr s,Hotel_Saint_Germain,d239626,100.0
+Paris,Nell Hotel Suites,Nell_Hotel_Suites,d2555907,100.0
+London,Millennium Hotel London Knightsbridge,Knightsbridge_Hotel,d195395,100.0
+London,Hotel La Place,Templeton_Place_by_Supercity_Aparthotels,d1464149,100.0
+London,Bulgari Hotel London,Bulgari_Hotel_London,d2554787,100.0
+London,Park Avenue Baker Street,Park_Avenue_Baker_Street,d4491472,100.0
+London,The Park City Grand Plaza Kensington Hotel,Plaza_Hotel,d1453293,100.0
+London,Park Plaza London Riverbank,Plaza_Hotel,d1453293,100.0
+London,Danubius Hotel Regents Park,Danubius_Hotel_Regents_Park,d193129,100.0
+London,The Rockwell,The_Rockwell,d612054,100.0
+London,Courthouse Hotel London,Courthouse_Hotel_Shoreditch,d10223105,100.0
+London,Best Western The Boltons Hotel London Kensington,Best_Western_The_Boltons_London_Kensington,d1216943,100.0
+London,Radisson Blu Edwardian Sussex,Radisson_Blu_Edwardian_Sussex_Hotel,d195282,100.0
+London,Kensington House Hotel,Kensington_House_Hotel,d195219,100.0
+London,Charlotte Street Hotel,Charlotte_Street_Hotel,d548133,100.0
+Vienna,Boutiquehotel Das Tyrol,Hotel_Das_Tyrol,d577354,100.0
+Vienna,NH Wien City,NH_Wien_City,d231972,100.0
+Vienna,Hotel Corvinus,Hotel_Pension_Corvinus,d575092,100.0
+Vienna,NH Collection Wien Zentrum,NH_Collection_Wien_Zentrum,d231971,100.0
+Vienna,JUFA Hotel Wien,JUFA_Hotel_Wien_City,d2309370,100.0
+Vienna,Pakat Suites Hotel,Pakat_Suites_Hotel,d1192251,100.0
+Vienna,ARCOTEL Wimberger,Arcotel_Wimberger_Hotel,d231969,100.0
+Vienna,Hotel Schild,Hotel_Schild,d278250,100.0
+Vienna,Exe Vienna,Hotel_Exe_Vienna,d206641,100.0
+Vienna,Roomz Vienna,Roomz_Vienna_Prater,d14203876,100.0
+Vienna,Hotel Am Parkring,Hotel_Am_Parkring,d227180,100.0
+Vienna,Vienna Marriott Hotel,Courtyard_by_Marriott_Vienna_Prater_Messe,d1100824,100.0
+London,Egerton House,London_House_Hotel,d243430,100.0
+London,The Pillar Hotel,The_Pillar_Hotel,d3317111,100.0
+London,Crowne Plaza London The City,Plaza_Hotel,d1453293,100.0
+London,The Gore Hotel Starhotels Collezione,The_Gore_Starhotels_Collezione,d193122,100.0
+London,Royal Garden Hotel,Royal_Garden_Hotel,d193123,100.0
+London,Grange White Hall Hotel,Grange_White_Hall_Hotel,d215545,100.0
+London,Hilton London Bankside,Bankside_Hotel,d15100964,100.0
+London,DoubleTree by Hilton London Victoria,DoubleTree_by_Hilton_Hotel_London_Victoria,d195204,100.0
+London,St Ermin s Hotel Autograph Collection,St_Ermin_s_Hotel_Autograph_Collection,d248802,100.0
+London,Montagu Place Hotel,Hotel_La_Place,d254569,100.0
+London,The Trafalgar Hilton,The_Trafalgar_St_James_London_Curio_Collection_by_Hilton,d209237,100.0
+London,Park Lane Mews Hotel,Park_Lane_Mews_Hotel,d193159,100.0
+London,Old Ship Inn Hackney,The_Old_Ship_Inn,d1383428,100.0
+London,Park Plaza Victoria London,Plaza_Hotel,d1453293,100.0
+London,Grange Beauchamp Hotel,Grange_Beauchamp_Hotel,d1025752,100.0
+London,The Drayton Court Hotel,The_Drayton_Court_Hotel,d2176326,100.0
+London,The Montcalm Marble Arch,The_Marble_Arch_London,d199159,100.0
+London,The Royal Horseguards,The_Royal_Horseguards,d193079,100.0
+London,citizenM London Bankside,Bankside_Hotel,d15100964,100.0
+London,Radisson Blu Edwardian Mercer Street,Radisson_Blu_Edwardian_Mercer_Street_Hotel,d192034,100.0
+London,Twenty Nevern Square Hotel,Twenty_Nevern_Square,d193118,100.0
+London,The Abbey Court Notting Hill,The_Abbey_Court_Notting_Hill,d193117,100.0
+London,Simply Rooms Suites,Simply_Rooms_Suites,d1775247,100.0
+London,The Academy,The_Academy,d193093,100.0
+Paris,Novotel Paris Centre Tour Eiffel,Novotel_Paris_Centre_Tour_Eiffel,d233528,100.0
+Paris,Best Western Plus 61 Paris Nation Hotel,Best_Western_Plus_61_Paris_Nation_Hotel,d254597,100.0
+Paris,Villa Lut ce Port Royal,Port_Royal_Hotel,d260472,100.0
+Paris,Oceania Paris Porte De Versailles,Hotel_Porte_de_Versailles,d529917,100.0
+Paris,Mercure Paris Bastille Marais,Paris_Le_Marais,d1699937,100.0
+Paris,Chateau Frontenac,Hotel_Chateau_Frontenac,d228854,100.0
+Paris,H tel Du Jeu De Paume,Hotel_du_Jeu_de_Paume,d194304,100.0
+Paris,Renaissance Paris Le Parc Trocadero Hotel,Parc_Hotel_Paris,d529920,100.0
+Paris,Hotel Carlton s Montmartre,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Hotel Monge,Hotel_Monge,d10328342,100.0
+Paris,Victoires Opera,Victoires_Opera_Hotel,d198095,100.0
+Paris,Le Burgundy Paris,Hotel_Le_Burgundy,d198177,100.0
+Paris,Hotel Montaigne,Hotel_Montaigne,d232537,100.0
+London,H10 London Waterloo,H10_London_Waterloo,d1719249,100.0
+London,San Domenico House,San_Domenico_House,d192123,100.0
+London,The Kings Head Hotel,The_Kings_Head_Hotel,d10824572,100.0
+London,Montcalm Royal London House City of London,London_House_Hotel,d243430,100.0
+London,Conrad London St James,Conrad_London_St_James,d2309633,100.0
+London,London Hilton on Park Lane,London_Hilton_on_Park_Lane,d195224,100.0
+London,The Portobello Hotel,Portobello_Hotel,d187995,100.0
+London,Landmark London,The_Landmark_London,d193105,100.0
+London,Hilton London Metropole,Hilton_London_Metropole,d193089,100.0
+London,Best Western Seraphine Kensington Olympia,Seraphine_Kensington_Olympia_Hotel,d1803642,100.0
+London,Portobello House,Portobello_Hotel,d187995,100.0
+London,Goodenough Club,Goodenough,d509370,100.0
+London,London Suites,Paddington_Rob_Roy_Executive_Suites,d10533868,100.0
+London,Hyatt Regency London The Churchill,Hyatt_Regency_London_The_Churchill,d195155,100.0
+London,Comfort Inn Suites Kings Cross St Pancras,Kings_Cross_Inn_Hotel,d1056130,100.0
+London,The Queens Gate Hotel,Queens_Hotel,d189740,100.0
+London,Grange Langham Court Hotel,The_Langham_London,d187569,100.0
+London,The Franklin Hotel Starhotels Collezione,The_Franklin_Starhotels_Collezione,d10382433,100.0
+London,Club Quarters Hotel St Paul s,Club_Quarters_Hotel_St_Paul_s,d239656,100.0
+London,The Nadler Kensington,The_Nadler_Kensington,d189735,100.0
+London,Hotel Xanadu,Hotel_Xanadu,d3308812,100.0
+London,Draycott Hotel,Draycott_Hotel,d187737,100.0
+London,Bentley London,The_Bentley_London,d289366,100.0
+London,Park Grand Paddington Court,Park_Grand_London_Paddington,d1575619,100.0
+London,The Zetter Townhouse Marylebone,The_Zetter_Townhouse_Marylebone,d210070,100.0
+London,The Levin Hotel,The_Levin,d210074,100.0
+London,Grange Clarendon Hotel,Grange_Clarendon_Hotel,d535167,100.0
+London,Norfolk Towers Paddington,The_Norfolk_Towers_Hotel,d192083,100.0
+London,Best Western Maitrise Hotel Edgware Road,Maitrise_Hotel_Edgware_Road_London,d8607593,100.0
+London,Georgian House Hotel,London_House_Hotel,d243430,100.0
+London,Bloomsbury Palace Hotel,The_Bloomsbury,d209229,100.0
+London,Innkeeper s Lodge London Greenwich,Innkeeper_s_Lodge_London_Greenwich,d1018639,100.0
+London,Holiday Inn London Mayfair,Holiday_Inn_London_Mayfair,d195203,100.0
+London,Paddington Court Executive Rooms,The_Paddington_Hotel,d267239,100.0
+London,Novotel London Paddington,Novotel_London_Paddington,d1159072,100.0
+London,South Place Hotel,Hotel_La_Place,d254569,100.0
+London,The Royal Park Hotel,Park_Plaza_London_Park_Royal,d11717496,100.0
+London,Henley House Hotel,Henley_House_Hotel,d193071,100.0
+London,Holiday Inn London Camden Lock,Camden_Lock_Hotel,d242991,100.0
+London,DoubleTree by Hilton London Westminster,Hotel_Westminster,d189737,100.0
+London,Blakemore Hyde Park,Hyde_Park_Boutique_Hotel,d3904778,100.0
+London,Eccleston Square Hotel,Eccleston_Square_Hotel,d2094329,100.0
+London,Nottingham Place Hotel,Regency_Hotel_Nottingham_Place,d214651,100.0
+London,Hilton London Olympia,Hotel_Olympia,d498338,100.0
+London,Grange Buckingham Hotel,Grange_Buckingham_Hotel,d505150,100.0
+London,The Cleveland,Clarendon_Serviced_Apartments_Cleveland_Residences,d6519281,100.0
+London,Dorset Square Hotel,Dorset_Square_Hotel,d3318042,100.0
+London,Rubens At The Palace,The_Rubens_at_the_Palace,d199868,100.0
+London,The Marble Arch London,Access_Apartments_Marble_Arch,d1153462,100.0
+London,Park Grand London Kensington,The_Park_City_Grand_Plaza_Kensington_Hotel,d192090,100.0
+London,The Beaufort,The_Beaufort_Hotel,d187924,100.0
+London,Blakes Hotel,Blakes_Hotel,d193135,100.0
+London,Courthouse Hotel Shoreditch,Courthouse_Hotel_Shoreditch,d10223105,100.0
+London,ME London by Melia,ME_London,d2630895,100.0
+London,citizenM Tower of London,CitizenM_Tower_of_London_Hotel,d10410272,100.0
+London,Chiswick Rooms,Chiswick_Rooms,d3530129,100.0
+London,La Suite West Hyde Park,La_Suite_West_Hyde_Park,d195207,100.0
+London,St James Court A Taj Hotel London,St_James_Court_A_Taj_Hotel,d265539,100.0
+London,41,Hotel_41,d188961,100.0
+London,Shaftesbury Suites London Marble Arch,Shaftesbury_Suites_London_Marble_Arch,d1755984,100.0
+London,Grange Strathmore Hotel,Grange_Strathmore_Hotel,d193659,100.0
+London,The Chesterfield Mayfair,The_Chesterfield_Mayfair,d192064,100.0
+London,My Chelsea,My_Chelsea,d265988,100.0
+London,Dukes Hotel,Dukes_Hotel,d192117,100.0
+London,Pestana Chelsea Bridge Hotel Spa,London_Bridge_Hotel,d192044,100.0
+London,Arbor Hyde Park,Arbor_Hyde_Park,d193060,100.0
+London,Great St Helen Hotel,Great_St_Helen_Hotel,d8420789,100.0
+London,United Lodge Hotel and Apartments,The_London_Lodge,d13074900,100.0
+Paris,Mercure Paris Bercy Biblioth que,Paris_Bercy_Hotel,d650162,100.0
+Paris,H tel Balzac,Hotel_Balzac,d194305,100.0
+Paris,Park Hyatt Paris Vendome,Hotel_de_Vendome,d190671,100.0
+Paris,My Home In Paris,My_Home_in_Paris_Hotel,d198076,100.0
+Paris,Mercure Paris Op ra Faubourg Montmartre,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Villa Beaumarchais,Hotel_Beaumarchais,d196828,100.0
+Paris,H tel Mansart Esprit de France,Hotel_Mansart,d219998,100.0
+Paris,Holiday Inn Paris Gare de l Est,Est_Hotel_Paris,d282315,100.0
+Paris,Le Pradey,Hotel_Le_Pradey,d233388,100.0
+Paris,Golden Tulip Washington Opera,Golden_Tulip_Hotel_Washington_Opera,d229553,100.0
+Paris,Residence Henri IV,Hotel_Henri_IV,d220002,100.0
+Paris,Hotel du Collectionneur Arc de Triomphe,Hotel_Arc_de_Triomphe,d622305,100.0
+Paris,Hotel Le Mareuil,Le_Mareuil,d264828,100.0
+London,Grange Tower Bridge Hotel,London_Bridge_Hotel,d192044,100.0
+London,Novotel London Blackfriars,Novotel_London_Blackfriars,d3530264,100.0
+London,Canary Riverside Plaza Hotel,Plaza_Hotel,d1453293,100.0
+London,The Marylebone Hotel,Marylebone_Inn_Hotel,d193610,100.0
+London,The Zetter Townhouse Clerkenwell,The_Zetter_Hotel,d299287,100.0
+London,The Whitechapel,Holiday_Inn_London_Whitechapel,d2401829,100.0
+London,St George Hotel,St_George_s_Apartments,d14077351,100.0
+London,The Premier Notting Hill,Notting_Hill_Hotel,d195392,100.0
+London,Millennium Gloucester Hotel London,Millennium_Gloucester_Hotel_London_Kensington,d193125,100.0
+London,Fielding Hotel,The_Fielding_Hotel,d210069,100.0
+London,DoubleTree by Hilton Hotel London Marble Arch,DoubleTree_by_Hilton_Hotel_London_Marble_Arch,d193092,100.0
+London,Holiday Inn London West,Holiday_Inn_London_West,d313125,100.0
+London,The Soho Hotel,Mimis_Hotel_Soho,d11962965,100.0
+London,Andaz London Liverpool Street,Andaz_London_Liverpool_Street,d798951,100.0
+London,Sanderson A Morgans Hotel,Sanderson_London_Hotel,d188005,100.0
+London,The Arch London,Access_Apartments_Marble_Arch,d1153462,100.0
+London,The Westbourne Hyde Park,The_Westbourne_Hyde_Park,d10723260,100.0
+London,The Lodge Hotel Putney,The_London_Lodge,d13074900,100.0
+London,Shaftesbury Hyde Park International,Park_International_Hotel,d192145,100.0
+London,The Montcalm At Brewery London City,The_Montcalm_at_the_Brewery_London_City,d2048999,100.0
+London,The Dorchester Dorchester Collection,45_Park_Lane_Dorchester_Collection,d1859025,100.0
+London,London City Suites,London_City_Suites_By_Montcalm,d2164773,100.0
+London,St George s Hotel Wembley,St_George_Hotel,d240244,100.0
+London,The Justin James Hotel,Justin_James_Hotel,d1655975,100.0
+London,The Curtain,The_Curtain,d10844183,100.0
+London,45 Park Lane Dorchester Collection,45_Park_Lane_Dorchester_Collection,d1859025,100.0
+London,New Linden Hotel,New_Linden_Hotel,d214329,100.0
+London,Hazlitt s,Hazlitt_s,d193633,100.0
+London,Park Plaza London Waterloo,Plaza_Hotel,d1453293,100.0
+London,Sofitel London St James,Sofitel_London_St_James,d236350,100.0
+London,Baglioni Hotel London The Leading Hotels of the World,Baglioni_Hotel_London,d295724,100.0
+London,DoubleTree by Hilton London Islington,Doubletree_by_Hilton_London_Islington,d192030,100.0
+London,Holiday Inn London Whitechapel,Holiday_Inn_London_Whitechapel,d2401829,100.0
+London,Radisson Blu Edwardian New Providence Wharf,Radisson_Blu_Edwardian_New_Providence_Wharf_Hotel,d651411,100.0
+London,Hilton London Tower Bridge,London_Bridge_Hotel,d192044,100.0
+Paris,Best Western Le 18 Paris,Best_Western_Plus_Hotel_le_18,d276934,100.0
+Paris,A La Villa Madame,Villa_Madame,d1194872,100.0
+Paris,Le Tsuba Hotel,Le_Tsuba_Hotel,d10521834,100.0
+Paris,Hotel Villa Lafayette Paris IX,Hotel_Lafayette,d1910039,100.0
+Paris,L Empire Paris,L_Hotel,d480768,100.0
+Paris,Best Western Premier Op ra Faubourg Ex Hotel Jules ,Le_Faubourg_Hotel,d229563,100.0
+Paris,Pershing Hall,Hotel_Pershing_Hall,d233740,100.0
+Paris,H tel Pont Royal,Hotel_Pont_Royal,d230489,100.0
+Paris,H tel Th r se,Hotel_R_de_Paris,d233583,100.0
+Paris,Best Western Premier Trocadero La Tour,Best_Western_Premier_Trocadero_La_Tour,d197462,100.0
+Paris,Le Relais M dicis,Hotel_Le_M,d648105,100.0
+Paris,Les Jardins De La Villa Spa,La_Villa_Paris,d646480,100.0
+Paris,Warwick Paris Former Warwick Champs Elysees ,Hotel_Elysees_Paris,d207659,100.0
+Paris,Napoleon Paris,Hotel_Napoleon_Paris,d197534,100.0
+London,Best Western Palm Hotel,Best_Western_Palm_Hotel,d1025762,100.0
+London,The Piccadilly London West End,The_Piccadilly_London_West_End,d193114,100.0
+London,Kingsway Hall Hotel,Kingsway_Hall_Hotel,d195220,100.0
+London,Mandarin Oriental Hyde Park London,Hyde_Park_Boutique_Hotel,d3904778,100.0
+London,Radisson Blu Edwardian Vanderbilt,Radisson_Blu_Edwardian_Vanderbilt,d192118,100.0
+London,Hotel Cafe Royal,Royal_London_Hotel,d2445225,100.0
+London,Grange Rochester Hotel,Grange_Rochester_Hotel,d224663,100.0
+London,Gainsborough Hotel,The_Gainsborough_Hotel,d192132,100.0
+London,Seraphine Kensington Gardens Hotel,Seraphine_London_Kensington_Gardens,d1575770,100.0
+London,Club Quarters Hotel Gracechurch,Club_Quarters_Hotel_Gracechurch,d193096,100.0
+London,Grange Blooms Hotel,Grange_Blooms_Hotel,d600130,100.0
+London,W12 Rooms,W12_Rooms,d4162136,100.0
+London,Shaftesbury Premier London Paddington,The_Paddington_Hotel,d267239,100.0
+London,Grange Wellington Hotel,The_Wellington_Hotel,d1153350,100.0
+London,Hotel Cavendish,Cavendish_Apartments,d250414,100.0
+London,Park Grand London Hyde Park,Grand_Royale_London_Hyde_Park,d218403,100.0
+London,Shaftesbury Metropolis London Hyde Park,Shaftesbury_Metropolis_London_Hyde_Park,d1182303,100.0
+London,The Exhibitionist Hotel,The_Exhibitionist_Hotel,d7171735,100.0
+London,Ten Manchester Street Hotel,No_Ten_Manchester_Street,d1166367,100.0
+London,Mercure London Hyde Park,Hyde_Park_Boutique_Hotel,d3904778,100.0
+London,London Bridge Hotel,Tower_Bridge_Superior_Apartments,d10354666,100.0
+London,The Beaumont Hotel,The_Beaumont,d6003130,100.0
+London,The Grand at Trafalgar Square,The_Grand_at_Trafalgar_Square,d677369,100.0
+London,Club Quarters Hotel Trafalgar Square,Club_Quarters_Hotel_Trafalgar_Square,d1477336,100.0
+London,The Laslett,The_Laslett,d3628648,100.0
+London,The Belgrave Hotel,Lower_Belgrave_Street_Apartments,d3335455,100.0
+London,Clayton Hotel Chiswick,Clayton_Hotel_Chiswick,d612797,100.0
+London,Park Plaza London Park Royal,Park_Plaza_London_Park_Royal,d11717496,100.0
+London,Avo Hotel,Avo_Hotel,d2031338,100.0
+London,Hotel 82 London,Studios_82,d2470975,100.0
+London,The Zetter Hotel,The_Zetter_Townhouse_Marylebone,d210070,100.0
+London,Grosvenor House Suites by Jumeirah Living,The_Grosvenor_Hotel,d218409,100.0
+London,88 Studios,88_Studios_Kensington,d10059493,100.0
+London,Adria Boutique Hotel,Adria_Hotel,d242989,100.0
+London,Sydney House Chelsea,London_House_Hotel,d243430,100.0
+London,Radisson Blu Edwardian Bloomsbury Street,Radisson_Blu_Edwardian_London_Bloomsbury_Street,d188029,100.0
+London,Hotel Moonlight,Hotel_Moonlight,d193076,100.0
+London,Thistle Hyde Park,Thistle_Hyde_Park,d187571,100.0
+London,DoubleTree by Hilton London West End,DoubleTree_by_Hilton_Hotel_London_West_End,d193102,100.0
+London,Holiday Inn London Kensington Forum,Holiday_Inn_London_Kensington_Forum,d193133,100.0
+London,DoubleTree by Hilton Hotel London Tower of London,DoubleTree_by_Hilton_Hotel_London_Tower_of_London,d1946018,100.0
+London,Novotel London Excel,Novotel_London_Excel,d291617,100.0
+London,Mercure London Bridge,London_Bridge_Hotel,d192044,100.0
+Vienna,K K Hotel Maria Theresia,K_K_Hotel_Maria_Theresia,d231985,100.0
+Vienna,Small Luxury Hotel Altstadt Vienna,Hotel_Altstadt_Vienna,d263905,100.0
+Vienna,Der Wilhelmshof,An_der_Wien,d528647,100.0
+Vienna,Hotel Daniel Vienna,Hotel_Daniel_Vienna,d2235223,100.0
+Vienna,Eurostars Embassy,Eurostars_Embassy_Hotel,d1107446,100.0
+Vienna,BEST WESTERN PLUS Amedia Wien,Best_Western_Plus_Amedia_Wien,d2435870,100.0
+Vienna,Mercure Grand Hotel Biedermeier Wien,Mercure_Grand_Hotel_Biedermeier_Wien,d192273,100.0
+Vienna,Hotel Topazz,Hotel_Topazz,d2554355,100.0
+Vienna,Hotel Kavalier,Novum_Hotel_Kavalier_Wien,d228050,100.0
+London,The Hoxton Shoreditch,Central_Hoxton_Shoreditch,d12173404,100.0
+London,The Cavendish London,Cavendish_Apartments,d250414,100.0
+London,Melia White House Hotel,The_White_House,d1393055,100.0
+London,The Capital,The_Capital_Hotel,d187990,100.0
+London,Megaro Hotel,The_Megaro_Hotel,d1026084,100.0
+London,Crowne Plaza London Battersea,Plaza_Hotel,d1453293,100.0
+London,Amba Hotel Marble Arch,Amba_Hotel_Marble_Arch,d193084,100.0
+London,Taj 51 Buckingham Gate Suites and Residences,The_Gate,d210363,100.0
+London,Jumeirah Carlton Tower,Carlton_Hotel,d192163,100.0
+London,Holiday Inn London Regent s Park,Holiday_Inn_London_Regent_s_Park,d224737,100.0
+London,The Connaught,Connaught_House_Hotel_London_ExCeL,d3365725,100.0
+Vienna,Hotel Schani Wien,Hotel_Schani_Salon,d234339,100.0
+Paris,H tel de Lille,Hotel_de_Lille,d194229,100.0
+Paris,H tel Concorde Montparnasse,Hotel_Concorde_Montparnasse,d483116,100.0
+Paris,Suites H tel Helzear Montparnasse,Suites_Hotel_Helzear_Montparnasse,d3297567,100.0
+Paris,Renaissance Paris Republique Hotel Spa,Renaissance_Paris_Republique_Hotel,d9761928,100.0
+Paris,Elys es R gencia,Hotel_R_de_Paris,d233583,100.0
+Paris,H tel De Sers Champs Elys es Paris,Hotel_de_Sers,d305850,100.0
+Paris,H tel R de Paris Boutique Hotel,Hotel_R_de_Paris,d233583,100.0
+Paris,Villa Panth on,La_Villa_Paris,d646480,100.0
+Paris,H tel Crayon Rouge by Elegancia,Hotel_Crayon_by_Elegancia,d235583,100.0
+Paris,Mercure Paris Opera Grands Boulevards,Hotel_des_Grands_Boulevards,d12995518,100.0
+Paris,Hotel Le Saint Gregoire,Hotel_Le_Saint_Gregoire,d188980,100.0
+Paris,Le Mathurin Hotel Spa,Le_Mathurin_Hotel_Spa_Paris,d488442,100.0
+Paris,H tel Saint Paul Rive Gauche,Hotel_Saint_Paul_Rive_Gauche,d197432,100.0
+Vienna,Palais Coburg Residenz,Palais_Coburg_Hotel_Residenz,d488395,100.0
+London,Holiday Inn London Bloomsbury,Holiday_Inn_London_Bloomsbury,d193648,100.0
+London,DoubleTree By Hilton London Excel,DoubleTree_by_Hilton_Hotel_London_ExCeL,d289306,100.0
+London,Millennium Copthorne Hotels at Chelsea Football Club,Millennium_Copthorne_Hotels_at_Chelsea_Football_Club,d279521,100.0
+London,Durrants Hotel,Durrants_Hotel,d193625,100.0
+London,The Cumberland A Guoman Hotel,The_Cumberland,d199113,100.0
+London,London Marriott Hotel Grosvenor Square,London_Marriott_Hotel_Grosvenor_Square,d193160,100.0
+London,Hilton London Green Park,Hilton_London_Green_Park,d193156,100.0
+London,COMO The Halkin,COMO_The_Halkin_London,d187994,100.0
+London,Four Seasons Hotel London at Park Lane,Four_Seasons_Hotel,d240245,100.0
+London,Hotel 55,Hotel_55,d617244,100.0
+London,Hilton London Kensington Hotel,Hilton_London_Kensington,d195185,100.0
+London,Radisson Blu Edwardian Kenilworth,Radisson_Blu_Edwardian_Kenilworth_Hotel,d192037,100.0
+London,The Lanesborough,The_Lanesborough,d187925,100.0
+London,De Vere Devonport House,London_House_Hotel,d243430,100.0
+London,Corus Hotel Hyde Park,Corus_Hotel_Hyde_Park_London,d195279,100.0
+London,London Elizabeth Hotel,London_Elizabeth_Hotel,d192073,100.0
+London,Lancaster London,Apartments_Inn_London_Lancaster,d12124996,100.0
+London,London Marriott Hotel County Hall,The_County_Hotel,d2393748,100.0
+London,Jumeirah Lowndes Hotel,Jumeirah_Lowndes_Hotel,d187736,100.0
+London,Aloft London Excel,Excel_Hotel,d7688353,100.0
+London,Grange City Hotel,Grange_City_Hotel,d224769,100.0
+Milan,Worldhotel Cristoforo Colombo,WORLDHOTEL_Cristoforo_Colombo,d229995,100.0
+Milan,IH Hotels Milano Puccini,IH_Hotels_Milano_Puccini,d233473,100.0
+Milan,Best Western Hotel City,Best_Western_Hotel_City,d202891,100.0
+London,Grosvenor House A JW Marriott Hotel,JW_Marriott_Grosvenor_House_London,d199144,100.0
+London,The Rookery,The_Rookery_Hotel,d188958,100.0
+London,Sheraton Grand London Park Lane,Sheraton_Grand_London_Park_Lane,d192067,100.0
+London,The Langham London,The_Langham_London,d187569,100.0
+London,The Ned,The_Ned,d12258692,100.0
+London,K West Hotel Spa,K_West_Hotel_Spa,d192086,100.0
+London,Crowne Plaza London Docklands,Plaza_Hotel,d1453293,100.0
+London,Sloane Square Hotel,The_Dome_Sloane_Square,d14990852,100.0
+London,Hilton London Canary Wharf,Hilton_London_Canary_Wharf,d585836,100.0
+London,The Stafford London,The_Stafford_London,d187570,100.0
+Vienna,City Rooms,City_Rooms_Hotel,d1005665,100.0
+Vienna,Mercure Vienna First,Mercure_Vienna_First,d7674973,100.0
+Vienna,Melia Vienna,Melia_Vienna,d5603740,100.0
+Vienna,Graben Hotel,Graben_Hotel,d228069,100.0
+Vienna,Austria Trend Hotel Lassalle Wien,Austria_Trend_Hotel_Lassalle,d206618,100.0
+Vienna,The Guesthouse Vienna,Guesthouse_Arabella,d1607088,100.0
+Vienna,Hotel Johann Strauss,Hotel_Johann_Strauss,d228062,100.0
+Vienna,FourSide Hotel Suites Vienna,FourSide_Hotel_Suites_Vienna,d1762083,100.0
+Vienna,Mercure Secession Wien,Mercure_Secession_Wien,d195234,100.0
+Vienna,City Hotel Deutschmeister,City_Hotel_Deutschmeister,d234592,100.0
+Vienna,FourSide Hotel Vienna City Center,FourSide_Hotel_City_Center_Vienna,d1772303,100.0
+Paris,Renaissance Paris Arc de Triomphe Hotel,Hotel_Arc_de_Triomphe,d622305,100.0
+Milan,IH Hotels Milano Ambasciatori,IH_Exclusive_Milano_Ambasciatori,d237332,100.0
+Milan,NH Collection Milano President,NH_Collection_Milano_President,d202857,100.0
+Milan,Hotel Dieci,Hotel_Dieci_Milano,d567556,100.0
+Milan,ME Milan Il Duca,ME_Milan_Il_Duca,d238252,100.0
+London,Crowne Plaza London Ealing,Plaza_Hotel,d1453293,100.0
+London,Park Plaza Westminster Bridge London,Plaza_Hotel,d1453293,100.0
+London,Hotel du Vin Cannizaro House Wimbledon,Wimbledon_Hotel,d1162959,100.0
+London,Thistle Trafalgar Square The Royal Trafalgar,Thistle_Trafalgar_Square_The_Royal_Trafalgar,d193111,100.0
+London,Corinthia Hotel London,Corinthia_Hotel_London,d1845678,100.0
+London,The Berkeley,Berkeley_Court,d199110,100.0
+London,Holiday Inn London Kensington,Holiday_Inn_London_Kensington_Forum,d193133,100.0
+Milan,Hotel VIU Milan,Hotel_VIU_Milan,d12199274,100.0
+Milan,Maison Borella,Hotel_Maison_Borella,d1650286,100.0
+Milan,Hotel Mercure Milano Centro,Mercure_Milano_Centro,d579504,100.0
+Milan,NYX Milan,NYX_Hotel_Milan,d12130410,100.0
+Milan,Hotel Sunflower,Hotel_Sunflower,d1638049,100.0
+Milan,Hotel Tocq,Hotel_Tocq,d229046,100.0
+Milan,Palazzo Parigi Hotel Grand Spa Milano,Palazzo_Parigi_Hotel_Grand_Spa,d4552883,100.0
+Milan,Hotel Lloyd,Lloyd_Hotel,d232931,100.0
+Milan,Hotel Galileo,Hotel_Galileo,d232924,100.0
+Milan,Carlyle Brera Hotel,Carlyle_Brera_Hotel,d204472,100.0
+Milan,Qualys Hotel Nasco,Hotel_Nasco,d297018,100.0
+Milan,Enterprise Hotel Design Boutique,Enterprise_Hotel,d232917,100.0
+Milan,Hotel Clerici,Hotel_Clerici,d9991673,100.0
+Milan,Hotel Pierre Milano,Hotel_Pierre_Milano,d202851,100.0
+Milan,MiHotel,MiHotel,d1627551,100.0
+Milan,Hotel Milano Scala,Hotel_Milano_Scala,d1735910,100.0
+Milan,IH Hotels Milano Gioia,IH_Hotels_Milano_Gioia,d596087,100.0
+Milan,Style Hotel,Style_Hotel,d2298126,100.0
+Milan,Hotel Bristol,Hotel_Bristol_Milan,d237285,100.0
+Milan,The Westin Palace,The_Westin_Palace_Milan,d230413,100.0
+Milan,Glam Milano,Glam_Hotel,d8638714,100.0
+Milan,Excelsior Hotel Gallia Luxury Collection Hotel,The_Luxury_Milano,d1889437,100.0
+Milan,Hotel Mozart,Hotel_Mozart,d229067,100.0
+Milan,Best Western Plus Hotel Galles,Best_Western_Plus_Hotel_Galles,d202890,100.0
+Paris,Novotel Suites Paris Expo Porte de Versailles,Hotel_Porte_de_Versailles,d529917,100.0
+Paris,K K H tel Cayr Saint Germain des Pr s,Hotel_Saint_Germain,d239626,100.0
+Paris,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,Monsieur_Cadet_Hotel_Spa,d313066,100.0
+Paris,H tel de La Tamise Esprit de France,Paris_France_Hotel,d290407,100.0
+Paris,Buddha Bar Hotel Paris,Buddha_Bar_Hotel_Paris,d4021853,100.0
+Paris,Holiday Inn Paris Notre Dame,Hotel_le_Notre_Dame,d302993,100.0
+Paris,Mercure Paris Opera Garnier,Mercure_Paris_Opera_Garnier,d256389,100.0
+Paris,Grand H tel Du Palais Royal,Grand_Hotel_de_Paris,d283883,100.0
+Paris,Renaissance Paris Vendome Hotel,Hotel_de_Vendome,d190671,100.0
+Paris,Hotel Park Lane Paris,Hotel_Park_Lane_Paris,d1176843,100.0
+Paris,Little Palace Hotel,Little_Palace_Hotel,d228719,100.0
+Paris,Hotel Saint Petersbourg Opera,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,H tel Champs lys es Plaza,Hotel_du_Lys,d219985,100.0
+Milan,Nu Hotel,NU_Hotel_Milano,d3135828,100.0
+Milan,Hotel Magna Pars Small Luxury Hotels of the World,The_Luxury_Milano,d1889437,100.0
+Milan,Mercure Milano Regency,Mercure_Milano_Regency,d202848,100.0
+Milan,Hotel Auriga,Hotel_Auriga,d202893,100.0
+Milan,Idea Hotel Milano San Siro,Idea_Hotel_Milano_San_Siro,d1035741,100.0
+Milan,Four Points Sheraton Milan Center,Four_Points_by_Sheraton_Milan_Center,d202858,100.0
+Milan,Four Seasons Hotel Milano,Four_Seasons_Hotel_Milano,d194346,100.0
+Milan,IH Hotels Milano Watt 13,IH_Hotels_Milano_Watt_13,d653459,100.0
+Milan,LaGare Hotel Milano Centrale MGallery by Sofitel,Hotel_Centrale,d8148146,100.0
+Milan,The Square Milano Duomo,Hotel_Boutique_Duomo,d10727205,100.0
+Milan,Art Hotel Navigli,Hotel_Milano_Navigli,d3237620,100.0
+Milan,Camperio House Suites Apartments,Camperio_House_Suites_Apartments,d1154421,100.0
+Milan,TownHouse 33,TownHouse_33,d1493893,100.0
+Milan,Hotel Capitol Milano,Hotel_Capitol_Milano,d228935,100.0
+Milan,Sina De La Ville,Sina_De_La_Ville,d202863,100.0
+Milan,Hotel La Spezia Gruppo MiniHotel,Hotel_La_Spezia_Gruppo_MiniHotel,d543554,100.0
+Milan,Best Western Hotel Ascot,Hotel_Ascot,d229994,100.0
+Milan,Ca Bianca Hotel Corte Del Naviglio,Ca_Bianca_Hotel_Corte_del_Naviglio,d237292,100.0
+Milan,IH Hotels Milano Lorenteggio,IH_Hotels_Milano_Lorenteggio,d202838,100.0
+Milan,Hilton Garden Inn Milan North,Hilton_Milan,d202853,100.0
+Milan,DoubleTree By Hilton Milan,Hilton_Milan,d202853,100.0
+Milan,Hilton Milan,Hilton_Milan,d202853,100.0
+Milan,Hotel Wagner,Wagner_Hotel,d237323,100.0
+Milan,Hotel Boutique Duomo,Hotel_Boutique_Duomo,d10727205,100.0
+Milan,Admiral Hotel,Admiral_Hotel,d232918,100.0
+Milan,Hotel Marconi,Marconi_Hotel,d204497,100.0
+Milan,Hotel Cavour,Hotel_Cavour,d202889,100.0
+Milan,Best Western Plus Hotel Felice Casati,Best_Western_Plus_Hotel_Felice_Casati,d227395,100.0
+Milan,Hotel Mentana,Mentana_Hotel,d237311,100.0
+Milan,Hotel Berna,Hotel_Berna,d229090,100.0
+Vienna,Gartenhotel Altmannsdorf Hotel 1,Gartenhotel_Altmannsdorf,d263907,100.0
+Vienna,Hotel Gallitzinberg,Hotel_Gallitzinberg,d1005782,100.0
+Vienna,Fleming s Selection Hotel Wien City,Fleming_s_Selection_Hotel_Wien_City,d1800792,100.0
+Vienna,Cordial Theaterhotel Wien,Cordial_Theaterhotel_Wien,d228042,100.0
+Vienna,Hollmann Beletage Design Boutique,Hollmann_Beletage_Design_Boutique_Hotel,d482579,100.0
+Vienna,Grand Hotel Wien,Vienna_Grand_Apartments_CITY,d12197295,100.0
+Vienna,Hotel Ambassador,Hotel_Ambassador,d285201,100.0
+Vienna,Austria Trend Hotel Astoria Wien,Austria_Trend_Hotel_Astoria,d206602,100.0
+Vienna,Austria Trend Hotel Europa Wien,Austria_Trend_Hotel_Europa_Wien,d206601,100.0
+Milan,Acca Palace,Acca_Palace,d1794773,100.0
+Milan,Hotel Silver,Hotel_Silver,d1109951,100.0
+Milan,Colombia,Hotel_Colombia,d570969,100.0
+Milan,Antares Hotel Rubens,Antares_Hotel_Rubens,d202874,100.0
+Milan,Sina The Gray,Sina_The_Gray,d275806,100.0
+Milan,Grand Hotel et de Milan,Grand_Hotel_et_de_Milan,d194973,100.0
+Milan,Hotel Mediolanum,Hotel_Mediolanum_Milan,d202568,100.0
+Milan,Hotel Carrobbio,Hotel_Carrobbio,d204473,100.0
+Milan,Crowne Plaza Milan City,Crowne_Plaza_Hotel_Milan_City,d1027179,100.0
+Milan,Leonardo Hotel Milan City Center,Leonardo_Hotel_Milan_City_Center,d229097,100.0
+Milan,Petit Palais Hotel De Charme,Hotel_Petit_Palais,d678542,100.0
+Milan,Mokinba Hotels Montebianco,Mokinba_Hotel_Montebianco,d202831,100.0
+Paris,Melia Paris Tour Eiffel,Melia_Paris_Tour_Eiffel,d197932,100.0
+Paris,Mercure Paris Porte De Versailles Expo,Hotel_Porte_de_Versailles,d529917,100.0
+Paris,Hotel Whistler,Hotel_Whistler,d321391,100.0
+Paris,Hotel Georgette,Hotel_Georgette,d239647,100.0
+Paris,Westside Arc de Triomphe Hotel,Hotel_Westside_Arc_de_Triomphe,d197503,100.0
+Paris,Etoile Saint Ferdinand,Hotel_Etoile_Saint_Ferdinand_by_HappyCulture,d197514,100.0
+Paris,H tel Saint Marc,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,H tel Le Walt,Hotel_Le_Walt,d290385,100.0
+Paris,Hotel Claridge Paris,Hotel_Claridge,d197533,100.0
+Paris,H tel L Echiquier Op ra Paris MGallery by Sofitel,L_Hotel,d480768,100.0
+Paris,H tel De Castiglione,Hotel_de_Castiglione,d228689,100.0
+Paris,Best Western Allegro Nation,Best_Western_Allegro_Nation,d229593,100.0
+Paris,Prince de Galles a Luxury Collection hotel Paris,Prince_de_Galles_a_Luxury_Collection_Hotel_Paris,d188492,100.0
+Milan,Hotel Da Vinci,Hotel_Leonardo_da_Vinci,d595146,100.0
+Milan,TownHouse Duomo,Hotel_Boutique_Duomo,d10727205,100.0
+Milan,Hotel Spadari Al Duomo,Hotel_Boutique_Duomo,d10727205,100.0
+Milan,Ramada Plaza Milano,Ramada_Plaza_Milano,d1764108,100.0
+Milan,NH Milano Touring,NH_Milano_Touring,d202856,100.0
+Milan,Best Western Atlantic Hotel,Best_Hotel,d312399,100.0
+Milan,LHP Hotel Napoleon,LHP_Hotel_Napoleon,d589507,100.0
+Milan,Ibis Styles Milano Palmanova,Hotel_Milano_Palmanova,d11619615,100.0
+Milan,Mokinba Hotels Baviera,Mokinba_Hotel_Baviera,d202873,100.0
+Milan,Hotel Vittoria,Hotel_Vittoria,d232932,100.0
+Milan,Bulgari Hotel Milano,Bulgari_Hotel_Milano,d313196,100.0
+Milan,Best Western Madison Hotel,Best_Hotel,d312399,100.0
+Milan,Klima Hotel Milano Fiere,Klima_Hotel_Milano_Fiere,d3455157,100.0
+Milan,ADI Doria Grand Hotel,Doria_Grand_Hotel,d202862,100.0
+Milan,Bianca Maria Palace Hotel,Bianca_Maria_Palace_Hotel,d8707389,100.0
+Milan,Hotel D Este,Hotel_D_Este,d238251,100.0
+Milan,Best Western Hotel Mirage,Hotel_Mirage_Sure_Hotel_Collection_by_Best_Western,d232916,100.0
+Milan,Hotel Raffaello,Hotel_Raffaello,d202836,100.0
+Milan,Antares Hotel Accademia,Antares_Hotel_Accademia,d233471,100.0
+Milan,Antica Locanda Dei Mercanti,Antica_Locanda_dei_Mercanti,d238707,100.0
+Milan,Palazzo Segreti,Palazzo_Segreti,d1870698,100.0
+Milan,Hotel Santa Marta Suites,Santa_Marta_Suites,d238576,100.0
+Milan,TH Street Duomo,Hotel_Boutique_Duomo,d10727205,100.0
+Milan,Hotel Manzoni,Hotel_Manzoni,d237329,100.0
+Milan,Senato Hotel Milano,Senato_Hotel_Milano,d8292445,100.0
+Milan,Baglioni Hotel Carlton The Leading Hotels of the World,Baglioni_Hotel_Carlton,d202876,100.0
+Milan,Best Western Hotel Major,Best_Western_Hotel_Major,d202840,100.0
+Milan,Hotel Lombardia,Hotel_Lombardia,d529146,100.0
+Milan,NH Milano Palazzo Moscova,NH_Milano_Palazzo_Moscova,d8442856,100.0
+Milan,Best Western Antares Hotel Concorde,Best_Hotel,d312399,100.0
+Milan,Best Western Hotel Astoria,Best_Western_Hotel_Astoria,d228990,100.0
+Milan,Hotel degli Arcimboldi,Hotel_degli_Arcimboldi,d6206532,100.0
+Milan,Novotel Milano Nord Ca Granda,Novotel_Milan_Nord_Ca_Granda,d204505,100.0
+Milan,Best Western Hotel St George,Best_Western_Hotel_St_George,d232914,100.0
+Paris,Monhotel Lounge SPA,MonHotel_Lounge_Spa,d284085,100.0
+Paris,Kube Hotel Ice Bar,Kube_Hotel,d582530,100.0
+Paris,Splendid Etoile,Splendid_Hotel,d654026,100.0
+Paris,Hotel Trianon Rive Gauche,Hotel_Trianon_Rive_Gauche,d228737,100.0
+Milan,Holiday Inn Milan Garibaldi Station,Holiday_Inn_Milan_Garibaldi_Station,d281811,100.0
+Milan,Milan Suite Hotel,Milan_Suite_Hotel,d1595360,100.0
+Paris,Le Metropolitan a Tribute Portfolio Hotel,Le_Metropolitan_a_Tribute_Portfolio_Hotel_Paris,d1236762,100.0
+Vienna,Rainers Hotel Vienna,Rainers_Hotel_Vienna,d1141013,100.0
+Vienna,Austria Trend Hotel Bosei Wien,Austria_Trend_Hotel_Bosei_Wien,d206620,100.0
+Vienna,Pertschy Palais Hotel,Pertschy_Palais_Hotel,d235700,100.0
+Vienna,Alma Boutique Hotel,Alma_Boutique_Hotel,d1191683,100.0
+Vienna,Hilton Vienna Danube Waterfront,Hilton_Vienna_Danube_Waterfront,d227146,100.0
+Vienna,The Harmonie Vienna,The_Harmonie_Vienna,d227177,100.0
+Vienna,Hotel Park Villa,Hotel_Park_Villa,d231968,100.0
+Vienna,Senator Hotel Vienna,Senator_Hotel_Vienna,d1164715,100.0
+Vienna,Steigenberger Hotel Herrenhof,Steigenberger_Hotel_Herrenhof_Wien,d1146177,100.0
+Vienna,Hilton Garden Inn Vienna South,Hilton_Garden_Inn_Vienna_South,d206600,100.0
+Vienna,Club Hotel Cortina,Club_Hotel_Cortina,d293608,100.0
+Vienna,Arion Cityhotel Vienna und Appartements,Arion_Cityhotel_Vienna,d206621,100.0
+Paris,H tel La Parizienne by Elegancia,Hotel_La_Parizienne_by_Elegancia,d529913,100.0
+Paris,Madeleine Plaza,Hotel_Madeleine_Plaza,d228835,100.0
+Paris,H tel D Aubusson,Hotel_d_Aubusson,d194308,100.0
+Paris,Hotel Oscar,Chez_Oscar_Appart_hotel_Champs_Elysees,d3372742,100.0
+Paris,Best Western Bretagne Montparnasse,Best_Western_Hotel_Le_Montparnasse,d197675,100.0
+Paris,Novotel Paris 17,Novotel_Paris_17,d259318,100.0
+Paris,H tel Amastan Paris,Amastan_Paris,d233791,100.0
+Paris,H tel Gustave,Hotel_Gustave,d289315,100.0
+Paris,Best Western Tour Eiffel Invalides,Hotel_de_la_Tour,d3937950,100.0
+Paris,L Hotel Pergol se Paris,L_Hotel,d480768,100.0
+Paris,Best Western Plus de Neuville Arc de Triomphe,Best_Western_Plus_de_Neuville_Arc_de_Triomphe,d197518,100.0
+Paris,Holiday Inn Paris Op ra Grands Boulevards,Hotel_des_Grands_Boulevards,d12995518,100.0
+Paris,Holiday Inn Paris Gare de Lyon Bastille,Hotel_Lyon_Bastille,d197489,100.0
+Paris,Novotel Suites Paris Nord 18 me,Hotel_Paris_Nord,d677508,100.0
+Paris,Pullman Paris Centre Bercy,Pullman_Paris_Centre_Bercy,d207838,100.0
+Paris,Gardette Park Hotel,Gardette_Park_Hotel,d2657435,100.0
+Paris,Hotel Panache,Hotel_Panache,d285254,100.0
+Paris,H tel des Ducs D Anjou,Des_Ducs_d_Anjou,d254714,100.0
+Paris,Hotel Scribe Paris Opera by Sofitel,Hotel_Scribe_Paris_Opera_by_Sofitel,d197577,100.0
+Paris,H tel Juliana Paris,Hotel_Juliana_Paris,d7593552,100.0
+Paris,Hotel L Antoine,Hotel_L_Antoine,d259315,100.0
+Paris,Belfast,Hotel_Belfast,d593228,100.0
+Paris,Mercure Paris Tour Eiffel Pont Mirabeau,Hotel_de_la_Tour,d3937950,100.0
+Paris,Hotel Le 10 BIS,Le_10_Bis_Hotel,d10296011,100.0
+Paris,Crowne Plaza Paris R publique,Hotel_R_de_Paris,d233583,100.0
+Paris,Millennium Hotel Paris Opera,Millennium_Hotel_Paris_Opera,d229600,100.0
+Paris,Waldorf Madeleine,Hotel_Waldorf_Madeleine,d207859,100.0
+Paris,H tel de Jos phine BONAPARTE,Hotel_Bonaparte,d235550,100.0
+Paris,Maison Souquet,Maison_Souquet,d7182695,100.0
+Paris,Hotel Tour d Auvergne Opera,Hotel_de_la_Tour,d3937950,100.0
+Paris,Le Senat,Hotel_le_Senat,d250387,100.0
+Paris,Windsor Opera,Hotel_Windsor_Opera,d197470,100.0
+Paris,Holiday Inn Paris Montparnasse Pasteur,Holiday_Inn_Paris_Montparnasse_Pasteur,d242972,100.0
+Paris,H tel Keppler,Hotel_Keppler,d235567,100.0
+Paris,Les Plumes Hotel,Les_Plumes_Hotel,d577658,100.0
+Paris,Hotel des Tuileries Relais du Silence,Hotel_Tuileries,d219987,100.0
+Paris,Le Parisis Paris Tour Eiffel,Le_Parisis_Paris_Tour_Eiffel,d207682,100.0
+Paris,L H tel,L_Hotel,d480768,100.0
+Paris,H tel Chaplain Paris Rive Gauche,Hotel_Chaplain,d194233,100.0
+Paris,H tel Regina Op ra Grands Boulevards,Hotel_des_Grands_Boulevards,d12995518,100.0
+Paris,Hotel Astor Saint Honor ,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,H tel Diva Opera,Hotel_Diva_Opera,d242963,100.0
+Paris,Le Marcel,Best_Western_Plus_Hotel_Litteraire_Marcel_Ayme,d258916,100.0
+Paris,H tel Le Marianne,Le_Marianne_Hotel,d7156343,100.0
+Paris,Hotel Eden,Hotel_Eden_Montmartre,d254594,100.0
+Paris,H tel de la Bourdonnais,Hotel_La_Bourdonnais,d233462,100.0
+Paris,Best Western Premier Marais Grands Boulevards,Hotel_des_Grands_Boulevards,d12995518,100.0
+Paris,Le Dokhan s a Tribute Portfolio Hotel,Le_Dokhan_s_a_Tribute_Portfolio_Hotel,d197455,100.0
+Paris,Le Relais Madeleine,Le_Relais_Madeleine,d1217451,100.0
+Paris,Terrass H tel Montmartre by MH,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Ritz Paris,Ritz_Paris,d188728,100.0
+Paris,Hotel Les Rives de Notre Dame,Les_Rives_De_Notre_Dame,d233770,100.0
+Paris,Sofitel Paris Le Faubourg,Le_Faubourg_Hotel,d229563,100.0
+Paris,Hotel La Lanterne,Hotel_La_Lanterne,d8711122,100.0
+Paris,H tel Square Louvois,Paris_Square,d10228834,100.0
+Paris,Hotel Marignan Champs Elys es,Hotel_Marignan,d263659,100.0
+Paris,Le Grey Hotel,Le_Grey_Hotel,d3400936,100.0
+Paris,Le Pavillon des Lettres,Le_Pavillon_des_Lettres,d1887131,100.0
+Paris,H tel San R gis,Hotel_R_de_Paris,d233583,100.0
+Paris,Hotel Louvre Montana,Hotel_Louvre_Montana,d207578,100.0
+Paris,Le 123 Elysees Astotel,Hotel_Elysees_Paris,d207659,100.0
+Paris,Best Western Mercedes Arc de Triomphe,Hotel_Arc_de_Triomphe,d622305,100.0
+Paris,1K Hotel,1K_Paris,d472236,100.0
+Paris,Le Belmont Champs Elys es,Le_Belmont_Hotel,d197959,100.0
+Paris,Duret,Hotel_Duret,d197458,100.0
+Paris,H tel Elysees Mermoz,Elysees_Mermoz_Hotel,d194269,100.0
+Paris,Majestic Hotel Spa,Majestic_Hotel_Spa_Paris,d1675589,100.0
+Paris,BoB Hotel by Elegancia,Bob_Hotel_Coworking_by_Elegancia,d12200451,100.0
+Paris,H tel Fabric,Hotel_Fabric,d4340356,100.0
+Paris,Hotel Les Bulles De Paris,Hotel_Les_Bulles_de_Paris,d238380,100.0
+Paris,Acad mie H tel Saint Germain,Hotel_Saint_Germain,d239626,100.0
+Paris,Plaza Tour Eiffel,Plaza_Tour_Eiffel,d228739,100.0
+Paris,H tel Recamier,Hotel_Recamier,d283118,100.0
+Paris,Royal Saint Michel,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,Hyatt Regency Paris Etoile,Hyatt_Regency_Paris_Etoile,d595754,100.0
+Paris,Nolinski Paris,Nolinski_Paris,d10410118,100.0
+Paris,Le Tourville Eiffel,Hotel_le_Tourville,d188746,100.0
+Paris,Idol Hotel,Idol_Hotel,d7225953,100.0
+Paris,Hotel de Seze,Hotel_de_Seze,d568940,100.0
+Paris,Le Marceau Bastille,Hotel_Paris_Bastille,d315149,100.0
+Paris,Hotel Odeon Saint Germain,Odeon_Hotel,d219979,100.0
+Paris,La Villa Haussmann,La_Villa_Haussmann,d11666465,100.0
+Paris,Sofitel Paris Arc De Triomphe,Hotel_Arc_de_Triomphe,d622305,100.0
+Paris,Hotel Mercure La Sorbonne Saint Germain des Pr s,Hotel_Saint_Germain,d239626,100.0
+Paris,La Tremoille Paris,Hotel_de_la_Tremoille,d228801,100.0
+Paris,Best Western Premier Louvre Saint Honor ,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,La Villa Maillot,La_Villa_Maillot,d207856,100.0
+Paris,Novotel Paris Centre Gare Montparnasse,Hotel_du_Centre,d3338551,100.0
+Paris,Villa d Estr es,La_Villa_Paris,d646480,100.0
+Paris,Pullman Paris Tour Eiffel,Hotel_de_la_Tour,d3937950,100.0
+Paris,Bassano,Hotel_Elysees_Bassano,d228733,100.0
+Paris,Best Western Premier Le Swann,Best_Western_Premier_Le_Swann,d197548,100.0
+Paris,H tel des Academies et des Arts,Hotel_des_Arts,d1095681,100.0
+Paris,Hotel Lumen Paris Louvre,Hotel_Lumen_Paris_Louvre,d656544,100.0
+Paris,Le Marquis Eiffel,Hotel_Le_Marquis,d290384,100.0
+Paris,COQ Hotel Paris,COQ_Hotel_Paris,d269117,100.0
+Paris,Legend Saint Germain by Elegancia,Hotel_Saint_Germain,d239626,100.0
+Paris,Au Manoir Saint Germain,Au_Manoir_Saint_Germain_Des_Pres,d207574,100.0
+Paris,Best Western S vres Montparnasse,Best_Western_Hotel_Le_Montparnasse,d197675,100.0
+Paris,Grand Hotel Saint Michel,Grand_Hotel_de_Paris,d283883,100.0
+Paris,Relais Du Louvre,Le_Relais_du_Louvre,d222914,100.0
+Paris,Pullman Paris Montparnasse,Pullman_Paris_Montparnasse_opening_March_2020,d228799,100.0
+Paris,Best Western Ducs de Bourgogne,Best_Western_Premier_Ducs_de_Bourgogne,d197557,100.0
+Paris,H tel Hor,Hotel_Hor,d3315563,100.0
+Paris,Best Western Op ra Batignolles,Hotel_des_Batignolles,d239642,100.0
+Paris,H tel de Banville,Hotel_de_Banville,d233745,100.0
+Paris,Villa Eugenie,Villa_Eugenie,d228730,100.0
+Paris,H tel Raphael,Hotel_Raphael,d189699,100.0
+Paris,Paris Marriott Rive Gauche Hotel,Paris_Marriott_Rive_Gauche_Hotel_Conference_Center,d197610,100.0
+Paris,Hotel Le Pera,Le_Pera,d207665,100.0
+Paris,H tel Bedford,Hotel_Bedford,d188981,100.0
+Paris,Drawing Hotel,Drawing_Hotel,d12100636,100.0
+Paris,Relais Saint Jacques,Relais_Saint_Jacques,d325719,100.0
+Paris,Hotel Cambon,Hotel_Cambon,d197419,100.0
+Paris,Mercure Paris Montmartre Sacr Coeur,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Les Matins de Paris Spa,Hotel_Les_Matins_de_Paris_Spa,d8140262,100.0
+Paris,Hotel Square,Paris_Square,d10228834,100.0
+Paris,Hotel Montalembert,Hotel_Montalembert,d188736,100.0
+Paris,H tel Mathis Elys es,Hotel_Mathis,d1440224,100.0
+Paris,Le Saint Hotel Paris,Hipotel_Paris_Bastille_Saint_Antoine,d10035747,100.0
+Paris,XO Hotel,XO_Hotel,d226967,100.0
+Paris,H tel Vernet,Hotel_Vernet,d194306,100.0
+Paris,Mandarin Oriental Paris,Mandarin_Oriental_Paris,d2041918,100.0
+Paris,Novotel Paris Vaugirard Montparnasse,Novotel_Paris_Vaugirard_Montparnasse,d197658,100.0
+Paris,Mercure Paris Arc de Triomphe Etoile,Mercure_Paris_Arc_de_Triomphe_Etoile,d197499,100.0
+Paris,Hotel Dupond Smith,Hotel_Dupond_Smith,d6617874,100.0
+Paris,Okko Hotels Paris Porte De Versailles,Okko_Hotels_Paris_Porte_de_Versailles,d12297633,100.0
+Paris,La Villa Royale,Villa_Royale,d240923,100.0
+Paris,Hotel Indigo Paris Opera,Hotel_Indigo_Paris_Opera,d6925750,100.0
+Paris,Villa Opera Drouot,Villa_Opera_Drouot,d207858,100.0
+Paris,Novotel Paris Gare De Lyon,Novotel_Paris_Gare_de_Lyon,d197486,100.0
+Paris,Hotel Bachaumont,Hotel_Bachaumont,d7776432,100.0
+Paris,Franklin Roosevelt,Hotel_Franklin_D_Roosevelt,d261990,100.0
+Paris,Best Western Paris Gare Saint Lazare,Best_Western_Paris_Gare_Saint_Lazare,d264984,100.0
+Paris,Splendide Royal Paris,Hotel_Splendide_Royal_Paris,d11724131,100.0
+Paris,Mercure Paris Alesia,Mercure_Paris_Alesia,d228828,100.0
+Paris,Le Narcisse Blanc Spa,Le_Narcisse_Blanc_Hotel_Spa,d9452312,100.0
+Paris,Mercure Paris Notre Dame Saint Germain des Pr s,Hotel_Saint_Germain,d239626,100.0
+Paris,Mercure Paris Centre Tour Eiffel,Hotel_du_Centre,d3338551,100.0
+Paris,Saint James Albany Paris Hotel Spa,Saint_James_Paris,d222913,100.0
+Paris,Mercure Paris Montparnasse Raspail,Raspail_Montparnasse_Hotel,d228756,100.0
+Paris,Golden Tulip Bercy Gare de Lyon 209,Le_209,d207565,100.0
+Paris,Montfleuri,Hotel_Montfleuri,d254324,100.0
+Paris,Mercure Paris Pigalle Sacre Coeur,Le_Pigalle,d197608,100.0
+Paris,Mercure Paris Terminus Nord,Hotel_Paris_Nord,d677508,100.0
+Paris,First Hotel Paris Tour Eiffel,Hotel_de_la_Tour,d3937950,100.0
+Paris,Villa Montparnasse,Villa_Montparnasse,d229575,100.0
+Paris,Royal Garden Champs Elysees,Hotel_Royal_Elysees,d197453,100.0
+Paris,H tel Brighton Esprit de France,Paris_France_Hotel,d290407,100.0
+Paris,H tel Paris Bastille Boutet MGallery by Sofitel,Hotel_Paris_Bastille,d315149,100.0
+Paris,L Edmond H tel,L_Edmond_Hotel_Paris,d2294996,100.0
+Paris,H tel France d Antin Op ra,Paris_France_Hotel,d290407,100.0
+Paris,H tel De Buci by MH,Hotel_De_Buci_by_MH,d233582,100.0
+Paris,Hotel Parc Saint Severin Esprit de France,Paris_France_Hotel,d290407,100.0
+Paris,H tel Belloy Saint Germain By Happyculture,Hotel_Belloy_Saint_Germain,d198026,100.0
+Paris,Hotel Louis 2,Hotel_Louis_2,d219999,100.0
+Paris,InterContinental Paris Le Grand,InterContinental_Paris_Le_Grand,d207742,100.0
+Paris,H tel Le M,Hotel_Le_M,d648105,100.0
+Paris,Platine Hotel Spa,Platine_Hotel,d2307354,100.0
+Paris,Forest Hill Paris la Villette,Hotel_Paris_Villette,d501173,100.0
+Paris,Le Pavillon de la Reine Spa,Le_Pavillon_de_la_Reine,d188738,100.0
+Paris,Le Roch Hotel Spa,Le_Roch_Hotel_Spa,d9993993,100.0
+Paris,Hotel du Petit Moulin,Hotel_Du_Moulin,d280089,100.0
+Paris,H tel La Comtesse by Elegancia,Hotel_La_Comtesse,d10159593,100.0
+Paris,Hotel La Villa Saint Germain Des Pr s,Hotel_La_Villa_Saint_Germain,d194310,100.0
+Paris,Grand Pigalle Hotel,Grand_Pigalle_Hotel,d1033073,100.0
+Paris,Hotel Duminy Vendome,Hotel_de_Vendome,d190671,100.0
+Paris,Hotel Chavanel,Hotel_Chavanel,d5289200,100.0
+Paris,Royal Saint Honore,Hotel_Royal_Saint_Honore,d197422,100.0
+Paris,Le Meurice,Le_Meurice,d188732,100.0
+Paris,Holiday Inn Paris Montmartre,Hotel_de_Paris_Montmartre,d1073909,100.0
+Paris,Hotel Pulitzer Paris,Hotel_Pulitzer_Paris,d197475,100.0
+Paris,Hotel Vignon,Hotel_Le_Vignon,d232532,100.0
+Paris,H tel Aiglon Esprit de France,Hotel_Aiglon_Esprit_de_France,d232541,100.0
+Paris,Hotel Elys es Bassano,Hotel_Bassano,d233743,100.0
+Paris,Hotel Opera Cadet,Opera_Cadet_Hotel,d197579,100.0
+Paris,H tel Beauchamps,Hotel_Beauchamps,d228858,100.0
+Paris,Best Western Nouvel Orl ans Montparnasse,Best_Western_Hotel_Le_Montparnasse,d197675,100.0
+Paris,Hotel Plaza Athenee Paris,Hotel_Plaza_Athenee,d188730,100.0
+Paris,Mercure Paris Place d Italie,Mercure_Paris_Gobelins_Place_d_Italie,d197559,100.0
+Paris,Le Lavoisier,Hotel_le_Lavoisier,d189799,100.0
+Paris,Vice Versa,Hotel_Vice_Versa,d3317600,100.0
+Paris,H tel Etoile Saint Honor by Happyculture,Le_Saint_Hotel_A_Paris,d648109,100.0
+Paris,Hotel Le petit Paris,Le_Petit_Cosy_Hotel,d1412172,100.0
+Paris,Mercure Paris 19 Philharmonie La Villette,Mercure_Paris_19_Philharmonie_La_Villette_Hotel,d228024,100.0
+Amsterdam,Pillows Anna van den Vondel Amsterdam,Pillows_Anna_van_den_Vondel,d196103,100.0
+Amsterdam,Best Western Delphi Hotel,Best_Western_Delphi_Hotel,d230902,100.0
+Amsterdam,Apollofirst Boutique Hotel,Apollofirst_Hotel,d232324,100.0
+Amsterdam,Hilton Amsterdam,DoubleTree_by_Hilton_Hotel_Amsterdam_Centraal_Station,d1946024,100.0
+Amsterdam,Apollo Hotel Amsterdam,Apollo_Hotel_Amsterdam_a_Tribute_Portfolio_Hotel,d1740219,100.0
+Amsterdam,Urban Lodge Hotel,Amsterdam_Lodge,d271439,100.0
+Amsterdam,Hotel De Hallen,Apartments_De_Hallen,d8154521,100.0
+Amsterdam,Chasse Hotel,Chasse_Hotel,d12239660,100.0
+Amsterdam,Park Plaza Victoria Amsterdam,Park_Hotel_Amsterdam,d230118,100.0
+Vienna,Hotel Pension Baron am Schottentor,Hotel_Pension_Schottentor,d1437283,100.0
+Vienna,Hotel Atlanta,Atlanta_Hotel,d228040,100.0
+Vienna,Park Inn by Radisson Uno City Vienna,Park_Inn_by_Radisson_Uno_City_Vienna,d206605,100.0
+Vienna,NH Danube City,NH_Wien_City,d231972,100.0
+Vienna,Simm s Hotel,Simm_s_Hotel,d3595877,100.0
+Vienna,Hotel Royal,Royal_Living_Apartments_Vienna,d1492590,100.0
+Vienna,AZIMUT Hotel Vienna,AZIMUT_Hotel_Vienna,d601264,100.0
+Vienna,DO CO Hotel Vienna,DO_CO_Hotel_Vienna,d607878,100.0
+Vienna,Hotel Am Stephansplatz,Boutique_Hotel_am_Stephansplatz,d228035,100.0
+Vienna,Best Western Hotel Pension Arenberg Wien Zentrum,Arenberg_Boutique_Hotel_Zentrum,d227169,100.0
+Vienna,Hotel Das Tigra,Hotel_Das_Tigra,d227170,100.0
+Vienna,Courtyard by Marriott Vienna Prater Messe,Courtyard_by_Marriott_Vienna_Prater_Messe,d1100824,100.0
+Vienna,Imperial Riding School Renaissance Vienna Hotel,Renaissance_Wien_Hotel,d229406,100.0
+Vienna,Aparthotel Adagio Vienna City,Adagio_Vienna_City,d1484675,100.0
+Vienna,Hotel Amadeus,Arthotel_ANA_Amadeus,d206629,100.0
+Amsterdam,Hotel Arena,EasyHotel_Amsterdam_Arena_Boulevard,d11672276,100.0
+Vienna,Hotel Landhaus Fuhrgassl Huber,Landhaus_Fuhrgasslhuber,d6109546,97.87234042553192
+Paris,Best Western Premier Kapital Op ra,Best_Western_Premier_Kapital_Opera,d8707934,97.05882352941177
+Paris,Trinit Haussmann,Hotel_Trinite_Haussmann,d197589,96.96969696969697
+Paris,Best Western Premier Op ra Opal,Best_Western_Premier_Opera_Opal,d219997,96.7741935483871
+Paris,Timhotel Op ra Grands Magasins,Timhotel_Opera_Grands_Magasins,d313070,96.66666666666667
+Barcelona,Evenia Rossello,Evenia_Rosello,d289345,96.55172413793103
+Barcelona,NH Collection Barcelona Gran Hotel Calder n,NH_Collection_Barcelona_Gran_Hotel_Calderon,d206921,96.29629629629629
+Paris,Radisson Blu Champs Elys es Paris,Radisson_Blu_Hotel_Champs_Elysees_Paris,d239280,96.29629629629629
+Paris,Best Western Aulivia Op ra,Best_Western_Aulivia_Opera,d198153,96.15384615384616
+Barcelona,Barcel Raval,Barcelo_Raval,d1083206,96.0
+Paris,Bradford Elys es Astotel,Hotel_Bradford_Elysees_Astotel,d197946,95.83333333333333
+Paris,Amarante Champs Elys es,Amarante_Champs_Elysees,d229534,95.65217391304348
+Barcelona,Melia Barcelona Sarri ,Melia_Barcelona_Sarria,d229680,95.65217391304348
+Paris,Mercure Paris Champs Elys es,Mercure_Paris_Champs_Elysees,d228711,95.45454545454545
+London,Mimi s Hotel Soho,Mimis_Hotel_Soho,d11962965,95.23809523809524
+Paris,La Maison Champs Elys es,La_Maison_Champs_Elysees,d197537,95.23809523809524
+Paris,Atala Champs Elys es,Hotel_Atala_Champs_Elysees,d228788,95.0
+Paris,Melia Paris Champs Elys es,Melia_Paris_Champs_Elysees,d228847,95.0
+Paris,Royal Hotel Champs Elys es,Royal_Hotel_Paris_Champs_Elysees,d229615,95.0
+Barcelona,Ako Suites Hotel,Ako_Suite_Hotel,d2278972,94.73684210526315
+Paris,Holiday Inn Paris Elys es,Holiday_Inn_Paris_Elysees,d228022,94.73684210526315
+Paris,Maison Albar Hotel Paris C line,Maison_Albar_Hotels_Le_Celine,d11869269,94.73684210526315
+London,W London Leicester Square,Hotel_Indigo_London_1_Leicester_Square,d13945253,94.11764705882354
+Paris,Chambiges Elys es,Chambiges_Elysees_Hotel,d267101,94.11764705882354
+Vienna,25hours Hotel beim MuseumsQuartier,25hours_Hotel_at_MuseumsQuartier,d2062229,93.87755102040816
+Paris,Hotel Op ra Richepanse,Hotel_Opera_Richepanse,d197423,93.75
+Paris,Best Western Plus Elys e Secret,Best_Western_Plus_Elysee_Secret,d2301962,93.54838709677419
+Barcelona,Hotel Vilamar ,Hotel_Vilamari,d265742,93.33333333333333
+Paris,H tel Bourgogne Montana by MH,Bourgogne_et_Montana_Hotel_by_MH,d229526,93.02325581395348
+London,St James Hotel Club Mayfair,St_James_s_Hotel_and_Club,d224761,92.85714285714286
+Vienna,Derag Livinghotel Kaiser Franz Joseph Vienna,Living_Hotel_Kaiser_Franz_Joseph_by_Derag,d229559,92.7536231884058
+Vienna,Hotel Zeitgeist Vienna Hauptbahnhof,A_o_Wien_Hauptbahnhof,d4013115,92.3076923076923
+Paris,Hotel Plaza Elys es,Hotel_Plaza_Elysees,d197964,92.3076923076923
+Milan,Hotel Crivi s,Crivis_Hotel,d229065,92.3076923076923
+Paris,Hotel Royal Elys es,Hotel_Royal_Elysees,d197453,92.3076923076923
+Paris,Op ra Marigny,Hotel_Opera_Marigny,d638136,92.3076923076923
+Barcelona,Roger de Ll ria,Hotel_Roger_De_Lluria,d232774,91.66666666666667
+Amsterdam,Grand Hotel Amr th Amsterdam,Grand_Hotel_Amrath_Amsterdam,d618996,91.66666666666667
+Vienna,Schlosshotel R mischer Kaiser,Schlosshotel_Roemischer_Kaiser,d227173,91.52542372881356
+London,Intercontinental London The O2,InterContinental_London_Park_Lane,d195205,91.42857142857143
+London,Milestone Hotel Kensington,K_Hotel_Kensington,d192155,90.9090909090909
+Paris,Maxim Op ra,Hotel_Maxim_Opera,d197580,90.9090909090909
+London,NH London Kensington,K_Hotel_Kensington,d192155,90.9090909090909
+London,Hotel Indigo London Kensington,K_Hotel_Kensington,d192155,90.9090909090909
+London,Rydges Kensington Hotel,K_Hotel_Kensington,d192155,90.9090909090909
+London,The RE London Shoreditch,The_Z_Hotel_Shoreditch,d7796230,90.9090909090909
+London,Ace Hotel London Shoreditch,The_Z_Hotel_Shoreditch,d7796230,90.9090909090909
+London,Copthorne Tara Hotel London Kensington,K_Hotel_Kensington,d192155,90.9090909090909
+London,Mercure London Kensington Hotel,K_Hotel_Kensington,d192155,90.9090909090909
+London,citizenM London Shoreditch,The_Z_Hotel_Shoreditch,d7796230,90.9090909090909
+Paris,Holiday Inn Paris Gare Montparnasse,Holiday_Inn_Paris_Montparnasse_Pasteur,d242972,90.56603773584905
+Vienna,Falkensteiner Hotel Wien Zentrum Schottenfeld,Hotel_Am_Schottenfeld,d278244,88.88888888888889
+Barcelona,Hotel mbit Barcelona,Hotel_Ambit_Barcelona,d8294502,88.88888888888889
+Milan,Hotel Portello Gruppo Minihotel,Hotel_Portello_Gruppo_Mini_Hotel,d231272,88.88888888888889
+Paris,Mercure Paris Gare Montparnasse,Mercure_Paris_Montparnasse_Raspail,d233796,88.88888888888889
+Amsterdam,Swiss tel Amsterdam,Swissotel_Amsterdam,d232502,88.88888888888889
+Amsterdam,Golden Tulip Amsterdam Riverside,Tulip_Inn_Amsterdam_Riverside,d230104,88.23529411764706
+London,Strand Palace Hotel,Astra_Palace,d2042027,88.0
+London,DoubleTree by Hilton London Chelsea,DoubleTree_by_Hilton_Hotel_London_ExCeL,d289306,87.5
+Barcelona,Le M ridien Barcelona,Le_Meridien_Barcelona,d229679,87.5
+Barcelona,Eurostars Cristal Palace,Exe_Cristal_Palace,d206937,87.5
+Paris,Best Western Premier Op ra Li ge,Best_Western_Premier_Opera_Liege,d8663974,87.5
+Paris,Suites H tel Helzear Champs Elys es,Suites_Hotel_Helzear_Champs_Elysees,d4341204,87.5
+London,Hotel Xenia Autograph Collection,St_Ermin_s_Hotel_Autograph_Collection,d248802,86.95652173913044
+London,Mayflower Hotel Apartments,E2_Apartments,d3161860,86.95652173913044
+Paris,H tel Horset Op ra Best Western Premier Collection,Best_Western_Premier_Le_Swann,d197548,86.95652173913044
+Vienna,Austria Trend Parkhotel Sch nbrunn Wien,Austria_Trend_Hotel_Zoo_Wien,d607415,86.66666666666667
+Vienna,Austria Trend Hotel Ananas Wien,Austria_Trend_Hotel_Zoo_Wien,d607415,86.66666666666667
+Vienna,Austria Trend Hotel Savoyen Vienna,Austria_Trend_Hotel_Zoo_Wien,d607415,86.66666666666667
+London,DoubleTree by Hilton London Ealing,Doubletree_by_Hilton_London_Islington,d192030,86.27450980392157
+London,Radisson Blu Edwardian Hampshire,Radisson_Blu_Edwardian_Sussex_Hotel,d195282,86.27450980392157
+London,Radisson Blu Edwardian Berkshire,Radisson_Blu_Edwardian_Sussex_Hotel,d195282,86.27450980392157
+Vienna,K K Palais Hotel,Radisson_Blu_Palais_Hotel_Vienna,d191405,85.71428571428571
+Amsterdam,Hotel Esther a,Hotel_Estherea,d229151,85.71428571428571
+Paris,Hotel Maison Ath n e,Maison_Athenee,d240919,85.71428571428571
+Milan,UNA Hotel Mediterraneo,UNAHOTELS_Mediterraneo_Milano,d202834,85.71428571428571
+Vienna,Arthotel ANA Prime,Arthotel_ANA_Boutique_Six,d2715529,85.71428571428571
+Paris,Hotel Champs Elys es Friedland by Happyculture,Hotel_Ohm_by_Happyculture,d233579,85.71428571428571
+Paris,Le 7 Eiffel Hotel,Hotel_Alyss_Saphir_Cambronne_Eiffel,d1192614,85.71428571428571
+Paris,H tel Jos phine by Happyculture,Hotel_Ohm_by_Happyculture,d233579,85.71428571428571
+Vienna,NH Wien Belvedere,Belvedere_Appartements,d593458,85.71428571428571
+Barcelona,Sall s Hotel Pere IV,Salles_Hotel_Pere_IV,d280922,85.71428571428571
+Amsterdam,NH Collection Amsterdam Barbizon Palace,Palace_B_B,d595682,85.71428571428571
+Milan,TownHouse 12,TownHouse_33,d1493893,85.71428571428571
+Milan,TownHouse Galleria,TownHouse_33,d1493893,85.71428571428571
+Paris,H tel Lancaster Paris Champs Elys es,Hotel_Lancaster_Paris_Champs_Elysees,d188735,85.18518518518519
+London,Doubletree By Hilton London Greenwich,DoubleTree_by_Hilton_Hotel_London_Tower_of_London,d1946018,85.0
+London,DoubleTree by Hilton London Docklands Riverside,DoubleTree_by_Hilton_Hotel_London_Tower_of_London,d1946018,85.0
+Milan,Hotel Tiziano Park Vita Parcour Gruppo MiniHotels,Hotel_Tiziano_Gruppo_Mini_Hotel,d237324,84.84848484848484
+London,Best Western Plus Seraphine Hammersmith Hotel,Hammersmith_One,d6632218,84.61538461538461
+Paris,Garden Elys e,Garden_Elysee_Hotel,d197914,84.61538461538461
+Milan,UNA Hotel Scandinavia,UNAHOTELS_Scandinavia_Milano,d202865,84.61538461538461
+London,Hilton London Angel Islington,Doubletree_by_Hilton_London_Islington,d192030,84.21052631578948
+Paris,H tel Cristal Champs Elys es,Cristal_Champs_Elysees,d1470781,84.0
+London,Novotel London Waterloo,London_Waterloo_Hostel,d263678,83.87096774193549
+Paris,Hotel Le Squara,Paris_Square,d10228834,83.33333333333333
+Barcelona,Hotel Bagu s,Hotel_Bagues,d1931533,83.33333333333333
+Paris,Amp re,Hotel_Ampere_Paris,d251733,83.33333333333333
+London,St Pancras Renaissance Hotel London,YHA_London_St_Pancras,d209177,83.33333333333333
+Amsterdam,Golden Tulip Amsterdam West,Tulip_of_Amsterdam_B_B,d3161462,83.33333333333333
+London,BEST WESTERN Maitrise Hotel Maida Vale,Best_Western_Palm_Hotel,d1025762,82.75862068965517
+London,Best Western PLUS Epping Forest,Best_Western_Palm_Hotel,d1025762,82.75862068965517
+Amsterdam,Best Western Plus Hotel Blue Square,Best_Western_Dam_Square_Inn,d230123,82.6086956521739
+Paris,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,Maison_Albar_Hotels_Le_Champs_Elysees,d197501,82.6086956521739
+London,The Chelsea Harbour Hotel,My_Chelsea,d265988,82.35294117647058
+Paris,Edouard 7 Paris Op ra,Hotel_Edouard_VI,d197662,82.35294117647058
+Paris,Novotel Paris 14 Porte d Orl ans,Novotel_Paris_17,d259318,82.35294117647058
+Paris,Novotel Suites Paris Montreuil Vincennes,Novotel_Paris_17,d259318,82.35294117647058
+London,Novotel London Canary Wharf,Native_Canary_Wharf,d3670174,82.05128205128204
+Barcelona,Catalonia Magdalenes,Hotel_Catalonia_Barcelona_505,d228572,81.81818181818181
+Barcelona,Catalonia Port,Hotel_Catalonia_Barcelona_505,d228572,81.81818181818181
+Barcelona,Catalonia Passeig de Gr cia 4 Sup,Hotel_Catalonia_Barcelona_505,d228572,81.81818181818181
+Barcelona,Catalonia Eixample 1864,Hotel_Catalonia_Barcelona_505,d228572,81.81818181818181
+Barcelona,Catalonia Born,Hotel_Catalonia_Barcelona_505,d228572,81.81818181818181
+London,Holiday Inn London Wembley,Holiday_Inn_London_West,d313125,81.48148148148148
+London,Holiday Inn London Oxford Circus,Holiday_Inn_London_West,d313125,81.48148148148148
+London,Holiday Inn London Brent Cross,Holiday_Inn_London_West,d313125,81.48148148148148
+Barcelona,Aparthotel Atenea Barcelona,Aparthotel_Arai,d3971172,81.25
+London,Hallmark Hotel London Chigwell Prince Regent,Prince_Regent_Hotel_Excel_London,d2554307,81.25
+Paris,Hotel Astra Opera Astotel,Hotel_Caumartin_Opera_Astotel,d228778,81.25
+Paris,Eiffel Trocad ro,Hotel_Eiffel_Trocadero,d229582,81.25
+Paris,H tel Barri re Le Fouquet s,Hotel_Barriere_Le_Fouquet_s_Paris,d188742,80.95238095238095
+Paris,H tel des Champs Elys es,Melia_Paris_Champs_Elysees,d228847,80.0
+Paris,Maison Albar Hotel Paris Op ra Diamond,Maison_FL,d229601,80.0
+London,Hilton London Euston,Hilton_London_Kensington,d195185,80.0
+Paris,Hotel Les Th tres,Hotel_Les_Theatres,d1546111,80.0
+Barcelona,Hotel Palace GL,Hotel_El_Avenida_Palace,d206936,80.0
+Barcelona,Barcel Sants,AC_Hotel_Sants,d1176318,80.0
+Vienna,Hotel Mercure Wien City,Mercure_Vienna_First,d7674973,80.0
+Milan,Hotel Romana Residence,Residence_Pola,d7721247,80.0
+London,The May Fair Hotel,Fairway_Hotel,d243180,80.0
+Vienna,Atlantis Hotel Vienna,Atlanta_Hotel,d228040,80.0
+London,Novotel London City South,The_Z_Hotel_City,d9608180,80.0
+Paris,La Maison Favart,Maison_FL,d229601,80.0
+London,Apex City Of London Hotel,The_Z_Hotel_City,d9608180,80.0
+Paris,Molitor Paris MGallery by Sofitel,Hotel_L_Echiquier_Opera_Paris_MGallery_by_Sofitel,d207686,80.0
+Vienna,Radisson Blu Style Hotel Vienna,Radisson_Blu_Palais_Hotel_Vienna,d191405,80.0
+Paris,H tel Ad le Jules,Hotel_Adele_Jules,d280085,80.0
+Paris,Balmoral Champs Elys es,Hotel_Atala_Champs_Elysees,d228788,79.06976744186046
+London,Club Quarters Hotel Lincoln s Inn Fields,Club_Quarters_Hotel_St_Paul_s,d239656,78.94736842105263
+Barcelona,NH Collection Barcelona Constanza,NH_Collection_Barcelona_Podium,d206920,78.78787878787878
+Amsterdam,NH Collection Amsterdam Doelen,NH_Collection_Amsterdam_Flower_Market,d229123,78.78787878787878
+Paris,The Westin Paris Vend me,The_Westin_Paris_Vendome,d587294,78.57142857142857
+Milan,UNA Hotel Century,UNAHOTELS_Century_Milano,d202888,78.57142857142857
+London,Threadneedles Autograph Collection,St_Ermin_s_Hotel_Autograph_Collection,d248802,78.43137254901961
+Paris,Mercure Paris Gare De Lyon TGV,Hotel_du_Midi_Gare_de_Lyon,d1777134,78.26086956521739
+London,London Marriott Hotel Park Lane,Park_Lane_Mews_Hotel,d193159,78.26086956521739
+London,Grange Fitzrovia Hotel,SACO_Fitzrovia,d12375002,78.26086956521739
+Paris,H tel F licien by Elegancia,Snob_Hotel_by_Elegancia,d11725503,78.26086956521739
+Paris,Hidden Hotel by Elegancia,Snob_Hotel_by_Elegancia,d11725503,78.26086956521739
+Milan,Atahotel Contessa Jolanda,Contessa_Jolanda_Hotel_Residence_Milano,d320669,78.04878048780488
+London,Dorsett Shepherds Bush,St_Christopher_s_Inn_Shepherds_Bush,d282818,77.77777777777777
+Amsterdam,NH Amsterdam Museum Quarter,Hotel_Old_Quarter,d295881,77.77777777777777
+London,The Mandeville Hotel,Melville_Hotel,d569844,77.77777777777777
+Barcelona,Senator Barcelona Spa Hotel,Aparthotel_Senator_Barcelona,d239524,77.77777777777777
+Amsterdam,Best Western Blue Tower Hotel,Best_Western_Delphi_Hotel,d230902,77.41935483870968
+London,Boundary Rooms Suites,Simply_Rooms_Suites,d1775247,77.41935483870968
+Amsterdam,Best Western Premier Hotel Couture,Best_Western_Delphi_Hotel,d230902,77.41935483870968
+Vienna,The Ritz Carlton Vienna,Carlton_Suites,d585355,76.92307692307692
+Milan,Grand Visconti Palace,Grand_Hotel_et_de_Milan,d194973,76.92307692307692
+Milan,Hotel Liberty,Albert_Hotel,d237289,76.92307692307692
+Milan,UNA Hotel Cusani,UNAHOTELS_Cusani_Milano,d229103,76.92307692307692
+Milan,Rosa Grand Milano Starhotels Collezione,Grand_Hotel_et_de_Milan,d194973,76.92307692307692
+Milan,NH Milano Grand Hotel Verdi,Grand_Hotel_et_de_Milan,d194973,76.92307692307692
+London,every hotel Piccadilly,The_Piccadilly_London_West_End,d193114,76.92307692307692
+Paris,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,Hotel_Stendhal_Place_Vendome_Paris_MGallery_Collection,d197467,76.54320987654322
+London,Hotel Indigo London Tower Hill,Native_Tower_Hill,d288877,76.47058823529412
+Barcelona,Eurohotel Diagonal Port,Casa_Diagonal,d2042284,76.19047619047619
+Paris,Mercure Paris Porte d Orleans,Hotel_Mercure_Paris_15_Porte_de_Versailles,d197665,76.0
+Vienna,IntercityHotel Wien,Arion_Cityhotel_Vienna,d206621,75.86206896551724
+Paris,H tel Victor Hugo Paris Kl ber,Hotel_Victor_Hugo_Paris_Kleber,d207571,75.86206896551724
+Vienna,Courtyard by Marriott Vienna Schoenbrunn,Courtyard_by_Marriott_Vienna_Prater_Messe,d1100824,75.0
+Barcelona,Ayre Hotel Gran V a,Amra_Barcelona_Gran_Via,d7234979,75.0
+Vienna,The Levante Parliament A Design Hotel,Vox_Design_Hotel,d2067260,75.0
+Paris,Hotel du Louvre in the Unbound Collection by Hyatt,Bvj_Paris_Louvre,d308515,75.0
+Amsterdam,InterContinental Amstel Amsterdam,Bij_de_Amstel,d1206976,75.0
+Vienna,Hotel Rathaus Wein Design,Vox_Design_Hotel,d2067260,75.0
+Barcelona,Eurostars Monumental,Eurostars_Angli,d596514,75.0
+Barcelona,Hotel Serhs Rivoli Rambla,Hotel_Arc_La_Rambla,d232778,75.0
+Milan,UNA Maison Milano,Hotel_Maison_Borella,d1650286,75.0
+Milan,Novotel Milano Linate Aeroporto,Bed_Milano_Linate,d10129176,75.0
+Barcelona,Vincci Bit,Vincci_Mae,d10902390,75.0
+Paris,H tel Duc De St Simon,Hotel_Duc_de_Saint_Simon,d188737,75.0
+Paris,Relais Christine,Relais_du_Pre,d197606,75.0
+Paris,Hilton Paris Opera,Hotel_Helios_Opera,d295557,75.0
+Paris,Hotel Design Secret de Paris,BLC_Design_Hotel,d1557727,75.0
+Barcelona,Vincci Maritimo,Vincci_Mae,d10902390,75.0
+Vienna,Hotel Mercure Wien Westbahnhof,Motel_One_Wien_Westbahnhof,d2302949,75.0
+Barcelona,Abba Garden,Hotel_Gracia_Garden,d13821191,75.0
+London,London Marriott Maida Vale,Maida_Vale_Aparthotel,d650536,75.0
+Amsterdam,Mercure Hotel Amsterdam West,Mercure_Hotel_Amsterdam_City,d230114,75.0
+London,Radisson Blu Portman Hotel London,Radisson_Blu_Edwardian_London_Bloomsbury_Street,d188029,75.0
+Paris,Hotel Sezz Paris,Hotel_de_Suez,d506713,75.0
+London,The Westbury A Luxury Collection Hotel Mayfair London,The_Luxury_Inn,d1191457,75.0
+London,The Savoy,Avo_Hotel,d2031338,75.0
+London,The Westbridge Hotel,London_Bridge_Hotel,d192044,75.0
+Barcelona,Alexandra Barcelona A DoubleTree by Hilton,Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton,d228648,74.4186046511628
+Vienna,Hotel Mailberger Hof,Hotel_Mailbergerhof,d237852,74.07407407407408
+London,Novotel London Wembley,Novotel_London_West,d193672,74.07407407407408
+Paris,Le 123 S bastopol Astotel,Hotel_Palm_Astotel,d232480,73.6842105263158
+Paris,H tel Le Royal Monceau Raffles Paris,Cosy_Monceau,d269268,73.6842105263158
+Milan,Mokinba Hotels King,Mokinba_Hotel_Montebianco,d202831,73.6842105263158
+London,Novotel London Greenwich,Novotel_London_West,d193672,73.6842105263158
+London,Le Meridien Piccadilly,The_Piccadilly_London_West_End,d193114,73.6842105263158
+London,Clayton Crown Hotel London,Clayton_Hotel_City_of_London,d15243736,73.6842105263158
+Vienna,Hotel City Central,Do_Step_Inn_Central,d12902027,73.6842105263158
+Vienna,Hotel Parco di Sch nbrunn Vienna,Parco_di_Schonbrunn_OG,d1054827,73.17073170731707
+London,London Marriott Hotel Regents Park,Regents_Park_Residence,d1464845,72.72727272727272
+Milan,Atahotel Linea Uno,Atahotels_Fiera,d228982,72.72727272727272
+Paris,Le Littr ,Hotel_Little,d233463,72.72727272727272
+Barcelona,NH Hesperia Barcelona Presidente,Hesperia_Barcelona_Tower,d630596,72.72727272727272
+Paris,Select Hotel,Sweet_Hotel_Paris,d2542764,72.72727272727272
+Paris,Hotel le Lapin Blanc,Hotel_Lilas_Blanc,d1179143,72.72727272727272
+Barcelona,Hotel Casa Camper,Casa_Balmes,d6868641,72.72727272727272
+Vienna,Holiday Inn Vienna City,NH_Wien_City,d231972,72.72727272727272
+Amsterdam,NH Amsterdam Zuid,Bed_and_Breakfast_Zuid_Oost_Heesterveld,d10832008,72.72727272727272
+Paris,Seven Hotel,Hotel_de_Sevres,d631256,72.72727272727272
+Paris,H tel Regina,Hotel_Little_Regina,d567401,72.0
+Amsterdam,citizenM Amsterdam,Citiez_Hotel_Amsterdam,d10264789,71.42857142857143
+London,Mondrian London,Morgan_Hotel,d209143,71.42857142857143
+Barcelona,H10 Itaca,Itaca_Hostel,d288479,71.42857142857143
+Milan,Hotel Manin,Hotel_La_Madonnina,d4698956,71.42857142857143
+Paris,Hotel Eug ne en Ville,Villa_Eugenie,d228730,71.42857142857143
+London,Millennium Hotel London Mayfair,Millennium_Gloucester_Hotel_London_Kensington,d193125,71.42857142857143
+Barcelona,Cotton House Hotel Autograph Collection,Arc_House,d7394666,71.42857142857143
+Paris,Paris Marriott Opera Ambassador Hotel,New_Hotel_Opera,d1065159,71.42857142857143
+London,The Goring,Georgian_Hotel,d254565,71.42857142857143
+Vienna,Mercure Josefshof Wien,Mercure_Secession_Wien,d195234,70.58823529411765
+Paris,H tel Les Dames du Panth on,Hotel_les_Dames_du_Pantheon,d233747,70.58823529411765
+Paris,Four Seasons Hotel George V Paris,Hotel_George_Sand,d611700,70.58823529411765
+Barcelona,Condes de Barcelona,Hotel_Condestable,d263716,70.58823529411765
+Milan,Uptown Palace,Acca_Palace,d1794773,70.58823529411765
+Milan,Starhotels Business Palace,Acca_Palace,d1794773,70.58823529411765
+Paris,Hotel Atmospheres,Hotel_Ampere_Paris,d251733,70.58823529411765
+London,Grange Holborn Hotel,Grange_City_Hotel,d224769,70.58823529411765
+Paris,H tel Waldorf Trocad ro,Hotel_Waldorf_Trocadero,d197459,70.0
+Vienna,pentahotel Vienna,Vienna_Sporthotel,d278255,70.0
+London,Washington Mayfair Hotel,Mayfair_House,d735781,70.0
+London,Flemings Mayfair,Mayfair_House,d735781,70.0
+Vienna,Mercure Wien Zentrum,Mercure_Vienna_First,d7674973,70.0
+Barcelona,Sercotel Amister Art Hotel Barcelona,Amistat_Beach_Hostel_Barcelona,d3963665,70.0
+Amsterdam,NH Carlton Amsterdam,NH_Amsterdam_Caransa,d229228,70.0
+Amsterdam,Sir Albert Hotel,Maria_Alberta,d1532996,69.56521739130434
+Vienna,Fleming s Conference Hotel Wien,LiV_IN_Residence_by_Fleming_s_Wien,d1222774,69.56521739130434
+Paris,Timhotel Op ra Blanche Fontaine,Timhotel_Le_Louvre,d207844,69.56521739130434
+Barcelona,Hotel Villa Emilia,Villa_Olimpica,d1214460,69.23076923076923
+Milan,Andreola Central Hotel,Bed_Art_Milano_Centrale,d7618443,68.75
+Paris,H tel California Champs Elys es,Cristal_Champs_Elysees,d1470781,67.9245283018868
+Amsterdam,The Hoxton Amsterdam,Hilton_Amsterdam,d228438,66.66666666666666
+Amsterdam,Element Amsterdam,The_Movement_Hotel,d12828300,66.66666666666666
+Vienna,Hotel Arkadenhof,Hotel_Franzenshof,d1370746,66.66666666666666
+Barcelona,Hotel Omm,Hotel_Omnium,d8658323,66.66666666666666
+Barcelona,Capri by Fraser Barcelona,Hotel_SERHS_Carlit,d260656,66.66666666666666
+Barcelona,Ayre Hotel Rosell n,Evenia_Rosello,d289345,66.66666666666666
+Amsterdam,Hotel Okura Amsterdam,Zoku_Amsterdam,d9766185,66.66666666666666
+London,The Montague On The Gardens,Craven_Gardens_Hotel,d193182,66.66666666666666
+Vienna,Das Opernring Hotel,Hotel_Am_Parkring,d227180,66.66666666666666
+London,The Hoxton Holborn,SACO_Holborn_Lamb_s_Conduit_St,d1102245,66.66666666666666
+London,The Hari London,Charlies_Hotel,d1479614,66.66666666666666
+Vienna,Best Western Premier Kaiserhof Wien,Best_Western_Plus_Amedia_Wien,d2435870,66.66666666666666
+Barcelona,Alma Barcelona GL,Hotel_Balmoral,d206935,66.66666666666666
+Barcelona,Duquesa de Cardona,Duquesa_Suites_Barcelona,d8846187,66.66666666666666
+Milan,The Yard Milano,Hotel_Garda,d204488,66.66666666666666
+London,Good Hotel London,Goodwood_Hotel,d1463562,66.66666666666666
+London,Thistle Euston,Thistle_Hyde_Park,d187571,66.66666666666666
+London,Hilton London Wembley,Best_Western_Plus_London_Wembley_Hotel,d12518181,66.66666666666666
+London,Henry VIII,30_King_Henry_s_Road,d209139,66.66666666666666
+London,Rosewood London,Kenwood_House_Hotel,d214645,66.66666666666666
+London,Claridge s,Charlies_Hotel,d1479614,66.66666666666666
+London,Thistle Holborn The Kingsley,Holborn_Guesthouse,d3385445,66.66666666666666
+London,The Waldorf Hilton,Hilton_London_Canary_Wharf,d585836,66.66666666666666
+Barcelona,W Barcelona,We_Boutique_Hotel,d5504604,66.66666666666666
+London,The LaLit London,The_Laslett,d3628648,66.66666666666666
+Paris,H tel Powers,Hotel_Grand_Powers,d228837,66.66666666666666
+London,London Marriott Hotel West India Quay,West_Two_London,d1818278,66.66666666666666
+London,Bermondsey Square Hotel A Bespoke Hotel,Eaton_Square_Hotel,d528658,66.66666666666666
+Milan,Ch teau Monfort Relais Ch teaux,Milano_Brera_Relais,d7335615,66.66666666666666
+Milan,Room Mate Giulia,Room_Inn,d6561506,66.66666666666666
+Milan,Mandarin Oriental Milan,Milan_Apartment_Rental,d3974186,66.66666666666666
+Milan,Hotel Mercure Milano Solari,Mercure_Milano_Regency,d202848,66.66666666666666
+Paris,Shangri La Hotel Paris,Hotel_La_Sanguine,d302996,66.66666666666666
+Milan,Armani Hotel Milano,Hotel_Amalfi,d5283531,66.66666666666666
+Milan,ADI Hotel Poliziano Fiera,Hotel_Amendola_Fiera,d774907,66.66666666666666
+Paris,Mill sime H tel,Millesime_Hotel,d236579,66.66666666666666
+Paris,TRYP Paris Op ra,Hotel_Royal_Opera,d248387,66.66666666666666
+Paris,D clic Hotel,Hotel_Celtic,d649942,66.66666666666666
+Paris,Artus Hotel by MH,Hotel_des_Arts,d1095681,66.66666666666666
+Paris,H tel du Minist re,Hotel_du_Ministere,d219984,66.66666666666666
+Amsterdam,NH Collection Amsterdam Grand Hotel Krasnapolsky,NH_Collection_Amsterdam_Flower_Market,d229123,65.0
+Paris,H tel Madison by MH,Timhotel_Nation,d228734,64.51612903225806
+Vienna,Hotel Imperial A Luxury Collection Hotel,NH_Collection_Wien_Zentrum,d231971,64.51612903225806
+Vienna,Hotel Bristol A Luxury Collection Hotel,NH_Collection_Wien_Zentrum,d231971,64.51612903225806
+Amsterdam,Dutch Design Hotel Artemis,Dutch_Masters_Apartments,d1186513,63.63636363636363
+Milan,Hotel Dei Cavalieri,Hotel_dei_Fiori,d229852,63.63636363636363
+Paris,H tel Duo,Hospitel_Hotel_Dieu_Paris,d472020,63.63636363636363
+Vienna,Hotel Sans Souci Wien,Hotel_Schani_Salon,d234339,63.63636363636363
+Paris,Lyric H tel Paris,Lyric_Hotel_Paris_Opera,d567391,63.63636363636363
+Milan,Radisson Blu Hotel Milan,Hotel_Oro_Blu,d277131,63.1578947368421
+London,The Colonnade,The_Commongate_Hotel,d2109264,63.1578947368421
+London,The Rembrandt,The_Cumberland,d199113,63.1578947368421
+London,Commodore Hotel,The_Commongate_Hotel,d2109264,63.1578947368421
+Vienna,InterContinental Wien,Hotel_Pension_Continental,d272582,62.857142857142854
+London,The Bailey s Hotel London,St_Giles_London,d193113,62.5
+Amsterdam,Ambassade Hotel,Amistad_Hotel,d197790,62.5
+Milan,Milan Marriott Hotel,Hotel_Mercurio,d1064306,62.5
+Paris,W Paris Op ra,Hotel_Pax_Opera,d233795,62.5
+Paris,Newhotel Roblin,9HOTEL_REPUBLIQUE,d229579,62.5
+Amsterdam,Crowne Plaza Amsterdam South,Royal_Plaza_Hotel,d12332382,62.5
+Amsterdam,Fletcher Hotel Amsterdam,Hotel_Estherea,d229151,62.5
+Paris,Hotel Spa La Belle Juliette,Nell_Hotel_Suites,d2555907,62.06896551724138
+Barcelona,H10 Universitat,Barcelona_City_Hotel_Hotel_Universal,d608393,62.06896551724138
+Vienna,Lindner Hotel Am Belvedere,Belvedere_Appartements,d593458,62.06896551724138
+London,Apex London Wall Hotel,Apex_Temple_Court_Hotel,d2539103,61.53846153846154
+London,The Sumner Hotel,Sunborn_London,d6603498,61.53846153846154
+Paris,H tel De Vend me,Melia_Vendome_Paris,d228729,61.53846153846154
+Milan,Barcel Milan,Aurelia_Hotel,d260479,61.53846153846154
+London,The Tophams Hotel,The_Eltham_Hotel,d1206713,61.53846153846154
+London,Malmaison London,The_Alma_Hotel,d1913908,61.53846153846154
+Barcelona,H10 Port Vell 4 Sup,Euro_Hotel_Barcelona_Port,d228463,61.53846153846154
+London,Caesar Hotel,The_Cameron,d12423950,61.53846153846154
+Paris,Banke H tel,Bastille_Hostel,d1186110,61.53846153846154
+Paris,H tel Baume,Bastille_Hostel,d1186110,61.53846153846154
+Vienna,Hotel de France Wien,Rainers_Hotel_Vienna,d1141013,61.53846153846154
+Barcelona,Hotel Regina,Hotel_Ginebra,d208589,61.53846153846154
+Barcelona,Wilson Boutique Hotel,Ilunion_Barcelona,d1048732,61.53846153846154
+Barcelona,Col n Hotel Barcelona,Hotel_Colonial_Barcelona,d1485476,61.53846153846154
+Amsterdam,Boutique Hotel Notting Hill,Hotel_Nottinghill_Amsterdam,d12559255,60.869565217391305
+London,The Principal London,Prince_William_Hotel,d193649,60.869565217391305
+Paris,Castille Paris Starhotels Collezione,Hotel_Central_Bastille,d2101581,60.869565217391305
+Amsterdam,Conservatorium Hotel,Generator_Amsterdam,d10045651,60.869565217391305
+London,COMO Metropolitan London,Hilton_London_Metropole,d193089,60.60606060606061
+London,Amba Hotel Charing Cross,Kings_Cross_Inn_Hotel,d1056130,60.60606060606061
+Milan,Starhotels Tourist,Atahotels_Fiera,d228982,60.60606060606061
+Milan,Boscolo Milano Autograph Collection,NH_Collection_Milano_President,d202857,60.60606060606061
+London,Fifty Four Boutique Hotel,Four_Stars_Hotel,d596248,60.0
+London,One Aldwych,The_One_Tun,d8516353,60.0
+Barcelona,Cram,Barcelona_Atiram_Hotel,d206927,60.0
+Barcelona,Hotel Neri,The_Corner_Hotel,d10127321,60.0
+Milan,Hotel Sanpi Milano,Spice_Hotel_Milano,d12302018,60.0
+Milan,Meli Milano,Hotel_Amalfi,d5283531,60.0
+London,The London EDITION,The_Exhibitionist_Hotel,d7171735,60.0
+London,Shepherd s Bush Boutique Hotel,St_Christopher_s_Inn_Shepherds_Bush,d282818,60.0
+Barcelona,Ayre Hotel Caspe,Casa_Bonay,d8780848,60.0
+Amsterdam,INK Hotel Amsterdam MGallery by Sofitel,Sofitel_Legend_The_Grand_Amsterdam,d189389,60.0
+Vienna,Hotel Lam e,Hotel_Lamee,d2554349,60.0
+London,The Tower A Guoman Hotel,The_Dixon_Tower_Bridge,d15122650,60.0
+Paris,H tel Bel Ami,Hotel_Bel_Air,d3682398,60.0
+Paris,H tel Mayfair Paris,Hotel_Bel_Air,d3682398,60.0
+Milan,Starhotels Anderson,UNAHOTELS_Scandinavia_Milano,d202865,60.0
+Milan,Starhotels Ritz,Friend_s_Hostel,d6509078,60.0
+Paris,H tel Moli re,Hotel_Moliere,d232545,60.0
+Barcelona,TWO Hotel Barcelona by Axel 4 Sup Adults Only,Occidental_Atenea_Mar_Adults_only,d291590,59.45945945945946
+Paris,H tel de Varenne,Hotel_Eiffel_Turenne,d194232,59.25925925925926
+Barcelona,Hotel Front Maritim,Hostal_Martina,d1181839,59.25925925925926
+London,Rathbone,At_Home_London_B_B,d629372,58.8235294117647
+Amsterdam,Le Grand H tel de Normandie,Grand_Hotel_Amrath_Amsterdam,d618996,58.8235294117647
+Amsterdam,Renaissance Amsterdam Hotel,La_Remise,d1574525,58.8235294117647
+Amsterdam,De L Europe Amsterdam,Hotel_Europa_92,d232401,58.8235294117647
+London,Ham Yard Hotel,Haymarket_Hotel,d651511,58.8235294117647
+Vienna,Hotel Beethoven Wien,Bellevue_Hotel,d228036,58.8235294117647
+London,TheWesley,The_Westerly_London,d12998661,58.8235294117647
+Amsterdam,Corendon Vitality Hotel Amsterdam,Hotel_Cordial,d232320,58.333333333333336
+Barcelona,Renaissance Barcelona Hotel,Pestana_Arena_Barcelona,d609760,58.333333333333336
+Milan,Starhotels Echo,EuroHotel,d275802,58.333333333333336
+Barcelona,Hotel Vueling Bcn by HC,Chic_Basic_Velvet,d206931,58.064516129032256
+London,Rocco Forte Brown s Hotel,The_Old_Crown_Inn_Rooms,d3750492,57.89473684210526
+Barcelona,Best Western Premier Hotel Dante,Hotel_Best_Price_Diagonal,d5598135,57.77777777777778
+Barcelona,Hotel Best Western PLUS Alfa Aeropuerto,Barcelona_Best_Rooms,d675811,57.142857142857146
+London,Karma Sanctum Soho Hotel,Mimis_Hotel_Soho,d11962965,57.142857142857146
+London,St Martins Lane A Morgans Original,Brick_Lane_Hotel,d2173093,57.142857142857146
+Milan,Hotel Principe Di Savoia,Camping_Village_Citta_di_Milano,d5567359,57.142857142857146
+Milan,The Hub Hotel,Club_Hotel,d232935,57.142857142857146
+Milan,Nhow Milan,Hotel_New_Milan,d238630,57.142857142857146
+Milan,Park Hyatt Milano,IH_ApartHotel_Milano_Argonne_Park,d1226812,57.142857142857146
+Milan,AC Hotel Milano a Marriott Lifestyle Hotel,Smart_Hotel_Milano_Centrale,d1935438,57.142857142857146
+Paris,H tel Da Vinci Spa,Hotel_Victoria_Chatelet,d630115,57.142857142857146
+Paris,Hotel Le Six,Hotel_de_la_Paix_Paris,d530573,57.142857142857146
+Paris,Le Cinq Codet,Hotel_du_Chemin_vert_Paris,d315152,57.142857142857146
+Vienna,Palais Hansen Kempinski Vienna,Pertschy_Palais_Hotel,d235700,57.142857142857146
+Vienna,Hotel Stefanie,Hotel_Daniel_Vienna,d2235223,57.142857142857146
+Barcelona,Hotel The Serras,Hostal_La_Terrassa,d238726,57.142857142857146
+Paris,H tel Original Paris,Hotel_The_Originals_Paris_Paix_Republique,d233761,56.41025641025641
+Barcelona,Claris Hotel Spa GL,Hotel_La_Casa_del_Sol,d11763281,56.0
+Vienna,Leonardo Hotel Vienna,Pension_Pharmador,d263908,56.0
+Barcelona,Hotel Granados 83,Grandom_Suites,d1626663,56.0
+Vienna,Hotel Prinz Eugen,Goldene_Spinne,d195237,56.0
+London,Great Northern Hotel A Tribute Portfolio Hotel London,Great_Dover_Street_Apartments,d5499359,55.73770491803279
+Paris,Hotel The Peninsula Paris,Hotel_Stanislas,d584557,55.55555555555556
+Paris,H tel Westminster,Best_Western_Paris_Italie,d229967,55.55555555555556
+Milan,Hotel Michelangelo,Hotel_Merano,d6213027,55.55555555555556
+Milan,Sheraton Diana Majestic,Guest_House_Brianza_Room,d8698456,55.319148936170215
+Amsterdam,Hampshire Hotel The Manor Amsterdam,Hapimag_Resort_Amsterdam,d3675367,55.172413793103445
+London,Rafayel Hotel Spa,Space_Apart_Hotel,d277081,54.54545454545455
+Barcelona,Expo Hotel Barcelona,Next_To,d1153550,54.54545454545455
+Milan,Windsor Hotel Milano,Lido_Hotel,d238672,54.54545454545455
+Milan,Brunelleschi Hotel,Ciao_Bella_Milan,d1628920,54.54545454545455
+Vienna,Hotel J ger,Hotel_Jaeger,d227175,54.54545454545455
+Amsterdam,Hotel Amsterdam De Roode Leeuw,Recar_du_Fleur,d3657828,54.54545454545455
+Vienna,Am Spiegeln,Hotel_Am_Parkring,d227180,54.54545454545455
+Vienna,Hotel Erzherzog Rainer,Living_Hotel_an_der_Oper_by_Derag,d1675336,54.054054054054056
+Vienna,Sofitel Vienna Stephansdom,Hotel_Am_Konzerthaus_Vienna_MGallery_by_Sofitel,d228058,53.84615384615385
+Vienna,Hotel Eitlj rg,Hotel_Reither,d227172,53.333333333333336
+Amsterdam,Phileas Hotel,Euphemia_Hotel,d237579,53.333333333333336
+Amsterdam,Hotel V Nesplein,Hotel_Aspen,d236044,53.333333333333336
+Vienna,Hotel Imlauer Wien,Hotel_Muellner,d1070289,53.333333333333336
+Milan,NH Milano Machiavelli,La_Caravella,d529143,52.17391304347826
+Paris,Le G n ral H tel,Novotel_Paris_Les_Halles,d197424,51.851851851851855
+London,Shangri La Hotel at The Shard London,Batty_Langley_s,d8009809,51.61290322580645
+Barcelona,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,Margot_House,d7905626,51.282051282051285
+Vienna,Falkensteiner Hotel Wien Margareten,ANYNA_Apartments,d10207962,50.0
+Amsterdam,The Dylan Amsterdam,Hotel_Larende,d1978179,50.0
+Amsterdam,Dikker en Thijs Fenice Hotel,Frederic_Rent_a_Bike,d655502,50.0
+Milan,STRAF a Member of Design Hotels ,Best_Western_Hotel_Major,d202840,48.648648648648646
+Vienna,The Ring Vienna s Casual Luxury Hotel,Do_Step_Inn_Central,d12902027,46.15384615384615
+Vienna,Hotel K nig von Ungarn,Vox_Design_Hotel,d2067260,46.15384615384615
+Amsterdam,Jaz Amsterdam,Hotel_Vijaya,d237562,44.44444444444444
+Paris,Le A,Hipotel_Paris_Bastille_Saint_Antoine,d10035747,0.0
+Vienna,Hotel Vienna,City_Rooms_Hotel,d1005665,0.0

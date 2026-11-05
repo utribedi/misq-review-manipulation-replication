@@ -1,0 +1,1 @@
+5-fold CV accuracy 0.882 (sd 0.021); n=1600

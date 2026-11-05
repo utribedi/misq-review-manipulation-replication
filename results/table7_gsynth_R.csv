@@ -1,0 +1,13 @@
+"model","ATT","SE","p","r","treated","controls"
+"Promote all | GSC (fect, full panel)",0.033,0.015,0.027,0,165,101
+"Promote all | gsynth (balanced 2012Q1 on)",NA,NA,NA,NA,NA,NA
+"Promote high | GSC (fect, full panel)",0.039,0.017,0.024,0,130,61
+"Promote high | gsynth (balanced 2012Q1 on)",NA,NA,NA,NA,NA,NA
+"Promote low | GSC (fect, full panel)",0.009,0.042,0.829,0,35,40
+"Promote low | gsynth (balanced 2012Q1 on)",NA,NA,NA,NA,NA,NA
+"Demote all | GSC (fect, full panel)",0.046,0.066,0.487,0,121,62
+"Demote all | gsynth (balanced 2012Q1 on)",NA,NA,NA,NA,NA,NA
+"Demote high | GSC (fect, full panel)",0.004,0.069,0.953,0,107,47
+"Demote high | gsynth (balanced 2012Q1 on)",0.016,0.094,0.869,1,44,12
+"Demote low | GSC (fect, full panel)",0.417,0.381,0.273,0,14,15
+"Demote low | gsynth (balanced 2012Q1 on)",NA,NA,NA,NA,NA,NA

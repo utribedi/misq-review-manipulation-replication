@@ -1,0 +1,11 @@
+Table 7 (Texas). Synthetic difference-in-differences (sdid), balanced panel 2012Q1-2019Q2
+-----------------------------------------------------------------------
+                        ATT         SE    Treated   Controls   Quarters
+-----------------------------------------------------------------------
+Promote all          -0.028      0.023         64         24         30
+Promote high         -0.025      0.022         60         23         30
+Promote low           0.006      0.112          4          1         30
+Demote all            0.015      0.083         48         13         30
+Demote high           0.006      0.094         48         12         30
+Demote low                .          .          0          1         30
+-----------------------------------------------------------------------

@@ -1,0 +1,940 @@
+Hotel_Name,lat,lng,bk_avg,city,booking_name,hotel_id,ta_slug,first_review,last_review,first_q,last_q,lowend,n_comp_same
+11 Cadogan Gardens,51.4936161,-0.1592347,8.7,London,11 Cadogan Gardens,d195174,11_Cadogan_Gardens,2004-05-01,2019-05-12,2004Q2,2019Q2,0,16
+1K Hotel,48.8639318,2.3658744,7.7,Paris,1K Hotel,d472236,1K_Paris,2014-09-01,2019-05-02,2014Q3,2019Q2,0,15
+25hours Hotel beim MuseumsQuartier,48.2064745,16.3546297,8.8,Vienna,25hours Hotel beim MuseumsQuartier,d2062229,25hours_Hotel_at_MuseumsQuartier,2011-04-01,2019-04-25,2011Q2,2019Q2,0,10
+41,51.4981471,-0.1436492,9.6,London,41,d188961,Hotel_41,2003-02-01,2019-04-27,2003Q1,2019Q2,0,26
+45 Park Lane Dorchester Collection,51.5063709,-0.1515359,9.4,London,45 Park Lane Dorchester Collection,d1859025,45_Park_Lane_Dorchester_Collection,2011-09-01,2019-04-04,2011Q3,2019Q2,0,25
+88 Studios,51.4992789,-0.2090732999999999,8.4,London,88 Studios,d10059493,88_Studios_Kensington,2016-05-01,2019-04-09,2016Q2,2019Q2,0,5
+9Hotel Republique,48.8708419,2.3605864,8.8,Paris,9Hotel Republique,d229579,9HOTEL_REPUBLIQUE,2015-12-01,2019-04-01,2015Q4,2019Q2,0,15
+A La Villa Madame,48.8488608,2.3315257000000003,8.8,Paris,A La Villa Madame,d1194872,Villa_Madame,2008-11-01,2019-05-03,2008Q4,2019Q2,0,27
+ABaC Restaurant Hotel Barcelona GL Monumento,41.4106944,2.136294,8.8,Barcelona,ABaC Restaurant Hotel Barcelona GL Monumento,d1077341,Hotel_ABaC_Barcelona,2009-06-01,2019-05-04,2009Q2,2019Q2,0,4
+AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel,41.3899609,2.135684,8.6,Barcelona,AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel,d228554,AC_Hotel_Diagonal_L_Illa,2015-09-01,2019-04-09,2015Q3,2019Q2,0,10
+AC Hotel Irla a Marriott Lifestyle Hotel,41.3948175,2.1434702000000003,7.9,Barcelona,AC Hotel Irla a Marriott Lifestyle Hotel,d277228,AC_Hotel_Irla,2005-02-01,2019-02-01,2005Q1,2019Q1,0,13
+AC Hotel Paris Porte Maillot by Marriott,48.8820046,2.2818537999999995,8.5,Paris,AC Hotel Paris Porte Maillot by Marriott,d6612756,AC_Hotel_by_Marriott_Paris_Porte_Maillot,2014-06-01,2019-05-01,2014Q2,2019Q2,0,9
+AC Hotel Sants a Marriott Lifestyle Hotel,41.3775577,2.1384686,8.0,Barcelona,AC Hotel Sants a Marriott Lifestyle Hotel,d1176318,AC_Hotel_Sants,2009-01-01,2019-05-01,2009Q1,2019Q2,0,7
+AC Hotel Victoria Suites a Marriott Lifestyle Hotel,41.3893478,2.1209755,8.6,Barcelona,AC Hotel Victoria Suites a Marriott Lifestyle Hotel,d228461,AC_Hotel_Victoria_Suites,2005-11-01,2019-04-01,2005Q4,2019Q2,0,5
+ADI Doria Grand Hotel,45.4853717,9.2115837,8.3,Milan,ADI Doria Grand Hotel,d202862,Doria_Grand_Hotel,2003-06-01,2019-04-01,2003Q2,2019Q2,0,16
+ARCOTEL Kaiserwasser Superior,48.231915,16.417026,8.6,Vienna,ARCOTEL Kaiserwasser Superior,d654615,Arcotel_Kaiserwasser,2007-07-01,2019-04-19,2007Q3,2019Q2,0,3
+ARCOTEL Wimberger,48.2006001,16.3386333,8.2,Vienna,ARCOTEL Wimberger,d231969,Arcotel_Wimberger_Hotel,2003-07-01,2019-04-01,2003Q3,2019Q2,0,5
+AZIMUT Hotel Vienna,48.1834787,16.376276500000003,8.2,Vienna,AZIMUT Hotel Vienna,d601264,AZIMUT_Hotel_Vienna,2017-08-01,2019-04-01,2017Q3,2019Q2,0,3
+Abba Sants,41.3825777,2.1400103,8.2,Barcelona,Abba Sants,d228626,Abba_Sants_Hotel,2004-02-01,2019-04-20,2004Q1,2019Q2,0,10
+Acad mie H tel Saint Germain,48.855263,2.3305901,9.0,Paris,Acad mie H tel Saint Germain,d239626,Hotel_Saint_Germain,2009-06-01,2019-05-09,2009Q2,2019Q2,0,21
+Acca Palace,45.5099969,9.1739942,8.5,Milan,Acca Palace,d1794773,Acca_Palace,2010-11-01,2019-01-01,2010Q4,2019Q1,0,0
+Ace Hotel London Shoreditch,51.5254162,-0.0772848999999999,8.6,London,Ace Hotel London Shoreditch,d7796230,The_Z_Hotel_Shoreditch,2015-03-01,2019-05-06,2015Q1,2019Q2,0,5
+Acevi Villarroel,41.3853781,2.1567228,7.8,Barcelona,Acevi Villarroel,d313039,Acevi_Villarroel,2005-01-01,2019-05-11,2005Q1,2019Q2,0,23
+Acta Atrium Palace,41.390913,2.1706981,8.5,Barcelona,Acta Atrium Palace,d275097,Acta_Atrium_Palace,2003-07-01,2019-05-01,2003Q3,2019Q2,0,44
+Acta CITY47,41.383515,2.1407396,8.1,Barcelona,Acta CITY47,d1103924,Acta_City47,2003-11-01,2019-04-01,2003Q4,2019Q2,0,11
+Admiral Hotel,45.480515,9.160063,7.3,Milan,Admiral Hotel,d232918,Admiral_Hotel,2005-12-01,2019-04-01,2005Q4,2019Q2,0,3
+Adria Boutique Hotel,51.493337200000006,-0.1788931,8.8,London,Adria Boutique Hotel,d242989,Adria_Hotel,2004-10-01,2019-05-05,2004Q4,2019Q2,0,24
+Ako Suites Hotel,41.3861153,2.1611899,8.7,Barcelona,Ako Suites Hotel,d2278972,Ako_Suite_Hotel,2011-12-01,2019-04-17,2011Q4,2019Q2,0,36
+Albus Hotel Amsterdam City Centre,52.365823,4.893243,8.2,Amsterdam,Albus Hotel Amsterdam City Centre,d232328,The_Albus,2017-06-01,2019-05-03,2017Q2,2019Q2,0,19
+Alma Boutique Hotel,48.2112491,16.3776519,8.7,Vienna,Alma Boutique Hotel,d1191683,Alma_Boutique_Hotel,2003-07-01,2019-04-23,2003Q3,2019Q2,0,28
+Aloft London Excel,51.5083719,0.0355768,8.7,London,Aloft London Excel,d7688353,Excel_Hotel,2015-04-01,2019-04-25,2015Q2,2019Q2,0,2
+Amadi Panorama Hotel,52.358880600000006,4.9886041,8.4,Amsterdam,Amadi Panorama Hotel,d7394684,Amadi_Panorama_Hotel,2015-03-01,2019-04-01,2015Q1,2019Q2,0,0
+Amadi Park Hotel,52.364962,4.873495,8.1,Amsterdam,Amadi Park Hotel,d230118,Park_Hotel_Amsterdam,2003-01-01,2019-05-02,2003Q1,2019Q2,0,14
+Amarante Beau Manoir,48.870994,2.3235329,7.2,Paris,Amarante Beau Manoir,d274975,Amarante_Beau_Manoir_Hotel,2003-05-01,2019-01-01,2003Q2,2019Q1,0,50
+Amarante Champs Elys es,48.8717649,2.2983855,7.7,Paris,Amarante Champs Elys es,d229534,Amarante_Champs_Elysees,2004-05-01,2019-04-10,2004Q2,2019Q2,0,50
+Amba Hotel Marble Arch,51.51440039999999,-0.1565506,8.5,London,Amba Hotel Marble Arch,d193084,Amba_Hotel_Marble_Arch,2015-11-01,2019-04-28,2015Q4,2019Q2,0,25
+Ambassadors Bloomsbury,51.5266618,-0.1296571,7.9,London,Ambassadors Bloomsbury,d199106,Ambassadors_Bloomsbury,2002-11-01,2019-04-01,2002Q4,2019Q2,0,18
+Amsterdam Canal Residence,52.3594783,4.895853,8.3,Amsterdam,Amsterdam Canal Residence,d3935747,Amsterdam_Canal_Hotel,2013-03-01,2019-04-01,2013Q1,2019Q2,0,10
+Amsterdam Marriott Hotel,52.362514,4.8800077,8.1,Amsterdam,Amsterdam Marriott Hotel,d13345991,Residence_Inn_by_Marriott_Amsterdam_Houthavens,2018-01-01,2019-04-12,2018Q1,2019Q2,0,16
+Andaz Amsterdam Prinsengracht A Hyatt Hotel,52.3678368,4.8830788,9.3,Amsterdam,Andaz Amsterdam Prinsengracht A Hyatt Hotel,d237564,Prinsengracht_Hotel,2003-06-01,2019-03-01,2003Q2,2019Q1,0,24
+Andaz London Liverpool Street,51.5172825,-0.0812451,9.0,London,Andaz London Liverpool Street,d798951,Andaz_London_Liverpool_Street,2008-01-01,2019-05-06,2008Q1,2019Q2,0,15
+Antares Hotel Accademia,45.4921089,9.1476806,8.4,Milan,Antares Hotel Accademia,d233471,Antares_Hotel_Accademia,2004-01-01,2019-05-01,2004Q1,2019Q2,0,5
+Antares Hotel Rubens,45.4670579,9.1427822,8.5,Milan,Antares Hotel Rubens,d202874,Antares_Hotel_Rubens,2003-12-01,2019-04-20,2003Q4,2019Q2,0,2
+Antica Locanda Dei Mercanti,45.467298,9.1846982,9.0,Milan,Antica Locanda Dei Mercanti,d238707,Antica_Locanda_dei_Mercanti,2010-04-01,2019-04-01,2010Q2,2019Q2,0,18
+Aparthotel Adagio Vienna City,48.2110845,16.3838405,8.1,Vienna,Aparthotel Adagio Vienna City,d1484675,Adagio_Vienna_City,2009-12-01,2019-04-01,2009Q4,2019Q2,0,19
+Aparthotel Arai 4 Superior,41.380751700000005,2.1772425,9.3,Barcelona,Aparthotel Arai 4 Superior,d3971172,Aparthotel_Arai,2013-03-01,2019-05-02,2013Q1,2019Q2,0,28
+Aparthotel Mariano Cubi Barcelona,41.3982129,2.1494179,8.3,Barcelona,Aparthotel Mariano Cubi Barcelona,d231505,Aparthotel_Mariano_Cubi,2003-10-01,2019-03-01,2003Q4,2019Q1,0,16
+Apex Temple Court Hotel,51.5137335,-0.1087511999999999,9.2,London,Apex Temple Court Hotel,d2539103,Apex_Temple_Court_Hotel,2012-03-01,2019-05-07,2012Q1,2019Q2,0,7
+Apollo Hotel Amsterdam,52.3486098,4.8844292000000005,8.2,Amsterdam,Apollo Hotel Amsterdam,d1740219,Apollo_Hotel_Amsterdam_a_Tribute_Portfolio_Hotel,2010-03-01,2019-05-06,2010Q1,2019Q2,0,5
+Apollofirst Boutique Hotel,52.350396,4.8756404,8.5,Amsterdam,Apollofirst Boutique Hotel,d232324,Apollofirst_Hotel,2004-06-01,2019-04-01,2004Q2,2019Q2,0,4
+Appartement Hotel an der Riemergasse,48.2071576,16.3765913,9.2,Vienna,Appartement Hotel an der Riemergasse,d238190,Appartement_Hotel_an_der_Riemergasse,2007-01-01,2019-01-01,2007Q1,2019Q1,0,34
+Arbor City,51.5166755,-0.0697897,8.9,London,Arbor City,d192029,Arbor_City_Hotel,2015-10-01,2019-05-02,2015Q4,2019Q2,0,9
+Arbor Hyde Park,51.5126488,-0.1803795,8.4,London,Arbor Hyde Park,d193060,Arbor_Hyde_Park,2018-10-01,2019-04-29,2018Q4,2019Q2,0,21
+Arenas Atiram Hotels,41.3904305,2.1262314,7.5,Barcelona,Arenas Atiram Hotels,d206927,Barcelona_Atiram_Hotel,2004-03-01,2018-08-01,2004Q1,2018Q3,0,5
+Arion Cityhotel Vienna und Appartements,48.15853320000001,16.345111499999998,8.1,Vienna,Arion Cityhotel Vienna und Appartements,d206621,Arion_Cityhotel_Vienna,2004-07-01,2019-04-24,2004Q3,2019Q2,0,2
+Arioso,48.8746066,2.3167195,8.4,Paris,Arioso,d312950,Hotel_Arioso,2005-06-01,2019-04-20,2005Q2,2019Q2,0,41
+Art Hotel Navigli,45.4501306,9.1696481,8.6,Milan,Art Hotel Navigli,d3237620,Hotel_Milano_Navigli,2012-09-01,2018-11-01,2012Q3,2018Q4,0,1
+Arthotel ANA Boutique Six,48.194190500000005,16.3462578,8.2,Vienna,Arthotel ANA Boutique Six,d2715529,Arthotel_ANA_Boutique_Six,2012-05-01,2019-04-14,2012Q2,2019Q2,0,6
+Arthotel ANA Westbahn,48.1979514,16.336318,8.3,Vienna,Arthotel ANA Westbahn,d497282,Arthotel_ANA_Westbahn,2006-04-01,2019-01-01,2006Q2,2019Q1,0,5
+Ashburn Hotel,51.49455220000001,-0.1861213,8.6,London,Ashburn Hotel,d577078,Ashburn_Court_Apartments,2013-05-01,2019-04-14,2013Q2,2019Q2,0,32
+Atala Champs Elys es,48.8735418,2.302442,8.2,Paris,Atala Champs Elys es,d228788,Hotel_Atala_Champs_Elysees,2003-09-01,2019-05-01,2003Q3,2019Q2,0,53
+Attica 21 Barcelona Mar,41.4052324,2.2117289,8.1,Barcelona,Attica 21 Barcelona Mar,d229678,Attica_21_Barcelona_Mar,2010-05-01,2019-04-29,2010Q2,2019Q2,0,7
+Au Manoir Saint Germain,48.853688,2.3322667,8.6,Paris,Au Manoir Saint Germain,d207574,Au_Manoir_Saint_Germain_Des_Pres,2002-08-01,2019-05-03,2002Q3,2019Q2,0,24
+Austria Trend Hotel Anatol Wien,48.1945774,16.346356,8.8,Vienna,Austria Trend Hotel Anatol Wien,d206623,Austria_Trend_Hotel_Anatol_Wien,2005-02-01,2019-04-01,2005Q1,2019Q2,0,6
+Austria Trend Hotel Astoria Wien,48.204465500000005,16.3702399,8.5,Vienna,Austria Trend Hotel Astoria Wien,d206602,Austria_Trend_Hotel_Astoria,2003-03-01,2019-04-01,2003Q1,2019Q2,0,34
+Austria Trend Hotel Bosei Wien,48.1629737,16.340402400000002,8.3,Vienna,Austria Trend Hotel Bosei Wien,d206620,Austria_Trend_Hotel_Bosei_Wien,2006-06-01,2019-04-01,2006Q2,2019Q2,0,2
+Austria Trend Hotel Doppio Wien,48.1854312,16.404884,8.7,Vienna,Austria Trend Hotel Doppio Wien,d2557177,Austria_Trend_Hotel_Doppio,2012-07-01,2019-04-01,2012Q3,2019Q2,0,3
+Austria Trend Hotel Europa Wien,48.2062103,16.3710387,8.6,Vienna,Austria Trend Hotel Europa Wien,d206601,Austria_Trend_Hotel_Europa_Wien,2003-05-01,2019-04-26,2003Q2,2019Q2,0,33
+Austria Trend Hotel Lassalle Wien,48.2273013,16.4001791,8.1,Vienna,Austria Trend Hotel Lassalle Wien,d206618,Austria_Trend_Hotel_Lassalle,2006-06-01,2019-04-01,2006Q2,2019Q2,0,0
+Austria Trend Hotel Park Royal Palace Vienna,48.191339,16.316587300000002,8.8,Vienna,Austria Trend Hotel Park Royal Palace Vienna,d10061473,Vienna_Palace,2016-04-01,2018-04-01,2016Q2,2018Q2,0,0
+Austria Trend Hotel Rathauspark Wien,48.2133054,16.3567884,8.5,Vienna,Austria Trend Hotel Rathauspark Wien,d237845,Austria_Trend_Hotel_Rathauspark_Wien,2003-08-01,2019-05-01,2003Q3,2019Q2,0,9
+Auteuil Tour Eiffel,48.8506499,2.2750873,7.5,Paris,Auteuil Tour Eiffel,d229556,Hotel_Auteuil_Tour_Eiffel,2018-08-01,2019-04-01,2018Q3,2019Q2,0,3
+Avenida Palace,41.3891168,2.1671986,8.4,Barcelona,Avenida Palace,d206936,Hotel_El_Avenida_Palace,2003-06-01,2019-05-07,2003Q2,2019Q2,0,50
+Avo Hotel,51.5460628,-0.0700817,8.1,London,Avo Hotel,d2031338,Avo_Hotel,2011-03-01,2019-02-01,2011Q1,2019Q1,0,0
+Axel Hotel Barcelona Urban Spa Adults Only,41.38734779999999,2.1603987,8.0,Barcelona,Axel Hotel Barcelona Urban Spa Adults Only,d305582,Axel_Hotel_Barcelona_Urban_Spa,2004-04-01,2019-04-01,2004Q2,2019Q2,0,38
+B Montmartre,48.883631,2.3257642999999995,9.2,Paris,B Montmartre,d1073909,Hotel_de_Paris_Montmartre,2009-03-01,2018-09-01,2009Q1,2018Q3,0,18
+BEST WESTERN PLUS Amedia Wien,48.1923791,16.399451199999998,8.4,Vienna,BEST WESTERN PLUS Amedia Wien,d2435870,Best_Western_Plus_Amedia_Wien,2012-04-01,2019-04-01,2012Q2,2019Q2,0,3
+Baglioni Hotel Carlton The Leading Hotels of the World,45.4691663,9.1984454,8.8,Milan,Baglioni Hotel Carlton The Leading Hotels of the World,d202876,Baglioni_Hotel_Carlton,2003-09-01,2019-03-01,2003Q3,2019Q1,0,18
+Baglioni Hotel London The Leading Hotels of the World,51.5017224,-0.1846243,9.0,London,Baglioni Hotel London The Leading Hotels of the World,d295724,Baglioni_Hotel_London,2004-05-01,2019-04-29,2004Q2,2019Q2,0,19
+Banks Mansion All Inclusive Hotel,52.3653868,4.8931979000000005,9.2,Amsterdam,Banks Mansion All Inclusive Hotel,d230616,Banks_Mansion,2004-06-01,2019-04-28,2004Q2,2019Q2,0,19
+Barcel Raval,41.3790126,2.1696339,8.4,Barcelona,Barcel Raval,d1083206,Barcelo_Raval,2008-09-01,2019-05-10,2008Q3,2019Q2,0,29
+Barcelona Hotel Colonial,41.3822909,2.1807447,7.8,Barcelona,Barcelona Hotel Colonial,d1485476,Hotel_Colonial_Barcelona,2009-07-01,2019-04-01,2009Q3,2019Q2,0,22
+Barcelona Princess,41.4109715,2.2186535,8.3,Barcelona,Barcelona Princess,d1227764,Barcelona_Princess,2005-03-01,2019-04-01,2005Q1,2019Q2,0,4
+Bassano,48.8690596,2.2971078,8.3,Paris,Bassano,d228733,Hotel_Elysees_Bassano,2015-06-01,2019-04-18,2015Q2,2019Q2,0,49
+Batty Langley s,51.5208575,-0.0779503,9.4,London,Batty Langley s,d8009809,Batty_Langley_s,2015-05-01,2019-04-01,2015Q2,2019Q2,0,9
+Bcn Urban Hotels Gran Rosellon,41.4226648,2.1464261,8.5,Barcelona,Bcn Urban Hotels Gran Rosellon,d8115750,BCN_Urban_Hotels_Gran_Rosellon,2015-09-01,2019-05-04,2015Q3,2019Q2,0,0
+Belfast,48.8756435,2.2938788,7.7,Paris,Belfast,d593228,Hotel_Belfast,2016-03-01,2019-04-08,2016Q1,2019Q2,0,40
+Bentley London,51.4928147,-0.1841753,8.4,London,Bentley London,d289366,The_Bentley_London,2009-03-01,2019-05-08,2009Q1,2019Q2,0,29
+Best Western Allegro Nation,48.8430891,2.4049867000000003,7.8,Paris,Best Western Allegro Nation,d229593,Best_Western_Allegro_Nation,2004-11-01,2018-10-01,2004Q4,2018Q4,0,1
+Best Western Amiral Hotel,48.825230700000006,2.3569005,7.5,Paris,Best Western Amiral Hotel,d623558,Best_Western_Amiral_Hotel,2007-05-01,2019-03-01,2007Q2,2019Q1,0,2
+Best Western Antares Hotel Concorde,45.502453,9.2218364,8.1,Milan,Best Western Antares Hotel Concorde,d312399,Best_Hotel,2005-09-01,2019-05-03,2005Q3,2019Q2,0,1
+Best Western Aulivia Op ra,48.8730552,2.3540112,7.8,Paris,Best Western Aulivia Op ra,d198153,Best_Western_Aulivia_Opera,2013-12-01,2019-04-01,2013Q4,2019Q2,0,25
+Best Western Bretagne Montparnasse,48.8354314,2.321142,7.7,Paris,Best Western Bretagne Montparnasse,d197675,Best_Western_Hotel_Le_Montparnasse,2011-07-01,2019-03-01,2011Q3,2019Q1,0,9
+Best Western Delphi Hotel,52.3504558,4.8770194,7.5,Amsterdam,Best Western Delphi Hotel,d230902,Best_Western_Delphi_Hotel,2003-11-01,2019-04-01,2003Q4,2019Q2,0,5
+Best Western Ducs de Bourgogne,48.8603483,2.3440535,7.7,Paris,Best Western Ducs de Bourgogne,d197557,Best_Western_Premier_Ducs_de_Bourgogne,2017-10-01,2019-04-01,2017Q4,2019Q2,0,26
+Best Western Hotel Ascot,45.4580137,9.1913676,7.7,Milan,Best Western Hotel Ascot,d229994,Hotel_Ascot,2003-10-01,2019-04-01,2003Q4,2019Q2,0,12
+Best Western Hotel Astoria,45.4725167,9.1439198,7.7,Milan,Best Western Hotel Astoria,d228990,Best_Western_Hotel_Astoria,2005-11-01,2019-05-07,2005Q4,2019Q2,0,3
+Best Western Hotel City,45.485887700000006,9.204282699999998,8.4,Milan,Best Western Hotel City,d202891,Best_Western_Hotel_City,2003-08-01,2019-04-01,2003Q3,2019Q2,0,21
+Best Western Hotel Major,45.4472099,9.209096699999998,8.1,Milan,Best Western Hotel Major,d202840,Best_Western_Hotel_Major,2007-05-01,2019-04-16,2007Q2,2019Q2,0,0
+Best Western Hotel Mirage,45.4947129,9.1418864,8.5,Milan,Best Western Hotel Mirage,d232916,Hotel_Mirage_Sure_Hotel_Collection_by_Best_Western,2008-02-01,2019-05-01,2008Q1,2019Q2,0,4
+Best Western Hotel Pension Arenberg Wien Zentrum,48.2107358,16.382147,7.7,Vienna,Best Western Hotel Pension Arenberg Wien Zentrum,d227169,Arenberg_Boutique_Hotel_Zentrum,2003-01-01,2019-04-01,2003Q1,2019Q2,0,23
+Best Western Hotel St George,45.4770906,9.2054208,8.1,Milan,Best Western Hotel St George,d232914,Best_Western_Hotel_St_George,2005-10-01,2019-04-01,2005Q4,2019Q2,0,21
+Best Western Le 18 Paris,48.8966167,2.3434843,7.6,Paris,Best Western Le 18 Paris,d276934,Best_Western_Plus_Hotel_le_18,2005-07-01,2019-04-01,2005Q3,2019Q2,0,0
+Best Western Le Jardin de Cluny,48.8497553,2.3467616,8.5,Paris,Best Western Le Jardin de Cluny,d198051,Best_Western_Jardin_De_Cluny,2004-04-01,2019-04-01,2004Q2,2019Q2,0,22
+Best Western Maitrise Hotel Edgware Road,51.521148,-0.171346,6.6,London,Best Western Maitrise Hotel Edgware Road,d8607593,Maitrise_Hotel_Edgware_Road_London,2015-09-01,2019-03-01,2015Q3,2019Q1,0,17
+Best Western Mercedes Arc de Triomphe,48.8848292,2.3035189,7.8,Paris,Best Western Mercedes Arc de Triomphe,d622305,Hotel_Arc_de_Triomphe,2006-08-01,2019-04-01,2006Q3,2019Q2,0,11
+Best Western Mornington Hotel Hyde Park,51.51199329999999,-0.1782793999999999,8.0,London,Best Western Mornington Hotel Hyde Park,d3904778,Hyde_Park_Boutique_Hotel,2013-03-01,2019-04-01,2013Q1,2019Q2,0,21
+Best Western Op ra Batignolles,48.8870573,2.3143297,7.6,Paris,Best Western Op ra Batignolles,d239642,Hotel_des_Batignolles,2004-04-01,2019-05-07,2004Q2,2019Q2,0,9
+Best Western Palm Hotel,51.5634756,-0.2042757999999999,7.9,London,Best Western Palm Hotel,d1025762,Best_Western_Palm_Hotel,2008-05-01,2019-05-08,2008Q2,2019Q2,0,0
+Best Western Paris Gare Saint Lazare,48.8803752,2.319591,7.6,Paris,Best Western Paris Gare Saint Lazare,d264984,Best_Western_Paris_Gare_Saint_Lazare,2012-09-01,2019-02-01,2012Q3,2019Q1,0,20
+Best Western Plus 61 Paris Nation Hotel,48.8465653,2.4102405,7.7,Paris,Best Western Plus 61 Paris Nation Hotel,d254597,Best_Western_Plus_61_Paris_Nation_Hotel,2004-10-01,2019-04-01,2004Q4,2019Q2,0,1
+Best Western Plus Elys e Secret,48.870124700000005,2.311141,7.7,Paris,Best Western Plus Elys e Secret,d2301962,Best_Western_Plus_Elysee_Secret,2011-12-01,2019-04-25,2011Q4,2019Q2,0,50
+Best Western Plus Hotel Felice Casati,45.4787357,9.2041131,8.4,Milan,Best Western Plus Hotel Felice Casati,d227395,Best_Western_Plus_Hotel_Felice_Casati,2005-01-01,2019-04-13,2005Q1,2019Q2,0,23
+Best Western Plus Hotel Galles,45.4805847,9.2117326,8.5,Milan,Best Western Plus Hotel Galles,d202890,Best_Western_Plus_Hotel_Galles,2010-04-01,2019-04-01,2010Q2,2019Q2,0,16
+Best Western Plus de Neuville Arc de Triomphe,48.8869128,2.3004034,8.0,Paris,Best Western Plus de Neuville Arc de Triomphe,d197518,Best_Western_Plus_de_Neuville_Arc_de_Triomphe,2017-06-01,2019-04-19,2017Q2,2019Q2,0,7
+Best Western Premier Faubourg 88,48.8776756,2.3493159,8.4,Paris,Best Western Premier Faubourg 88,d1576551,Best_Western_Premier_Faubourg_88,2013-08-01,2019-04-09,2013Q3,2019Q2,0,23
+Best Western Premier Kapital Op ra,48.8814425,2.3235592,8.9,Paris,Best Western Premier Kapital Op ra,d8707934,Best_Western_Premier_Kapital_Opera,2015-12-01,2019-04-24,2015Q4,2019Q2,0,23
+Best Western Premier Le Swann,48.8797331,2.3206003,8.3,Paris,Best Western Premier Le Swann,d197548,Best_Western_Premier_Le_Swann,2013-11-01,2019-04-01,2013Q4,2019Q2,0,29
+Best Western Premier Louvre Saint Honor ,48.861711,2.3406740000000004,8.1,Paris,Best Western Premier Louvre Saint Honor ,d648109,Le_Saint_Hotel_A_Paris,2003-01-01,2019-04-27,2003Q1,2019Q2,0,37
+Best Western Premier Marais Grands Boulevards,48.8687425,2.3541761,8.3,Paris,Best Western Premier Marais Grands Boulevards,d12995518,Hotel_des_Grands_Boulevards,2018-01-01,2019-04-22,2018Q1,2019Q2,0,23
+Best Western Premier Op ra Faubourg Ex Hotel Jules ,48.8753359,2.3414617,8.1,Paris,Best Western Premier Op ra Faubourg Ex Hotel Jules ,d229563,Le_Faubourg_Hotel,2005-12-01,2018-07-01,2005Q4,2018Q3,0,29
+Best Western Premier Op ra Opal,48.8722588,2.3257608,8.6,Paris,Best Western Premier Op ra Opal,d219997,Best_Western_Premier_Opera_Opal,2003-05-01,2019-05-02,2003Q2,2019Q2,0,51
+Best Western Premier Trocadero La Tour,48.858312700000006,2.2795075,8.0,Paris,Best Western Premier Trocadero La Tour,d197462,Best_Western_Premier_Trocadero_La_Tour,2003-05-01,2019-04-01,2003Q2,2019Q2,0,5
+Best Western Seraphine Kensington Olympia,51.4992791,-0.1973593,7.4,London,Best Western Seraphine Kensington Olympia,d1803642,Seraphine_Kensington_Olympia_Hotel,2010-06-01,2019-05-11,2010Q2,2019Q2,0,20
+Best Western The Boltons Hotel London Kensington,51.4907493,-0.1934627,7.7,London,Best Western The Boltons Hotel London Kensington,d1216943,Best_Western_The_Boltons_London_Kensington,2009-02-01,2019-05-02,2009Q1,2019Q2,0,17
+Best Western Tour Eiffel Invalides,48.8593152,2.3104179,7.9,Paris,Best Western Tour Eiffel Invalides,d3937950,Hotel_de_la_Tour,2013-03-01,2018-08-01,2013Q1,2018Q3,0,16
+Bianca Maria Palace Hotel,45.4635445,9.2068649,9.0,Milan,Bianca Maria Palace Hotel,d8707389,Bianca_Maria_Palace_Hotel,2015-11-01,2019-05-03,2015Q4,2019Q2,0,6
+Bilderberg Garden Hotel,52.351144700000006,4.8740764,8.1,Amsterdam,Bilderberg Garden Hotel,d206846,Bilderberg_Garden_Hotel,2003-01-01,2019-05-04,2003Q1,2019Q2,0,4
+Bilderberg Hotel Jan Luyken,52.3599196,4.8810128,8.3,Amsterdam,Bilderberg Hotel Jan Luyken,d229144,Bilderberg_Hotel_Jan_Luyken,2003-01-01,2019-05-01,2003Q1,2019Q2,0,14
+Blakes Hotel,51.48924470000001,-0.1803196,8.0,London,Blakes Hotel,d193135,Blakes_Hotel,2010-10-01,2019-05-05,2010Q4,2019Q2,0,22
+Bloomsbury Palace Hotel,51.5207945,-0.1310845,6.8,London,Bloomsbury Palace Hotel,d209229,The_Bloomsbury,2009-04-01,2019-04-28,2009Q2,2019Q2,0,29
+BoB Hotel by Elegancia,48.8335233,2.3191194,9.0,Paris,BoB Hotel by Elegancia,d12200451,Bob_Hotel_Coworking_by_Elegancia,2017-03-01,2019-04-21,2017Q1,2019Q2,0,7
+Boutique H tel Konfidentiel,48.8612535,2.3426256000000003,8.9,Paris,Boutique H tel Konfidentiel,d1978931,Hotel_Konfidentiel,2011-03-01,2019-04-02,2011Q1,2019Q2,0,32
+Boutiquehotel Das Tyrol,48.2008957,16.3592496,9.4,Vienna,Boutiquehotel Das Tyrol,d577354,Hotel_Das_Tyrol,2004-07-01,2019-04-14,2004Q3,2019Q2,0,16
+Bradford Elys es Astotel,48.8729676,2.3081178,9.1,Paris,Bradford Elys es Astotel,d197946,Hotel_Bradford_Elysees_Astotel,2013-01-01,2019-04-28,2013Q1,2019Q2,0,48
+Britannia International Hotel Canary Wharf,51.5019097,-0.0232208,7.1,London,Britannia International Hotel Canary Wharf,d195153,Britannia_International_Hotel,2003-11-01,2019-04-29,2003Q4,2019Q2,0,3
+Buddha Bar Hotel Paris,48.8694695,2.3208564,8.8,Paris,Buddha Bar Hotel Paris,d4021853,Buddha_Bar_Hotel_Paris,2013-06-01,2019-05-03,2013Q2,2019Q2,0,49
+Bulgari Hotel London,51.5015721,-0.1628511,9.3,London,Bulgari Hotel London,d2554787,Bulgari_Hotel_London,2012-06-01,2019-04-07,2012Q2,2019Q2,0,17
+Bulgari Hotel Milano,45.4701334,9.1897405,9.2,Milan,Bulgari Hotel Milano,d313196,Bulgari_Hotel_Milano,2004-07-01,2019-05-02,2004Q3,2019Q2,0,20
+COMO The Halkin,51.4988977,-0.1562015,9.3,London,COMO The Halkin,d187994,COMO_The_Halkin_London,2003-08-01,2019-05-01,2003Q3,2019Q2,0,24
+COQ Hotel Paris,48.8328764,2.3572531000000003,9.0,Paris,COQ Hotel Paris,d269117,COQ_Hotel_Paris,2015-11-01,2019-04-01,2015Q4,2019Q2,0,3
+Ca Bianca Hotel Corte Del Naviglio,45.443502,9.1377081,7.7,Milan,Ca Bianca Hotel Corte Del Naviglio,d237292,Ca_Bianca_Hotel_Corte_del_Naviglio,2004-07-01,2019-02-01,2004Q3,2019Q1,0,0
+Camperio House Suites Apartments,45.466598,9.183064,8.9,Milan,Camperio House Suites Apartments,d1154421,Camperio_House_Suites_Apartments,2009-10-01,2019-04-01,2009Q4,2019Q2,0,16
+Canal House,52.3763099,4.886270099999999,9.3,Amsterdam,Canal House,d1185651,Amstel_Canal_Guest_House,2008-10-01,2017-08-01,2008Q4,2017Q3,0,10
+Canary Riverside Plaza Hotel,51.506699100000006,-0.0280208,8.9,London,Canary Riverside Plaza Hotel,d1453293,Plaza_Hotel,2009-06-01,2019-02-01,2009Q2,2019Q1,0,2
+Carlyle Brera Hotel,45.47699229999999,9.1844899,8.2,Milan,Carlyle Brera Hotel,d204472,Carlyle_Brera_Hotel,2003-12-01,2019-05-03,2003Q4,2019Q2,0,10
+Catalonia Atenas,41.4110056,2.1866009,7.9,Barcelona,Catalonia Atenas,d228469,Catalonia_Atenas_Hotel,2003-08-01,2019-04-01,2003Q3,2019Q2,0,2
+Catalonia Barcelona 505,41.4034965,2.1370426,8.2,Barcelona,Catalonia Barcelona 505,d228572,Hotel_Catalonia_Barcelona_505,2006-07-01,2019-04-01,2006Q3,2019Q2,0,7
+Catalonia Barcelona Plaza,41.3750293,2.1491172,8.4,Barcelona,Catalonia Barcelona Plaza,d229676,Catalonia_Barcelona_Plaza,2004-07-01,2019-04-24,2004Q3,2019Q2,0,6
+Catalonia Catedral,41.3846637,2.1740902,9.2,Barcelona,Catalonia Catedral,d610494,Hotel_Barcelona_Catedral,2006-10-01,2019-04-01,2006Q4,2019Q2,0,42
+Catalonia Diagonal Centro,41.393863200000006,2.1568039,8.1,Barcelona,Catalonia Diagonal Centro,d228576,Catalonia_Diagonal_Centro,2005-11-01,2019-04-01,2005Q4,2019Q2,0,36
+Catalonia La Pedrera,41.3986093,2.1625037,8.4,Barcelona,Catalonia La Pedrera,d228553,Catalonia_La_Pedrera,2003-06-01,2019-03-01,2003Q2,2019Q1,0,25
+Catalonia Park Putxet,41.4072812,2.1443116,7.4,Barcelona,Catalonia Park Putxet,d234578,Park_Hotel_Barcelona,2002-08-01,2019-04-01,2002Q3,2019Q2,0,6
+Catalonia Plaza Catalunya,41.3865289,2.1682919,8.6,Barcelona,Catalonia Plaza Catalunya,d10666658,Plaza_Catalunya,2016-12-01,2019-02-01,2016Q4,2019Q1,0,47
+Catalonia Ramblas 4 Sup,41.3856387,2.1668274,8.6,Barcelona,Catalonia Ramblas 4 Sup,d229682,Ramblas_Hotel,2003-04-01,2019-04-01,2003Q2,2019Q2,0,45
+Catalonia Rigoletto,41.385817,2.1256789,8.6,Barcelona,Catalonia Rigoletto,d1371392,Catalonia_Rigoletto,2009-05-01,2019-05-06,2009Q2,2019Q2,0,6
+Catalonia Square 4 Sup,41.3885658,2.1712991,9.4,Barcelona,Catalonia Square 4 Sup,d6204834,Catalonia_Square,2014-03-01,2019-04-01,2014Q1,2019Q2,0,45
+Chambiges Elys es,48.8668048,2.3039465,8.9,Paris,Chambiges Elys es,d267101,Chambiges_Elysees_Hotel,2003-05-01,2019-05-08,2003Q2,2019Q2,0,48
+Charlotte Street Hotel,51.5184158,-0.1348509,9.5,London,Charlotte Street Hotel,d548133,Charlotte_Street_Hotel,2002-05-01,2019-04-01,2002Q2,2019Q2,0,28
+Chasse Hotel,52.3696719,4.8614475,8.9,Amsterdam,Chasse Hotel,d12239660,Chasse_Hotel,2017-03-01,2019-04-27,2017Q1,2019Q2,0,3
+Chateau Frontenac,48.8689468,2.3026558999999995,8.5,Paris,Chateau Frontenac,d228854,Hotel_Chateau_Frontenac,2004-01-01,2019-04-01,2004Q1,2019Q2,0,50
+Chiswick Rooms,51.4937409,-0.244896,7.8,London,Chiswick Rooms,d3530129,Chiswick_Rooms,2012-10-01,2019-04-01,2012Q4,2019Q2,0,0
+City Rooms,48.2133296,16.347139900000002,7.9,Vienna,City Rooms,d1005665,City_Rooms_Hotel,2008-08-01,2018-08-01,2008Q3,2018Q3,0,4
+Clayton Hotel Chiswick,51.4924184,-0.2784700999999999,8.5,London,Clayton Hotel Chiswick,d612797,Clayton_Hotel_Chiswick,2015-05-01,2019-04-01,2015Q2,2019Q2,0,0
+Club Hotel Cortina,48.187794200000006,16.272721400000002,8.2,Vienna,Club Hotel Cortina,d293608,Club_Hotel_Cortina,2007-03-01,2019-04-22,2007Q1,2019Q2,0,0
+Club Quarters Hotel Gracechurch,51.5127964,-0.0847973,8.2,London,Club Quarters Hotel Gracechurch,d193096,Club_Quarters_Hotel_Gracechurch,2004-03-01,2019-04-24,2004Q1,2019Q2,0,10
+Club Quarters Hotel St Paul s,51.51392979999999,-0.101126,8.4,London,Club Quarters Hotel St Paul s,d239656,Club_Quarters_Hotel_St_Paul_s,2003-11-01,2019-05-06,2003Q4,2019Q2,0,7
+Club Quarters Hotel Trafalgar Square,51.506935,-0.1260119999999999,8.5,London,Club Quarters Hotel Trafalgar Square,d1477336,Club_Quarters_Hotel_Trafalgar_Square,2009-07-01,2019-05-09,2009Q3,2019Q2,0,22
+Colombia,45.4829817,9.2041911,8.3,Milan,Colombia,d570969,Hotel_Colombia,2006-07-01,2019-04-01,2006Q3,2019Q2,0,24
+Comfort Inn Suites Kings Cross St Pancras,51.5289499,-0.1232979,8.1,London,Comfort Inn Suites Kings Cross St Pancras,d1056130,Kings_Cross_Inn_Hotel,2012-07-01,2019-04-23,2012Q3,2019Q2,0,9
+Conrad London St James,51.4993927,-0.1329128,9.1,London,Conrad London St James,d2309633,Conrad_London_St_James,2012-12-01,2019-05-07,2012Q4,2019Q2,0,20
+Copthorne Tara Hotel London Kensington,51.499046,-0.1917073,8.1,London,Copthorne Tara Hotel London Kensington,d192155,K_Hotel_Kensington,2018-03-01,2019-04-24,2018Q1,2019Q2,0,23
+Corinthia Hotel London,51.5045583,-0.1262584,9.4,London,Corinthia Hotel London,d1845678,Corinthia_Hotel_London,2011-05-01,2019-05-03,2011Q2,2019Q2,0,19
+Corus Hotel Hyde Park,51.5119446,-0.179939,7.6,London,Corus Hotel Hyde Park,d195279,Corus_Hotel_Hyde_Park_London,2003-02-01,2019-05-10,2003Q1,2019Q2,0,21
+Courthouse Hotel London,51.5143624,-0.1394483,8.0,London,Courthouse Hotel London,d10223105,Courthouse_Hotel_Shoreditch,2016-05-01,2019-05-02,2016Q2,2019Q2,0,34
+Courtyard by Marriott Amsterdam Arena Atlas,52.310118200000005,4.9472918,8.4,Amsterdam,Courtyard by Marriott Amsterdam Arena Atlas,d229495,Amsterdam_Marriott_Hotel,2017-10-01,2019-05-07,2017Q4,2019Q2,0,2
+Courtyard by Marriott Vienna Prater Messe,48.2130607,16.4133973,8.7,Vienna,Courtyard by Marriott Vienna Prater Messe,d1100824,Courtyard_by_Marriott_Vienna_Prater_Messe,2008-08-01,2019-05-02,2008Q3,2019Q2,0,1
+Covent Garden Hotel,51.51459860000001,-0.1270336,9.4,London,Covent Garden Hotel,d15134890,The_Nadler_Covent_Garden,2019-02-01,2019-04-24,2019Q1,2019Q2,0,33
+Crowne Plaza Barcelona Fira Center,41.372524600000006,2.1540788,8.8,Barcelona,Crowne Plaza Barcelona Fira Center,d655311,Barcelona_Center_Plaza,2007-05-01,2018-08-01,2007Q2,2018Q3,0,4
+Crowne Plaza Milan City,45.4896727,9.2006406,8.5,Milan,Crowne Plaza Milan City,d1027179,Crowne_Plaza_Hotel_Milan_City,2008-10-01,2019-05-01,2008Q4,2019Q2,0,13
+Crowne Plaza Paris R publique,48.8673199,2.3656296,8.0,Paris,Crowne Plaza Paris R publique,d233583,Hotel_R_de_Paris,2013-12-01,2019-05-07,2013Q4,2019Q2,0,12
+DO CO Hotel Vienna,48.2082385,16.3715725,9.0,Vienna,DO CO Hotel Vienna,d607878,DO_CO_Hotel_Vienna,2006-04-01,2019-04-01,2006Q2,2019Q2,0,33
+Danubius Hotel Regents Park,51.529257,-0.1683579999999999,8.1,London,Danubius Hotel Regents Park,d193129,Danubius_Hotel_Regents_Park,2016-12-01,2019-04-28,2016Q4,2019Q2,0,3
+Das Triest Hotel,48.1974036,16.3673003,8.1,Vienna,Das Triest Hotel,d195241,Hotel_Das_Triest,2002-11-01,2019-05-05,2002Q4,2019Q2,0,16
+De Vere Devonport House,51.480672,-0.0071375,8.2,London,De Vere Devonport House,d243430,London_House_Hotel,2010-01-01,2019-05-03,2010Q1,2019Q2,0,1
+Der Wilhelmshof,48.2185837,16.3881339,8.8,Vienna,Der Wilhelmshof,d528647,An_der_Wien,2006-04-01,2019-02-01,2006Q2,2019Q1,0,4
+Derby Alma,48.8605031,2.3006606,8.9,Paris,Derby Alma,d240927,Le_Derby_Alma,2013-01-01,2019-04-01,2013Q1,2019Q2,0,28
+Dorset Square Hotel,51.52263610000001,-0.1602871,9.0,London,Dorset Square Hotel,d3318042,Dorset_Square_Hotel,2012-07-01,2019-04-16,2012Q3,2019Q2,0,23
+DoubleTree By Hilton London Excel,51.507377000000005,0.038657,8.4,London,DoubleTree By Hilton London Excel,d289306,DoubleTree_by_Hilton_Hotel_London_ExCeL,2016-01-01,2019-05-10,2016Q1,2019Q2,0,1
+DoubleTree By Hilton Milan,45.5005657,9.1383663,8.1,Milan,DoubleTree By Hilton Milan,d202853,Hilton_Milan,2003-11-01,2019-05-01,2003Q4,2019Q2,0,3
+DoubleTree by Hilton Amsterdam Centraal Station,52.376752,4.904618,8.4,Amsterdam,DoubleTree by Hilton Amsterdam Centraal Station,d1946024,DoubleTree_by_Hilton_Hotel_Amsterdam_Centraal_Station,2011-06-01,2019-05-08,2011Q2,2019Q2,0,9
+DoubleTree by Hilton Hotel Amsterdam NDSM Wharf,52.4001813,4.893665299999999,8.2,Amsterdam,DoubleTree by Hilton Hotel Amsterdam NDSM Wharf,d228438,Hilton_Amsterdam,2003-07-01,2019-04-27,2003Q3,2019Q2,0,0
+DoubleTree by Hilton Hotel London Marble Arch,51.514573,-0.15666,8.1,London,DoubleTree by Hilton Hotel London Marble Arch,d193092,DoubleTree_by_Hilton_Hotel_London_Marble_Arch,2011-03-01,2019-04-26,2011Q1,2019Q2,0,25
+DoubleTree by Hilton Hotel London Tower of London,51.5108412,-0.0780581,8.7,London,DoubleTree by Hilton Hotel London Tower of London,d1946018,DoubleTree_by_Hilton_Hotel_London_Tower_of_London,2010-12-01,2019-05-06,2010Q4,2019Q2,0,10
+DoubleTree by Hilton London Hyde Park,51.5100362,-0.190657,8.4,London,DoubleTree by Hilton London Hyde Park,d195184,Hilton_London_Hyde_Park,2016-06-01,2019-05-07,2016Q2,2019Q2,0,18
+DoubleTree by Hilton London Islington,51.5322508,-0.1095714,8.6,London,DoubleTree by Hilton London Islington,d192030,Doubletree_by_Hilton_London_Islington,2014-08-01,2019-05-03,2014Q3,2019Q2,0,1
+DoubleTree by Hilton London Victoria,51.49398,-0.143372,8.4,London,DoubleTree by Hilton London Victoria,d195204,DoubleTree_by_Hilton_Hotel_London_Victoria,2014-03-01,2019-05-08,2014Q1,2019Q2,0,13
+DoubleTree by Hilton London West End,51.5201065,-0.1221393,8.3,London,DoubleTree by Hilton London West End,d193102,DoubleTree_by_Hilton_Hotel_London_West_End,2011-02-01,2019-05-07,2011Q1,2019Q2,0,24
+DoubleTree by Hilton London Westminster,51.493235600000006,-0.1269082,8.5,London,DoubleTree by Hilton London Westminster,d189737,Hotel_Westminster,2003-06-01,2016-01-01,2003Q2,2016Q1,0,7
+Doubletree by Hilton London Kensington,51.4925138,-0.1787917,8.0,London,Doubletree by Hilton London Kensington,d195185,Hilton_London_Kensington,2002-08-01,2019-05-07,2002Q3,2019Q2,0,24
+Drawing Hotel,48.8644382,2.3359148,8.9,Paris,Drawing Hotel,d12100636,Drawing_Hotel,2017-03-01,2019-03-01,2017Q1,2019Q1,0,43
+Draycott Hotel,51.4930097,-0.159715,9.2,London,Draycott Hotel,d187737,Draycott_Hotel,2003-11-01,2019-04-01,2003Q4,2019Q2,0,14
+Dukes Hotel,51.5055381,-0.1396885,8.6,London,Dukes Hotel,d192117,Dukes_Hotel,2003-11-01,2019-04-25,2003Q4,2019Q2,0,33
+Duquesa Suites Barcelona,41.3810421,2.1814294,9.1,Barcelona,Duquesa Suites Barcelona,d8846187,Duquesa_Suites_Barcelona,2016-04-01,2019-05-02,2016Q2,2019Q2,0,18
+Duret,48.87525529999999,2.286653,8.4,Paris,Duret,d197458,Hotel_Duret,2004-11-01,2019-03-01,2004Q4,2019Q1,0,29
+Durrants Hotel,51.5179386,-0.1529794,8.1,London,Durrants Hotel,d193625,Durrants_Hotel,2003-10-01,2019-04-01,2003Q4,2019Q2,0,26
+Eccleston Square Hotel,51.4911924,-0.1449474,8.5,London,Eccleston Square Hotel,d2094329,Eccleston_Square_Hotel,2014-05-01,2019-05-07,2014Q2,2019Q2,0,11
+Enterprise Hotel Design Boutique,45.4867005,9.1575137,8.5,Milan,Enterprise Hotel Design Boutique,d232917,Enterprise_Hotel,2004-08-01,2019-04-22,2004Q3,2019Q2,0,6
+Etoile Saint Ferdinand,48.8777895,2.2872498,8.3,Paris,Etoile Saint Ferdinand,d197514,Hotel_Etoile_Saint_Ferdinand_by_HappyCulture,2004-01-01,2019-05-05,2004Q1,2019Q2,0,23
+Eurostars Angli,41.4031654,2.1231637,8.3,Barcelona,Eurostars Angli,d596514,Eurostars_Angli,2006-03-01,2019-04-05,2006Q1,2019Q2,0,2
+Eurostars Bcn Design,41.3907208,2.1660732000000005,8.3,Barcelona,Eurostars Bcn Design,d1008130,Eurostars_BCN_Design,2008-06-01,2019-04-01,2008Q2,2019Q2,0,54
+Eurostars Embassy,48.1964001,16.3958668,8.4,Vienna,Eurostars Embassy,d1107446,Eurostars_Embassy_Hotel,2008-12-01,2019-03-01,2008Q4,2019Q1,0,3
+Eurostars Grand Marina Hotel GL,41.371308,2.181698,8.5,Barcelona,Eurostars Grand Marina Hotel GL,d240860,Eurostars_Grand_Marina_Hotel,2003-01-01,2019-05-06,2003Q1,2019Q2,0,4
+Evenia Rossello,41.3920254,2.1554675,8.2,Barcelona,Evenia Rossello,d289345,Evenia_Rosello,2004-06-01,2019-05-02,2004Q2,2019Q2,0,34
+Excelsior Hotel Gallia Luxury Collection Hotel,45.4857027,9.2020127,9.4,Milan,Excelsior Hotel Gallia Luxury Collection Hotel,d1889437,The_Luxury_Milano,2011-07-01,2016-04-01,2011Q3,2016Q2,0,20
+Exe Laietana Palace,41.383354100000005,2.1794038,7.9,Barcelona,Exe Laietana Palace,d234574,Exe_Laietana_Palace,2003-08-01,2019-05-01,2003Q3,2019Q2,0,27
+Exe Vienna,48.2149414,16.3365285,7.7,Vienna,Exe Vienna,d206641,Hotel_Exe_Vienna,2003-07-01,2019-03-01,2003Q3,2019Q1,0,2
+Fairmont Rey Juan Carlos I,41.3835246,2.1096141,8.3,Barcelona,Fairmont Rey Juan Carlos I,d208210,Fairmont_Rey_Juan_Carlos_I,2016-02-01,2019-04-01,2016Q1,2019Q2,0,0
+Fielding Hotel,51.5139315,-0.1219893,8.7,London,Fielding Hotel,d210069,The_Fielding_Hotel,2002-09-01,2019-04-01,2002Q3,2019Q2,0,28
+Forest Hill Paris la Villette,48.8969854,2.3852745,7.6,Paris,Forest Hill Paris la Villette,d501173,Hotel_Paris_Villette,2007-04-01,2019-01-01,2007Q2,2019Q1,0,0
+Four Points Sheraton Milan Center,45.4851889,9.198015,8.2,Milan,Four Points Sheraton Milan Center,d202858,Four_Points_by_Sheraton_Milan_Center,2004-01-01,2019-04-28,2004Q1,2019Q2,0,19
+Four Seasons Hotel London at Park Lane,51.504439,-0.149911,9.3,London,Four Seasons Hotel London at Park Lane,d240245,Four_Seasons_Hotel,2003-12-01,2016-06-01,2003Q4,2016Q2,0,28
+Four Seasons Hotel Milano,45.469339,9.195108,9.1,Milan,Four Seasons Hotel Milano,d194346,Four_Seasons_Hotel_Milano,2004-04-01,2019-05-08,2004Q2,2019Q2,0,19
+FourSide Hotel Suites Vienna,48.2565936,16.4031426,8.6,Vienna,FourSide Hotel Suites Vienna,d1762083,FourSide_Hotel_Suites_Vienna,2011-09-01,2019-04-01,2011Q3,2019Q2,0,0
+FourSide Hotel Vienna City Center,48.1825159,16.332242800000003,8.1,Vienna,FourSide Hotel Vienna City Center,d1772303,FourSide_Hotel_City_Center_Vienna,2012-08-01,2018-12-01,2012Q3,2018Q4,0,0
+Francois 1er,48.87018870000001,2.2997281000000003,8.7,Paris,Francois 1er,d4353230,Francois_1er,2014-07-01,2018-06-01,2014Q3,2018Q2,0,52
+Franklin Roosevelt,48.8678432,2.3033075000000003,8.6,Paris,Franklin Roosevelt,d261990,Hotel_Franklin_D_Roosevelt,2002-05-01,2019-01-01,2002Q2,2019Q1,0,48
+Gainsborough Hotel,51.4948416,-0.1772056,6.9,London,Gainsborough Hotel,d192132,The_Gainsborough_Hotel,2003-10-01,2019-05-07,2003Q4,2019Q2,0,25
+Gallery Hotel,41.394924200000005,2.1593099,9.1,Barcelona,Gallery Hotel,d228465,Gallery_Hotel,2002-08-01,2019-05-12,2002Q3,2019Q2,0,33
+Gardette Park Hotel,48.8610265,2.3788974,8.2,Paris,Gardette Park Hotel,d2657435,Gardette_Park_Hotel,2012-07-01,2018-10-01,2012Q3,2018Q4,0,5
+Gartenhotel Altmannsdorf Hotel 1,48.1640345,16.3216061,8.0,Vienna,Gartenhotel Altmannsdorf Hotel 1,d263907,Gartenhotel_Altmannsdorf,2005-01-01,2017-12-01,2005Q1,2017Q4,0,0
+Glam Milano,45.4838504,9.2034067,8.8,Milan,Glam Milano,d8638714,Glam_Hotel,2015-09-01,2019-04-01,2015Q3,2019Q2,0,23
+Golden Tulip Bercy Gare de Lyon 209,48.8393229,2.3892274,8.7,Paris,Golden Tulip Bercy Gare de Lyon 209,d207565,Le_209,2016-04-01,2019-05-02,2016Q2,2019Q2,0,1
+Golden Tulip Opera de Noailles,48.8696173,2.3346428,8.6,Paris,Golden Tulip Opera de Noailles,d315163,Golden_Hotel_Paris,2005-10-01,2019-01-01,2005Q4,2019Q1,0,54
+Golden Tulip Washington Opera,48.866242,2.3373169,8.3,Paris,Golden Tulip Washington Opera,d229553,Golden_Tulip_Hotel_Washington_Opera,2003-09-01,2019-04-26,2003Q3,2019Q2,0,47
+Goodenough Club,51.525535,-0.1180354,8.5,London,Goodenough Club,d509370,Goodenough,2005-02-01,2019-04-26,2005Q1,2019Q2,0,13
+Graben Hotel,48.2078955,16.3701084,8.6,Vienna,Graben Hotel,d228069,Graben_Hotel,2003-12-01,2019-04-01,2003Q4,2019Q2,0,32
+Gran Hotel Barcino,41.38305820000001,2.1778267,7.0,Barcelona,Gran Hotel Barcino,d234569,Gran_Hotel_Barcino,2018-02-01,2019-04-16,2018Q1,2019Q2,0,28
+Gran Hotel La Florida,41.4253332,2.1211028,8.7,Barcelona,Gran Hotel La Florida,d266131,Gran_Hotel_La_Florida,2003-09-01,2019-04-01,2003Q3,2019Q2,0,0
+Gran Hotel Torre Catalunya,41.37955720000001,2.1425457000000003,8.5,Barcelona,Gran Hotel Torre Catalunya,d289670,Gran_Hotel_Torre_Catalunya,2004-08-01,2019-05-06,2004Q3,2019Q2,0,8
+Grand Ferdinand Vienna Your Hotel In The City Center,48.2022415,16.374933600000002,8.6,Vienna,Grand Ferdinand Vienna Your Hotel In The City Center,d8684482,Grand_Ferdinand,2015-10-01,2019-05-05,2015Q4,2019Q2,0,28
+Grand H tel Du Palais Royal,48.8630829,2.3378592,9.2,Paris,Grand H tel Du Palais Royal,d283883,Grand_Hotel_de_Paris,2004-09-01,2019-04-17,2004Q3,2019Q2,0,36
+Grand Hotel Amr th Amsterdam,52.3744149,4.9041443,8.3,Amsterdam,Grand Hotel Amr th Amsterdam,d618996,Grand_Hotel_Amrath_Amsterdam,2007-06-01,2019-04-22,2007Q2,2019Q2,0,10
+Grand Hotel Central,41.3849695,2.1776631,8.9,Barcelona,Grand Hotel Central,d583963,Grand_Hotel_Central,2013-11-01,2019-05-08,2013Q4,2019Q2,0,36
+Grand Hotel Downtown,52.36513,4.8729422,7.5,Amsterdam,Grand Hotel Downtown,d3451953,Grand_Hotel_Downtown,2012-09-01,2019-05-08,2012Q3,2019Q2,0,14
+Grand Hotel Wien,48.2021105,16.3720841,9.0,Vienna,Grand Hotel Wien,d12197295,Vienna_Grand_Apartments_CITY,2017-03-01,2018-12-01,2017Q1,2018Q4,0,31
+Grand Hotel et de Milan,45.4699058,9.1925024,9.1,Milan,Grand Hotel et de Milan,d194973,Grand_Hotel_et_de_Milan,2004-05-01,2019-04-01,2004Q2,2019Q2,0,19
+Grand Pigalle Hotel,48.880856,2.3375085,9.1,Paris,Grand Pigalle Hotel,d1033073,Grand_Pigalle_Hotel,2015-03-01,2019-04-01,2015Q1,2019Q2,0,21
+Grand Royale London Hyde Park,51.5109945,-0.1863417,7.7,London,Grand Royale London Hyde Park,d218403,Grand_Royale_London_Hyde_Park,2009-11-01,2019-05-09,2009Q4,2019Q2,0,23
+Grange Beauchamp Hotel,51.5203266,-0.1245891,8.6,London,Grange Beauchamp Hotel,d1025752,Grange_Beauchamp_Hotel,2008-04-01,2019-05-08,2008Q2,2019Q2,0,25
+Grange Blooms Hotel,51.51969129999999,-0.1254243,8.3,London,Grange Blooms Hotel,d600130,Grange_Blooms_Hotel,2002-08-01,2019-04-01,2002Q3,2019Q2,0,26
+Grange Buckingham Hotel,51.5196124,-0.1239628,8.5,London,Grange Buckingham Hotel,d505150,Grange_Buckingham_Hotel,2005-01-01,2019-04-26,2005Q1,2019Q2,0,26
+Grange City Hotel,51.5110114,-0.0771251,8.7,London,Grange City Hotel,d224769,Grange_City_Hotel,2019-04-01,2019-05-05,2019Q2,2019Q2,0,10
+Grange Clarendon Hotel,51.5197933,-0.1241844,8.1,London,Grange Clarendon Hotel,d535167,Grange_Clarendon_Hotel,2005-04-01,2019-04-27,2005Q2,2019Q2,0,26
+Grange Langham Court Hotel,51.51890770000001,-0.1421957,7.9,London,Grange Langham Court Hotel,d187569,The_Langham_London,2017-02-01,2019-05-14,2017Q1,2019Q2,0,21
+Grange Rochester Hotel,51.4942654,-0.1366026,8.2,London,Grange Rochester Hotel,d224663,Grange_Rochester_Hotel,2004-06-01,2019-04-29,2004Q2,2019Q2,0,13
+Grange St Paul s Hotel,51.5127625,-0.0997156999999999,8.5,London,Grange St Paul s Hotel,d605356,Grange_St_Paul_s_Hotel,2019-04-01,2019-05-07,2019Q2,2019Q2,0,6
+Grange Strathmore Hotel,51.4958184,-0.1813958,8.0,London,Grange Strathmore Hotel,d193659,Grange_Strathmore_Hotel,2003-06-01,2019-04-01,2003Q2,2019Q2,0,30
+Grange Tower Bridge Hotel,51.5115509,-0.0714919,8.7,London,Grange Tower Bridge Hotel,d192044,London_Bridge_Hotel,2003-10-01,2019-05-13,2003Q4,2019Q2,0,8
+Grange Wellington Hotel,51.4944319,-0.1363756,8.8,London,Grange Wellington Hotel,d1153350,The_Wellington_Hotel,2008-09-01,2019-04-01,2008Q3,2019Q2,0,13
+Grange White Hall Hotel,51.5203469,-0.1260893,7.9,London,Grange White Hall Hotel,d215545,Grange_White_Hall_Hotel,2003-05-01,2019-04-01,2003Q2,2019Q2,0,27
+Great St Helen Hotel,51.5149583,-0.0823868999999999,7.4,London,Great St Helen Hotel,d8420789,Great_St_Helen_Hotel,2015-07-01,2019-04-11,2015Q3,2019Q2,0,13
+Grosvenor House A JW Marriott Hotel,51.5082019,-0.1545589,7.9,London,Grosvenor House A JW Marriott Hotel,d199144,JW_Marriott_Grosvenor_House_London,2008-09-01,2019-05-03,2008Q3,2019Q2,0,25
+Grosvenor House Suites by Jumeirah Living,51.509841,-0.1552193,8.7,London,Grosvenor House Suites by Jumeirah Living,d218409,The_Grosvenor_Hotel,2012-01-01,2019-05-05,2012Q1,2019Q2,0,28
+Grupotel Gran Via 678,41.392344,2.1729157000000003,8.4,Barcelona,Grupotel Gran Via 678,d1718864,Grupotel_Gran_Via_678,2010-03-01,2019-05-07,2010Q1,2019Q2,0,41
+Guitart Grand Passage,41.3936071,2.1504611,8.1,Barcelona,Guitart Grand Passage,d237156,Guitart_Grand_Passage,2015-09-01,2019-04-01,2015Q3,2019Q2,0,24
+H tel Aiglon Esprit de France,48.83966229999999,2.3300582000000003,8.9,Paris,H tel Aiglon Esprit de France,d232541,Hotel_Aiglon_Esprit_de_France,2004-08-01,2019-05-01,2004Q3,2019Q2,0,15
+H tel Amastan Paris,48.8716831,2.3123759,9.1,Paris,H tel Amastan Paris,d233791,Amastan_Paris,2016-08-01,2019-04-08,2016Q3,2019Q2,0,50
+H tel Arvor Saint Georges,48.8785454,2.3384866,8.7,Paris,H tel Arvor Saint Georges,d315151,Hotel_De_Paris_Saint_Georges,2004-09-01,2019-04-01,2004Q3,2019Q2,0,26
+H tel Balzac,48.8732785,2.3004174,8.3,Paris,H tel Balzac,d194305,Hotel_Balzac,2003-06-01,2019-05-03,2003Q2,2019Q2,0,53
+H tel Beauchamps,48.87096,2.3091617,8.1,Paris,H tel Beauchamps,d228858,Hotel_Beauchamps,2016-07-01,2019-04-23,2016Q3,2019Q2,0,51
+H tel Bedford,48.8720593,2.3236802000000005,8.6,Paris,H tel Bedford,d188981,Hotel_Bedford,2003-07-01,2019-03-01,2003Q3,2019Q1,0,47
+H tel Belloy Saint Germain By Happyculture,48.8503901,2.3422527,8.3,Paris,H tel Belloy Saint Germain By Happyculture,d198026,Hotel_Belloy_Saint_Germain,2003-08-01,2019-05-08,2003Q3,2019Q2,0,26
+H tel Bourgogne Montana by MH,48.860192700000006,2.318423,8.9,Paris,H tel Bourgogne Montana by MH,d229526,Bourgogne_et_Montana_Hotel_by_MH,2014-07-01,2019-04-01,2014Q3,2019Q2,0,14
+H tel Brighton Esprit de France,48.8649306,2.3290844,8.7,Paris,H tel Brighton Esprit de France,d290407,Paris_France_Hotel,2004-05-01,2019-04-13,2004Q2,2019Q2,0,47
+H tel Champs lys es Plaza,48.87370429999999,2.3061477000000004,8.7,Paris,H tel Champs lys es Plaza,d219985,Hotel_du_Lys,2002-09-01,2019-03-01,2002Q3,2019Q1,0,54
+H tel Chaplain Paris Rive Gauche,48.8427564,2.3305636,8.7,Paris,H tel Chaplain Paris Rive Gauche,d194233,Hotel_Chaplain,2008-04-01,2019-05-08,2008Q2,2019Q2,0,17
+H tel Concorde Montparnasse,48.8381079,2.318669,7.9,Paris,H tel Concorde Montparnasse,d483116,Hotel_Concorde_Montparnasse,2004-07-01,2019-04-02,2004Q3,2019Q2,0,12
+H tel Crayon Rouge by Elegancia,48.8644967,2.3405415,9.0,Paris,H tel Crayon Rouge by Elegancia,d235583,Hotel_Crayon_by_Elegancia,2011-10-01,2019-05-05,2011Q4,2019Q2,0,37
+H tel D Aubusson,48.8547329,2.3395277,9.4,Paris,H tel D Aubusson,d194308,Hotel_d_Aubusson,2003-06-01,2019-05-11,2003Q2,2019Q2,0,34
+H tel De Buci by MH,48.8538752,2.3366123,8.9,Paris,H tel De Buci by MH,d233582,Hotel_De_Buci_by_MH,2004-01-01,2019-04-01,2004Q1,2019Q2,0,30
+H tel De Castiglione,48.8691758,2.3205807000000003,7.2,Paris,H tel De Castiglione,d228689,Hotel_de_Castiglione,2015-01-01,2019-04-01,2015Q1,2019Q2,0,49
+H tel De Sers Champs Elys es Paris,48.8683593,2.3002117,8.5,Paris,H tel De Sers Champs Elys es Paris,d305850,Hotel_de_Sers,2005-02-01,2019-04-27,2005Q1,2019Q2,0,51
+H tel Diva Opera,48.8732706,2.3450746,8.3,Paris,H tel Diva Opera,d242963,Hotel_Diva_Opera,2012-10-01,2019-04-01,2012Q4,2019Q2,0,29
+H tel Du Jeu De Paume,48.8520377,2.3557092,8.7,Paris,H tel Du Jeu De Paume,d194304,Hotel_du_Jeu_de_Paume,2002-09-01,2019-05-02,2002Q3,2019Q2,0,12
+H tel Elysees Mermoz,48.8715079,2.3122259,8.7,Paris,H tel Elysees Mermoz,d194269,Elysees_Mermoz_Hotel,2010-04-01,2019-04-26,2010Q2,2019Q2,0,50
+H tel Exquis by Elegancia,48.8536854,2.3805796000000004,8.9,Paris,H tel Exquis by Elegancia,d1986355,Hotel_Exquis_by_Elegancia,2015-10-01,2019-04-01,2015Q4,2019Q2,0,3
+H tel Fabric,48.8629329,2.3723822999999995,9.3,Paris,H tel Fabric,d4340356,Hotel_Fabric,2013-07-01,2019-05-11,2013Q3,2019Q2,0,10
+H tel Gustave,48.850205200000005,2.289043,8.8,Paris,H tel Gustave,d289315,Hotel_Gustave,2015-07-01,2019-05-04,2015Q3,2019Q2,0,7
+H tel Hor,48.8793427,2.3577745,8.6,Paris,H tel Hor,d3315563,Hotel_Hor,2012-09-01,2019-04-01,2012Q3,2019Q2,0,11
+H tel Juliana Paris,48.8619373,2.3040298,8.6,Paris,H tel Juliana Paris,d7593552,Hotel_Juliana_Paris,2015-06-01,2019-04-01,2015Q2,2019Q2,0,28
+H tel Keppler,48.8699103,2.2973386,9.1,Paris,H tel Keppler,d235567,Hotel_Keppler,2005-01-01,2019-04-09,2005Q1,2019Q2,0,51
+H tel L Echiquier Op ra Paris MGallery by Sofitel,48.8719889,2.3492912999999995,9.1,Paris,H tel L Echiquier Op ra Paris MGallery by Sofitel,d480768,L_Hotel,2003-02-01,2019-04-01,2003Q1,2019Q2,0,29
+H tel La Comtesse by Elegancia,48.853865,2.3072019,9.0,Paris,H tel La Comtesse by Elegancia,d10159593,Hotel_La_Comtesse,2016-11-01,2019-04-01,2016Q4,2019Q2,0,12
+H tel La Parizienne by Elegancia,48.8450894,2.3209503,8.5,Paris,H tel La Parizienne by Elegancia,d529913,Hotel_La_Parizienne_by_Elegancia,2015-02-01,2019-02-01,2015Q1,2019Q1,0,13
+H tel Le M,48.8397623,2.3235324,8.2,Paris,H tel Le M,d648105,Hotel_Le_M,2012-03-01,2019-04-01,2012Q1,2019Q2,0,15
+H tel Le Marianne,48.8725794,2.3075779,8.7,Paris,H tel Le Marianne,d7156343,Le_Marianne_Hotel,2014-12-01,2019-04-27,2014Q4,2019Q2,0,47
+H tel Le Relais Saint Germain,48.8519208,2.338878,9.3,Paris,H tel Le Relais Saint Germain,d194309,Hotel_Relais_Saint_Germain,2002-03-01,2019-05-08,2002Q1,2019Q2,0,29
+H tel Le Walt,48.854716100000005,2.306642,8.8,Paris,H tel Le Walt,d290385,Hotel_Le_Walt,2004-11-01,2019-05-01,2004Q4,2019Q2,0,11
+H tel Mansart Esprit de France,48.8684776,2.3298238,8.6,Paris,H tel Mansart Esprit de France,d219998,Hotel_Mansart,2002-08-01,2019-04-01,2002Q3,2019Q2,0,48
+H tel Mathis Elys es,48.8700325,2.3112736000000003,8.7,Paris,H tel Mathis Elys es,d1440224,Hotel_Mathis,2015-07-01,2019-04-24,2015Q3,2019Q2,0,50
+H tel Monna Lisa Champs Elys es,48.874853,2.3245798,8.7,Paris,H tel Monna Lisa Champs Elys es,d231063,Hotel_Monna_Lisa,2003-05-01,2019-04-01,2003Q2,2019Q2,0,44
+H tel Paris Bastille Boutet MGallery by Sofitel,48.8519215,2.3839993,8.8,Paris,H tel Paris Bastille Boutet MGallery by Sofitel,d315149,Hotel_Paris_Bastille,2005-07-01,2019-04-01,2005Q3,2019Q2,0,3
+H tel Pont Royal,48.85656289999999,2.3273623,8.6,Paris,H tel Pont Royal,d230489,Hotel_Pont_Royal,2004-04-01,2019-04-23,2004Q2,2019Q2,0,21
+H tel Raphael,48.8713239,2.2937849,8.7,Paris,H tel Raphael,d189699,Hotel_Raphael,2002-07-01,2019-04-01,2002Q3,2019Q2,0,48
+H tel Recamier,48.8503493,2.3344305,9.0,Paris,H tel Recamier,d283118,Hotel_Recamier,2008-12-01,2019-02-01,2008Q4,2019Q1,0,31
+H tel Regent s Garden,48.8797513,2.2919634,9.1,Paris,H tel Regent s Garden,d236507,Hotel_Le_Regent,2003-01-01,2019-04-08,2003Q1,2019Q2,0,26
+H tel Saint Paul Rive Gauche,48.84968189999999,2.3402806000000003,8.9,Paris,H tel Saint Paul Rive Gauche,d197432,Hotel_Saint_Paul_Rive_Gauche,2003-02-01,2019-05-02,2003Q1,2019Q2,0,25
+H tel Square Louvois,48.8684165,2.336869,9.3,Paris,H tel Square Louvois,d10228834,Paris_Square,2016-05-01,2019-04-04,2016Q2,2019Q2,0,50
+H tel Thoumieux,48.8595985,2.3088076,8.9,Paris,H tel Thoumieux,d571562,Hotel_Thoumieux,2006-03-01,2019-04-06,2006Q1,2019Q2,0,17
+H tel Vernet,48.871859,2.2978177000000004,8.6,Paris,H tel Vernet,d194306,Hotel_Vernet,2014-03-01,2019-05-01,2014Q1,2019Q2,0,50
+H tel de Banville,48.88646729999999,2.2948911,8.7,Paris,H tel de Banville,d233745,Hotel_de_Banville,2002-09-01,2019-05-09,2002Q3,2019Q2,0,11
+H tel de Jos phine BONAPARTE,48.8555319,2.3621212000000003,9.0,Paris,H tel de Jos phine BONAPARTE,d235550,Hotel_Bonaparte,2003-08-01,2019-04-01,2003Q3,2019Q2,0,9
+H tel de Lille,48.8585626,2.3299138,8.9,Paris,H tel de Lille,d194229,Hotel_de_Lille,2015-10-01,2019-03-01,2015Q4,2019Q1,0,33
+H tel de la Bourdonnais,48.8550466,2.304583,8.8,Paris,H tel de la Bourdonnais,d233462,Hotel_La_Bourdonnais,2014-08-01,2019-05-06,2014Q3,2019Q2,0,14
+H tel des Academies et des Arts,48.8420669,2.3304091,8.8,Paris,H tel des Academies et des Arts,d1095681,Hotel_des_Arts,2009-03-01,2019-04-01,2009Q1,2019Q2,0,17
+H tel des Ducs D Anjou,48.8598229,2.347111,7.7,Paris,H tel des Ducs D Anjou,d254714,Des_Ducs_d_Anjou,2004-06-01,2019-04-01,2004Q2,2019Q2,0,22
+H10 Casa Mimosa 4 Sup,41.3962106,2.1621171,9.6,Barcelona,H10 Casa Mimosa 4 Sup,d10683772,H10_Casa_Mimosa,2016-09-01,2019-05-04,2016Q3,2019Q2,0,35
+H10 Casanova,41.38426079999999,2.1609471,8.6,Barcelona,H10 Casanova,d614395,H10_Casanova,2006-12-01,2019-05-04,2006Q4,2019Q2,0,27
+H10 Cubik 4 Sup,41.388024,2.1731556,9.3,Barcelona,H10 Cubik 4 Sup,d8778628,H10_Cubik,2015-11-01,2019-05-01,2015Q4,2019Q2,0,41
+H10 London Waterloo,51.498881700000005,-0.1062887999999999,8.5,London,H10 London Waterloo,d1719249,H10_London_Waterloo,2010-03-01,2019-04-01,2010Q1,2019Q2,0,4
+H10 Marina Barcelona,41.393227,2.1927427,8.2,Barcelona,H10 Marina Barcelona,d282300,H10_Marina_Barcelona_Hotel,2003-08-01,2019-05-09,2003Q3,2019Q2,0,6
+H10 Metropolitan 4 Sup,41.3875467,2.1673975,9.2,Barcelona,H10 Metropolitan 4 Sup,d6973853,H10_Metropolitan,2014-08-01,2019-04-24,2014Q3,2019Q2,0,49
+H10 Urquinaona Plaza,41.3892128,2.1726015,9.1,Barcelona,H10 Urquinaona Plaza,d208594,Hotel_Urquinaona,2002-07-01,2018-12-01,2002Q3,2018Q4,0,40
+HCC Regente,41.3922919,2.1622256,8.1,Barcelona,HCC Regente,d280919,Hotel_HCC_Regente,2003-06-01,2019-05-03,2003Q2,2019Q2,0,47
+HCC St Moritz,41.390848600000005,2.1680745,8.3,Barcelona,HCC St Moritz,d258869,HCC_St_Moritz,2003-07-01,2019-05-06,2003Q3,2019Q2,0,51
+Hampshire Hotel Amsterdam American,52.363889,4.881302,8.5,Amsterdam,Hampshire Hotel Amsterdam American,d229477,American_Hotel_Amsterdam,2002-10-01,2019-05-07,2002Q4,2019Q2,0,16
+Hampshire Hotel Rembrandt Square Amsterdam,52.3663466,4.8985764000000005,7.8,Amsterdam,Hampshire Hotel Rembrandt Square Amsterdam,d239022,Hotel_Rembrandt,2003-11-01,2019-03-01,2003Q4,2019Q1,0,14
+Haymarket Hotel,51.5084595,-0.1311382,9.6,London,Haymarket Hotel,d651511,Haymarket_Hotel,2007-05-01,2019-04-01,2007Q2,2019Q2,0,25
+Hazlitt s,51.5143447,-0.1318157,9.0,London,Hazlitt s,d193633,Hazlitt_s,2003-10-01,2019-04-01,2003Q4,2019Q2,0,35
+Henley House Hotel,51.4922348,-0.1914229,8.6,London,Henley House Hotel,d193071,Henley_House_Hotel,2002-11-01,2019-04-26,2002Q4,2019Q2,0,22
+Hilton Barcelona,41.388682,2.1316368,8.1,Barcelona,Hilton Barcelona,d228648,Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton,2003-06-01,2019-04-26,2003Q2,2019Q2,0,11
+Hilton Diagonal Mar Barcelona,41.4084334,2.2178205,7.9,Barcelona,Hilton Diagonal Mar Barcelona,d559387,Hilton_Diagonal_Mar_Barcelona,2005-10-01,2019-04-27,2005Q4,2019Q2,0,5
+Hilton Garden Inn Vienna South,48.1667886,16.344908,8.1,Vienna,Hilton Garden Inn Vienna South,d206600,Hilton_Garden_Inn_Vienna_South,2016-04-01,2019-04-01,2016Q2,2019Q2,0,2
+Hilton London Bankside,51.5056956,-0.101525,9.3,London,Hilton London Bankside,d15100964,Bankside_Hotel,2018-10-01,2019-04-24,2018Q4,2019Q2,0,5
+Hilton London Canary Wharf,51.5007324,-0.01655,9.0,London,Hilton London Canary Wharf,d585836,Hilton_London_Canary_Wharf,2006-07-01,2019-04-28,2006Q3,2019Q2,0,2
+Hilton London Green Park,51.5064534,-0.1456145999999999,7.3,London,Hilton London Green Park,d193156,Hilton_London_Green_Park,2003-01-01,2019-02-01,2003Q1,2019Q1,0,26
+Hilton London Metropole,51.5195688,-0.170521,7.5,London,Hilton London Metropole,d193089,Hilton_London_Metropole,2013-10-01,2019-05-09,2013Q4,2019Q2,0,21
+Hilton London Olympia,51.4967399,-0.2064723,7.4,London,Hilton London Olympia,d498338,Hotel_Olympia,2006-06-01,2019-04-01,2006Q2,2019Q2,0,7
+Hilton London Paddington,51.515632,-0.1757369999999999,8.2,London,Hilton London Paddington,d209371,Hilton_London_Paddington,2002-12-01,2019-04-26,2002Q4,2019Q2,0,22
+Hilton Vienna Danube Waterfront,48.2140659,16.4217627,8.4,Vienna,Hilton Vienna Danube Waterfront,d227146,Hilton_Vienna_Danube_Waterfront,2002-12-01,2019-05-09,2002Q4,2019Q2,0,1
+Hilton Vienna Plaza,48.2155236,16.3646858,8.6,Vienna,Hilton Vienna Plaza,d228207,Hilton_Vienna,2003-09-01,2019-05-06,2003Q3,2019Q2,0,15
+Holiday Inn Amsterdam,52.3351951,4.8885354,7.7,Amsterdam,Holiday Inn Amsterdam,d13489848,Holiday_Inn_Express_Amsterdam_City_Hall,2018-04-01,2019-04-21,2018Q2,2019Q2,0,1
+Holiday Inn Amsterdam Arena Towers,52.309683500000006,4.9422614000000005,8.4,Amsterdam,Holiday Inn Amsterdam Arena Towers,d229480,Holiday_Inn_Amsterdam,2003-08-01,2019-04-01,2003Q3,2019Q2,0,2
+Holiday Inn London Bloomsbury,51.5241248,-0.1258066,8.2,London,Holiday Inn London Bloomsbury,d193648,Holiday_Inn_London_Bloomsbury,2002-05-01,2019-05-03,2002Q2,2019Q2,0,19
+Holiday Inn London Camden Lock,51.5404555,-0.1460833,8.6,London,Holiday Inn London Camden Lock,d242991,Camden_Lock_Hotel,2004-11-01,2018-10-01,2004Q4,2018Q4,0,0
+Holiday Inn London Kensington,51.499981,-0.1928791,7.8,London,Holiday Inn London Kensington,d193133,Holiday_Inn_London_Kensington_Forum,2002-10-01,2019-04-27,2002Q4,2019Q2,0,22
+Holiday Inn London Mayfair,51.507746,-0.1422993,8.0,London,Holiday Inn London Mayfair,d195203,Holiday_Inn_London_Mayfair,2004-01-01,2019-04-29,2004Q1,2019Q2,0,30
+Holiday Inn London Regent s Park,51.5222472,-0.1426127999999999,8.2,London,Holiday Inn London Regent s Park,d224737,Holiday_Inn_London_Regent_s_Park,2003-08-01,2019-05-07,2003Q3,2019Q2,0,16
+Holiday Inn London Stratford City,51.5426054,-0.0072708,8.7,London,Holiday Inn London Stratford City,d1056104,Stratford_Hotel,2010-03-01,2019-03-01,2010Q1,2019Q1,0,0
+Holiday Inn London West,51.5210117,-0.2628618,8.1,London,Holiday Inn London West,d313125,Holiday_Inn_London_West,2014-08-01,2019-04-01,2014Q3,2019Q2,0,0
+Holiday Inn London Whitechapel,51.5154006,-0.0572364,8.5,London,Holiday Inn London Whitechapel,d2401829,Holiday_Inn_London_Whitechapel,2012-07-01,2019-05-03,2012Q3,2019Q2,0,2
+Holiday Inn Milan Garibaldi Station,45.488764,9.183057000000002,8.3,Milan,Holiday Inn Milan Garibaldi Station,d281811,Holiday_Inn_Milan_Garibaldi_Station,2003-09-01,2019-05-10,2003Q3,2019Q2,0,3
+Holiday Inn Paris Elys es,48.8730437,2.3161144,8.0,Paris,Holiday Inn Paris Elys es,d228022,Holiday_Inn_Paris_Elysees,2011-11-01,2019-02-01,2011Q4,2019Q1,0,44
+Holiday Inn Paris Gare Montparnasse,48.838291600000005,2.3230188,7.5,Paris,Holiday Inn Paris Gare Montparnasse,d242972,Holiday_Inn_Paris_Montparnasse_Pasteur,2005-04-01,2019-05-04,2005Q2,2019Q2,0,14
+Holiday Inn Paris Gare de Lyon Bastille,48.8468064,2.3714789,8.3,Paris,Holiday Inn Paris Gare de Lyon Bastille,d197489,Hotel_Lyon_Bastille,2013-05-01,2019-04-10,2013Q2,2019Q2,0,3
+Holiday Inn Paris Gare de l Est,48.8758981,2.3590504,7.9,Paris,Holiday Inn Paris Gare de l Est,d282315,Est_Hotel_Paris,2004-01-01,2019-04-01,2004Q1,2019Q2,0,15
+Holiday Inn Paris Notre Dame,48.8528427,2.3422256,8.3,Paris,Holiday Inn Paris Notre Dame,d302993,Hotel_le_Notre_Dame,2009-04-01,2019-04-19,2009Q2,2019Q2,0,33
+Hollmann Beletage Design Boutique,48.2105156,16.3760717,9.3,Vienna,Hollmann Beletage Design Boutique,d482579,Hollmann_Beletage_Design_Boutique_Hotel,2004-10-01,2019-05-02,2004Q4,2019Q2,0,32
+Hotel 1898,41.38346729999999,2.1712016,9.2,Barcelona,Hotel 1898,d506158,Hotel_1898,2005-11-01,2019-05-08,2005Q4,2019Q2,0,44
+Hotel 4 Barcelona,41.39595870000001,2.2008981,7.7,Barcelona,Hotel 4 Barcelona,d1372535,Barcelona_4_Fun_Hostel,2009-09-01,2019-02-01,2009Q3,2019Q1,0,4
+Hotel 55,51.5213303,-0.2915052,8.5,London,Hotel 55,d617244,Hotel_55,2006-08-01,2019-04-01,2006Q3,2019Q2,0,1
+Hotel 82 London,51.5195857,-0.1584803,7.5,London,Hotel 82 London,d2470975,Studios_82,2012-04-01,2018-01-01,2012Q2,2018Q1,0,23
+Hotel Abbot,41.3815028,2.1449138,7.4,Barcelona,Hotel Abbot,d229871,Hotel_Abbot,2004-12-01,2019-04-14,2004Q4,2019Q2,0,10
+Hotel Alimara,41.4337561,2.147327,8.1,Barcelona,Hotel Alimara,d228464,Alimara_Barcelona_Hotel,2004-02-01,2019-04-01,2004Q1,2019Q2,0,0
+Hotel Am Konzerthaus Vienna MGallery by Sofitel,48.1996129,16.3773546,8.6,Vienna,Hotel Am Konzerthaus Vienna MGallery by Sofitel,d228058,Hotel_Am_Konzerthaus_Vienna_MGallery_by_Sofitel,2008-10-01,2019-04-26,2008Q4,2019Q2,0,23
+Hotel Am Parkring,48.2056333,16.377861499999998,9.0,Vienna,Hotel Am Parkring,d227180,Hotel_Am_Parkring,2004-08-01,2019-04-01,2004Q3,2019Q2,0,32
+Hotel Am Schubertring,48.2017277,16.375463,8.2,Vienna,Hotel Am Schubertring,d10505776,Hotel_am_Schubertring,2016-07-01,2019-04-01,2016Q3,2019Q2,0,28
+Hotel Am Stephansplatz,48.2087646,16.3721138,9.3,Vienna,Hotel Am Stephansplatz,d228035,Boutique_Hotel_am_Stephansplatz,2004-04-01,2019-01-01,2004Q2,2019Q1,0,33
+Hotel Amadeus,48.2104468,16.371578099999997,8.9,Vienna,Hotel Amadeus,d206629,Arthotel_ANA_Amadeus,2007-06-01,2019-04-07,2007Q2,2019Q2,0,32
+Hotel Ambassador,48.2057193,16.371087799999998,8.3,Vienna,Hotel Ambassador,d285201,Hotel_Ambassador,2002-06-01,2019-04-01,2002Q2,2019Q2,0,34
+Hotel America Barcelona,41.3919083,2.1573318,8.7,Barcelona,Hotel America Barcelona,d228653,Hotel_America_Barcelona,2016-04-01,2019-05-01,2016Q2,2019Q2,0,39
+Hotel Arena,52.36057589999999,4.915968299999999,7.7,Amsterdam,Hotel Arena,d11672276,EasyHotel_Amsterdam_Arena_Boulevard,2016-12-01,2019-04-17,2016Q4,2019Q2,0,1
+Hotel Ares Eiffel,48.8503276,2.2982022,8.8,Paris,Hotel Ares Eiffel,d197666,Hotel_Ares_Paris,2003-05-01,2019-04-01,2003Q2,2019Q2,0,10
+Hotel Arts Barcelona,41.3865424,2.1969665000000003,8.8,Barcelona,Hotel Arts Barcelona,d190635,Hotel_Arts_Barcelona,2003-03-01,2019-05-01,2003Q1,2019Q2,0,3
+Hotel Auriga,45.485887700000006,9.204282699999998,8.2,Milan,Hotel Auriga,d202893,Hotel_Auriga,2006-03-01,2019-01-01,2006Q1,2019Q1,0,21
+Hotel Bachaumont,48.8663208,2.3450399,8.8,Paris,Hotel Bachaumont,d7776432,Hotel_Bachaumont,2015-07-01,2019-04-01,2015Q3,2019Q2,0,38
+Hotel Balmes,41.391062100000006,2.1593373,8.5,Barcelona,Hotel Balmes,d1950986,Balmes_Residence,2011-11-01,2019-03-01,2011Q4,2019Q1,0,41
+Hotel Balmoral,41.3961294,2.1551626,8.3,Barcelona,Hotel Balmoral,d206935,Hotel_Balmoral,2003-06-01,2019-05-08,2003Q2,2019Q2,0,31
+Hotel Barcelona Catedral,41.384829,2.1751277,8.9,Barcelona,Hotel Barcelona Catedral,d12509045,The_Moods_Catedral,2017-07-01,2019-03-01,2017Q3,2019Q1,0,41
+Hotel Barcelona Center,41.3917169,2.1592614,8.4,Barcelona,Hotel Barcelona Center,d1724923,Hostal_Center_Inn,2010-12-01,2018-06-01,2010Q4,2018Q2,0,42
+Hotel Barcelona Universal,41.375237,2.1684058,8.8,Barcelona,Hotel Barcelona Universal,d608393,Barcelona_City_Hotel_Hotel_Universal,2006-06-01,2019-03-01,2006Q2,2019Q1,0,11
+Hotel Bellevue Wien,48.2264063,16.3600628,8.1,Vienna,Hotel Bellevue Wien,d228036,Bellevue_Hotel,2004-11-01,2019-05-01,2004Q4,2019Q2,0,3
+Hotel Berna,45.4826692,9.2034371,9.2,Milan,Hotel Berna,d229090,Hotel_Berna,2004-05-01,2019-04-29,2004Q2,2019Q2,0,24
+Hotel Boltzmann,48.2216779,16.356711100000002,8.1,Vienna,Hotel Boltzmann,d230931,Hotel_Boltzmann,2011-06-01,2019-04-01,2011Q2,2019Q2,0,5
+Hotel Boutique Duomo,45.490958500000005,9.1614268,7.5,Milan,Hotel Boutique Duomo,d10727205,Hotel_Boutique_Duomo,2006-04-01,2018-06-01,2006Q2,2018Q2,0,5
+Hotel Bristol,45.4845769,9.2065256,8.0,Milan,Hotel Bristol,d237285,Hotel_Bristol_Milan,2005-06-01,2019-04-01,2005Q2,2019Q2,0,22
+Hotel Cafe Royal,51.5100916,-0.1359431,9.3,London,Hotel Cafe Royal,d2445225,Royal_London_Hotel,2012-01-01,2019-02-01,2012Q1,2019Q1,0,30
+Hotel Cambon,48.866435,2.3251076,8.3,Paris,Hotel Cambon,d197419,Hotel_Cambon,2005-06-01,2019-04-01,2005Q2,2019Q2,0,48
+Hotel Capitol Milano,45.4661781,9.1588367,8.3,Milan,Hotel Capitol Milano,d228935,Hotel_Capitol_Milano,2003-09-01,2019-05-06,2003Q3,2019Q2,0,1
+Hotel Capricorno,48.21115220000001,16.3788631,9.1,Vienna,Hotel Capricorno,d228057,Hotel_Capricorno,2015-03-01,2019-05-06,2015Q1,2019Q2,0,28
+Hotel Carrobbio,45.4606597,9.1810947,8.0,Milan,Hotel Carrobbio,d204473,Hotel_Carrobbio,2005-02-01,2019-03-01,2005Q1,2019Q1,0,11
+Hotel Casa Bonay,41.3935967,2.1742718,8.7,Barcelona,Hotel Casa Bonay,d8780848,Casa_Bonay,2016-02-01,2019-04-28,2016Q1,2019Q2,0,32
+Hotel Casa Fuster G L Monumento,41.3980162,2.1581229,9.0,Barcelona,Hotel Casa Fuster G L Monumento,d4145768,G_and_G,2013-05-01,2018-04-01,2013Q2,2018Q2,0,25
+Hotel Cavendish,51.522052200000005,-0.132414,6.4,London,Hotel Cavendish,d250414,Cavendish_Apartments,2005-03-01,2018-10-01,2005Q1,2018Q4,0,27
+Hotel Cavour,45.47269420000001,9.1943911,8.5,Milan,Hotel Cavour,d202889,Hotel_Cavour,2003-01-01,2019-04-01,2003Q1,2019Q2,0,24
+Hotel Chavanel,48.8721692,2.3262681,8.7,Paris,Hotel Chavanel,d5289200,Hotel_Chavanel,2013-12-01,2019-03-01,2013Q4,2019Q1,0,52
+Hotel Ciutadella Barcelona,41.3837583,2.1846933,8.1,Barcelona,Hotel Ciutadella Barcelona,d1203227,Residencia_Universitaria_La_Ciutadella,2009-08-01,2018-11-01,2009Q3,2018Q4,0,17
+Hotel Claridge Paris,48.8684243,2.3036244,8.1,Paris,Hotel Claridge Paris,d197533,Hotel_Claridge,2009-12-01,2019-04-20,2009Q4,2019Q2,0,47
+Hotel Clerici,45.4667717,9.1871001,9.0,Milan,Hotel Clerici,d9991673,Hotel_Clerici,2016-05-01,2019-04-09,2016Q2,2019Q2,0,21
+Hotel Corvinus,48.1990335,16.352505100000002,8.5,Vienna,Hotel Corvinus,d575092,Hotel_Pension_Corvinus,2005-07-01,2019-04-20,2005Q3,2019Q2,0,9
+Hotel Crivi s,45.4529643,9.1962217,8.0,Milan,Hotel Crivi s,d229065,Crivis_Hotel,2011-09-01,2018-10-01,2011Q3,2018Q4,0,4
+Hotel D Este,45.4510397,9.1920911,8.1,Milan,Hotel D Este,d238251,Hotel_D_Este,2007-10-01,2019-03-01,2007Q4,2019Q1,0,4
+Hotel Da Vinci,45.533137200000006,9.1711019,8.1,Milan,Hotel Da Vinci,d595146,Hotel_Leonardo_da_Vinci,2008-05-01,2019-04-01,2008Q2,2019Q2,0,0
+Hotel Daniel Paris,48.872849200000005,2.3073662999999995,8.8,Paris,Hotel Daniel Paris,d197542,Hotel_Daniel,2004-10-01,2019-02-01,2004Q4,2019Q1,0,47
+Hotel Das Tigra,48.212177200000006,16.3680771,8.9,Vienna,Hotel Das Tigra,d227170,Hotel_Das_Tigra,2004-02-01,2019-04-22,2004Q1,2019Q2,0,26
+Hotel De Hallen,52.3677568,4.868217400000001,8.8,Amsterdam,Hotel De Hallen,d8154521,Apartments_De_Hallen,2015-08-01,2018-12-01,2015Q3,2018Q4,0,10
+Hotel De Vigny,48.8738672,2.3005894,7.5,Paris,Hotel De Vigny,d197940,De_Vigny_Hotel,2004-10-01,2019-03-01,2004Q4,2019Q1,0,51
+Hotel Derby,41.3897735,2.1419762,8.0,Barcelona,Hotel Derby,d206933,Hotel_Derby,2003-01-01,2019-04-01,2003Q1,2019Q2,0,13
+Hotel Des Saints Peres Esprit de France,48.8534026,2.3299043,8.8,Paris,Hotel Des Saints Peres Esprit de France,d194281,Hotel_des_Saints_Peres_Esprit_de_France,2002-11-01,2019-05-04,2002Q4,2019Q2,0,23
+Hotel Die Port van Cleve,52.374142600000006,4.8907741,8.0,Amsterdam,Hotel Die Port van Cleve,d229237,Die_Port_van_Cleve,2002-11-01,2019-04-25,2002Q4,2019Q2,0,15
+Hotel Dieci,45.4738012,9.223970199999998,8.1,Milan,Hotel Dieci,d567556,Hotel_Dieci_Milano,2006-05-01,2019-04-16,2006Q2,2019Q2,0,1
+Hotel Domizil,48.2080479,16.375612,8.9,Vienna,Hotel Domizil,d5565500,Domizil_In_Wien,2013-12-01,2018-12-01,2013Q4,2018Q4,0,33
+Hotel Duminy Vendome,48.8654726,2.3292934,8.2,Paris,Hotel Duminy Vendome,d190671,Hotel_de_Vendome,2002-08-01,2019-04-08,2002Q3,2019Q2,0,48
+Hotel Dupond Smith,48.857898,2.3571978,9.3,Paris,Hotel Dupond Smith,d6617874,Hotel_Dupond_Smith,2014-05-01,2019-04-01,2014Q2,2019Q2,0,17
+Hotel Eden,48.8405612,2.2991035,8.5,Paris,Hotel Eden,d254594,Hotel_Eden_Montmartre,2013-02-01,2019-03-01,2013Q1,2019Q1,0,4
+Hotel Eiffel Blomet,48.8416787,2.3022862,9.4,Paris,Hotel Eiffel Blomet,d6395273,Hotel_Eiffel_Blomet,2017-07-01,2019-05-06,2017Q3,2019Q2,0,4
+Hotel Elys es Bassano,48.8689307,2.2974502999999995,7.9,Paris,Hotel Elys es Bassano,d233743,Hotel_Bassano,2004-08-01,2019-05-03,2004Q3,2019Q2,0,49
+Hotel Galileo,45.4642651,9.1960569,7.9,Milan,Hotel Galileo,d232924,Hotel_Galileo,2005-09-01,2019-05-08,2005Q3,2019Q2,0,19
+Hotel Gallitzinberg,48.2145071,16.284504199999997,8.6,Vienna,Hotel Gallitzinberg,d1005782,Hotel_Gallitzinberg,2010-06-01,2019-04-23,2010Q2,2019Q2,0,0
+Hotel Garbi Millenni,41.3759896,2.167148,7.6,Barcelona,Hotel Garbi Millenni,d227465,Hotel_Garbi_Millenni,2012-05-01,2019-04-24,2012Q2,2019Q2,0,11
+Hotel Georgette,48.8632723,2.352691,8.8,Paris,Hotel Georgette,d239647,Hotel_Georgette,2012-10-01,2019-04-01,2012Q4,2019Q2,0,19
+Hotel Grums Barcelona,41.3727844,2.1721134,8.3,Barcelona,Hotel Grums Barcelona,d1989060,Hotel_Grums,2011-03-01,2019-04-14,2011Q1,2019Q2,0,11
+Hotel Indigo London Paddington,51.5150534,-0.1739974,8.7,London,Hotel Indigo London Paddington,d1139866,Hotel_Indigo_London_Paddington,2008-12-01,2019-04-01,2008Q4,2019Q2,0,25
+Hotel Indigo Paris Opera,48.8704371,2.329236,9.1,Paris,Hotel Indigo Paris Opera,d6925750,Hotel_Indigo_Paris_Opera,2014-09-01,2019-04-24,2014Q3,2019Q2,0,47
+Hotel JL No76,52.3595919,4.8801587,8.8,Amsterdam,Hotel JL No76,d2095235,Hotel_JL_No76,2011-06-01,2019-05-02,2011Q2,2019Q2,0,14
+Hotel Johann Strauss,48.1949694,16.3692624,8.5,Vienna,Hotel Johann Strauss,d228062,Hotel_Johann_Strauss,2003-08-01,2019-04-01,2003Q3,2019Q2,0,12
+Hotel Kaiserin Elisabeth,48.2072348,16.372238,9.2,Vienna,Hotel Kaiserin Elisabeth,d228065,Kaiserin_Elisabeth,2003-02-01,2019-04-01,2003Q1,2019Q2,0,33
+Hotel Kavalier,48.1940487,16.2971831,8.0,Vienna,Hotel Kavalier,d228050,Novum_Hotel_Kavalier_Wien,2004-05-01,2019-04-17,2004Q2,2019Q2,0,0
+Hotel L Antoine,48.852421500000005,2.3743832,8.9,Paris,Hotel L Antoine,d259315,Hotel_L_Antoine,2015-03-01,2019-04-01,2015Q1,2019Q2,0,7
+Hotel La Lanterne,48.8489839,2.348383,9.0,Paris,Hotel La Lanterne,d8711122,Hotel_La_Lanterne,2015-12-01,2019-03-01,2015Q4,2019Q1,0,20
+Hotel La Place,51.521525700000005,-0.1533039,7.6,London,Hotel La Place,d1464149,Templeton_Place_by_Supercity_Aparthotels,2009-08-01,2019-05-05,2009Q3,2019Q2,0,23
+Hotel La Spezia Gruppo MiniHotel,45.4408963,9.1728003,8.4,Milan,Hotel La Spezia Gruppo MiniHotel,d543554,Hotel_La_Spezia_Gruppo_MiniHotel,2006-06-01,2019-04-01,2006Q2,2019Q2,0,0
+Hotel La Villa Saint Germain Des Pr s,48.855348600000006,2.3340736,9.1,Paris,Hotel La Villa Saint Germain Des Pr s,d194310,Hotel_La_Villa_Saint_Germain,2002-10-01,2019-05-02,2002Q4,2019Q2,0,28
+Hotel Landhaus Fuhrgassl Huber,48.2508693,16.304957,9.0,Vienna,Hotel Landhaus Fuhrgassl Huber,d6109546,Landhaus_Fuhrgasslhuber,2014-03-01,2017-05-01,2014Q1,2017Q2,0,1
+Hotel Le 10 BIS,48.8780363,2.2864907000000003,9.2,Paris,Hotel Le 10 BIS,d10296011,Le_10_Bis_Hotel,2016-08-01,2019-05-09,2016Q3,2019Q2,0,20
+Hotel Le Chat Noir,48.8836255,2.3340537999999995,8.2,Paris,Hotel Le Chat Noir,d220003,Hotel_Noir,2013-04-01,2018-06-01,2013Q2,2018Q2,0,11
+Hotel Le Mareuil,48.8659899,2.3674148999999995,8.9,Paris,Hotel Le Mareuil,d264828,Le_Mareuil,2013-01-01,2019-05-10,2013Q1,2019Q2,0,11
+Hotel Le Pera,48.871309,2.3277079,7.8,Paris,Hotel Le Pera,d207665,Le_Pera,2004-05-01,2019-04-01,2004Q2,2019Q2,0,51
+Hotel Le Saint Gregoire,48.8471891,2.3260138,8.5,Paris,Hotel Le Saint Gregoire,d188980,Hotel_Le_Saint_Gregoire,2003-01-01,2019-04-10,2003Q1,2019Q2,0,14
+Hotel Le Sainte Beuve,48.8438998,2.3294858,8.9,Paris,Hotel Le Sainte Beuve,d194284,Hotel_Sainte_Beuve,2011-02-01,2019-04-23,2011Q1,2019Q2,0,16
+Hotel Le petit Paris,48.8452789,2.342295,8.8,Paris,Hotel Le petit Paris,d1412172,Le_Petit_Cosy_Hotel,2017-09-01,2019-03-01,2017Q3,2019Q1,0,24
+Hotel Les Bains Paris,48.863828000000005,2.3519345,8.9,Paris,Hotel Les Bains Paris,d194236,Hotel_des_Bains,2003-09-01,2019-03-01,2003Q3,2019Q1,0,19
+Hotel Les Bulles De Paris,48.849147,2.3471935,8.2,Paris,Hotel Les Bulles De Paris,d238380,Hotel_Les_Bulles_de_Paris,2015-05-01,2019-05-01,2015Q2,2019Q2,0,22
+Hotel Les Rives de Notre Dame,48.8532269,2.3457159,8.6,Paris,Hotel Les Rives de Notre Dame,d233770,Les_Rives_De_Notre_Dame,2003-10-01,2019-04-01,2003Q4,2019Q2,0,29
+Hotel Lloyd,45.4580781,9.1924205,7.5,Milan,Hotel Lloyd,d232931,Lloyd_Hotel,2003-08-01,2019-04-26,2003Q3,2019Q2,0,12
+Hotel Lombardia,45.4872511,9.2237385,7.9,Milan,Hotel Lombardia,d529146,Hotel_Lombardia,2010-09-01,2018-09-01,2010Q3,2018Q3,0,1
+Hotel Louis 2,48.8516148,2.3381293,8.4,Paris,Hotel Louis 2,d219999,Hotel_Louis_2,2006-06-01,2019-04-02,2006Q2,2019Q2,0,30
+Hotel Louvre Montana,48.8644627,2.3318473,8.4,Paris,Hotel Louvre Montana,d207578,Hotel_Louvre_Montana,2011-10-01,2019-05-08,2011Q4,2019Q2,0,47
+Hotel Lumen Paris Louvre,48.86525820000001,2.3329632,8.7,Paris,Hotel Lumen Paris Louvre,d656544,Hotel_Lumen_Paris_Louvre,2007-12-01,2019-04-01,2007Q4,2019Q2,0,46
+Hotel Mademoiselle,48.8772493,2.3543043,8.6,Paris,Hotel Mademoiselle,d14195735,Les_Jardins_de_Mademoiselle,2018-06-01,2019-04-15,2018Q2,2019Q2,0,22
+Hotel Maison FL,48.8396395,2.2663056,8.7,Paris,Hotel Maison FL,d229601,Maison_FL,2014-01-01,2019-04-22,2014Q1,2019Q2,0,0
+Hotel Malte Astotel,48.8672474,2.33738,8.9,Paris,Hotel Malte Astotel,d228694,Hotel_Malte_Astotel,2017-01-01,2019-05-05,2017Q1,2019Q2,0,50
+Hotel Manzoni,45.470238,9.195347,9.2,Milan,Hotel Manzoni,d237329,Hotel_Manzoni,2008-04-01,2019-02-01,2008Q2,2019Q1,0,20
+Hotel Marconi,45.4868744,9.2018407,8.3,Milan,Hotel Marconi,d204497,Marconi_Hotel,2003-06-01,2019-04-01,2003Q2,2019Q2,0,17
+Hotel Margot House,41.3918805,2.1660363,9.4,Barcelona,Hotel Margot House,d7905626,Margot_House,2015-07-01,2019-04-01,2015Q3,2019Q2,0,50
+Hotel Marignan Champs Elys es,48.8685093,2.3067895,8.7,Paris,Hotel Marignan Champs Elys es,d263659,Hotel_Marignan,2003-01-01,2019-04-01,2003Q1,2019Q2,0,48
+Hotel Mediolanum,45.4813423,9.2039494,8.4,Milan,Hotel Mediolanum,d202568,Hotel_Mediolanum_Milan,2003-10-01,2019-05-01,2003Q4,2019Q2,0,24
+Hotel Mentana,45.4622972,9.1814695,7.4,Milan,Hotel Mentana,d237311,Mentana_Hotel,2010-02-01,2019-04-01,2010Q1,2019Q2,0,14
+Hotel Mercure Milano Centro,45.4747809,9.2059385,8.4,Milan,Hotel Mercure Milano Centro,d579504,Mercure_Milano_Centro,2003-07-01,2019-04-19,2003Q3,2019Q2,0,18
+Hotel Midmost,41.38561729999999,2.1659487,9.2,Barcelona,Hotel Midmost,d10440705,Hotel_Midmost,2016-07-01,2019-04-24,2016Q3,2019Q2,0,43
+Hotel Milano Scala,45.4689376,9.1868891,8.8,Milan,Hotel Milano Scala,d1735910,Hotel_Milano_Scala,2010-09-01,2019-04-01,2010Q3,2019Q2,0,20
+Hotel Miramar Barcelona GL,41.370304100000006,2.17141,8.7,Barcelona,Hotel Miramar Barcelona GL,d626303,Hotel_Miramar_Barcelona,2007-02-01,2019-04-28,2007Q1,2019Q2,0,8
+Hotel Monceau Wagram,48.8808779,2.2989756000000003,7.9,Paris,Hotel Monceau Wagram,d229590,Monceau_Wagram_Hotel,2011-04-01,2019-01-01,2011Q2,2019Q1,0,24
+Hotel Monge,48.8447938,2.3524462,9.4,Paris,Hotel Monge,d10328342,Hotel_Monge,2016-05-01,2019-05-06,2016Q2,2019Q2,0,10
+Hotel Monsieur,48.8735135,2.3217457,9.0,Paris,Hotel Monsieur,d248398,Hotel_Monsieur_Saintonge,2018-06-01,2019-04-01,2018Q2,2019Q2,0,45
+Hotel Montaigne,48.865467,2.3038811000000003,8.1,Paris,Hotel Montaigne,d232537,Hotel_Montaigne,2012-02-01,2019-01-01,2012Q1,2019Q1,0,45
+Hotel Montalembert,48.8567042,2.3277805,8.5,Paris,Hotel Montalembert,d188736,Hotel_Montalembert,2002-03-01,2019-05-01,2002Q1,2019Q2,0,22
+Hotel Moonlight,51.4940285,-0.1910497,9.0,London,Hotel Moonlight,d193076,Hotel_Moonlight,2016-08-01,2019-04-21,2016Q3,2019Q2,0,28
+Hotel Mozart,45.4834133,9.1666361,8.0,Milan,Hotel Mozart,d229067,Hotel_Mozart,2003-04-01,2019-04-01,2003Q2,2019Q2,0,5
+Hotel Murmuri Barcelona,41.3941625,2.1597836,8.8,Barcelona,Hotel Murmuri Barcelona,d10465078,Murmuri_Residence_Mercader,2016-10-01,2019-04-13,2016Q4,2019Q2,0,35
+Hotel Nestroy Wien,48.21783320000001,16.3821636,8.1,Vienna,Hotel Nestroy Wien,d206611,Hotel_Nestroy,2004-04-01,2019-04-01,2004Q2,2019Q2,0,8
+Hotel OFF Paris Seine,48.8427364,2.3672171000000004,8.4,Paris,Hotel OFF Paris Seine,d10506106,Hotel_OFF_Paris_Seine,2016-07-01,2019-04-17,2016Q3,2019Q2,0,4
+Hotel Odeon Saint Germain,48.8513515,2.3375084,8.6,Paris,Hotel Odeon Saint Germain,d219979,Odeon_Hotel,2003-01-01,2019-04-01,2003Q1,2019Q2,0,31
+Hotel Op ra Richepanse,48.8686931,2.325211,9.2,Paris,Hotel Op ra Richepanse,d197423,Hotel_Opera_Richepanse,2004-06-01,2019-05-04,2004Q2,2019Q2,0,51
+Hotel Opera Cadet,48.875437100000006,2.3434586,8.5,Paris,Hotel Opera Cadet,d197579,Opera_Cadet_Hotel,2003-08-01,2019-05-07,2003Q3,2019Q2,0,28
+Hotel Oscar,48.8694755,2.3046954,8.5,Paris,Hotel Oscar,d3372742,Chez_Oscar_Appart_hotel_Champs_Elysees,2012-10-01,2019-01-01,2012Q4,2019Q1,0,47
+Hotel Palais Strudlhof,48.2217697,16.3578738,8.7,Vienna,Hotel Palais Strudlhof,d729696,Hotel_Palais_Strudlhof,2007-02-01,2018-10-01,2007Q1,2018Q4,0,5
+Hotel Panache,48.87325429999999,2.343239,8.6,Paris,Hotel Panache,d285254,Hotel_Panache,2016-04-01,2019-03-01,2016Q2,2019Q1,0,31
+Hotel Park Lane Paris,48.8745879,2.3188143,8.7,Paris,Hotel Park Lane Paris,d1176843,Hotel_Park_Lane_Paris,2016-04-01,2019-04-23,2016Q2,2019Q2,0,45
+Hotel Pierre Milano,45.4595203,9.1770004,7.5,Milan,Hotel Pierre Milano,d202851,Hotel_Pierre_Milano,2013-04-01,2019-03-01,2013Q2,2019Q1,0,6
+Hotel Plaza Athenee Paris,48.866193200000005,2.3042141,9.3,Paris,Hotel Plaza Athenee Paris,d188730,Hotel_Plaza_Athenee,2014-08-01,2019-04-01,2014Q3,2019Q2,0,47
+Hotel Plaza Elys es,48.8746128,2.3056956000000004,8.5,Paris,Hotel Plaza Elys es,d197964,Hotel_Plaza_Elysees,2003-08-01,2019-04-24,2003Q3,2019Q2,0,52
+Hotel Pulitzer,41.386136,2.1682914,8.8,Barcelona,Hotel Pulitzer,d296915,Hotel_Pulitzer_Barcelona,2004-07-01,2019-04-18,2004Q3,2019Q2,0,48
+Hotel Pulitzer Paris,48.87319960000001,2.3425446,8.4,Paris,Hotel Pulitzer Paris,d197475,Hotel_Pulitzer_Paris,2010-05-01,2019-04-01,2010Q2,2019Q2,0,33
+Hotel Raffaello,45.494861,9.141551,8.1,Milan,Hotel Raffaello,d202836,Hotel_Raffaello,2005-11-01,2019-02-01,2005Q4,2019Q1,0,4
+Hotel Rekord,41.3985449,2.1438237,8.1,Barcelona,Hotel Rekord,d259370,Hotel_Rekord,2004-09-01,2019-03-01,2004Q3,2019Q1,0,12
+Hotel Roemer Amsterdam,52.361757700000005,4.8780052000000005,8.3,Amsterdam,Hotel Roemer Amsterdam,d283029,Hotel_Roemer,2006-09-01,2019-04-01,2006Q3,2019Q2,0,13
+Hotel Ronda Lesseps,41.408641,2.1478143,7.4,Barcelona,Hotel Ronda Lesseps,d586863,Hotel_Ronda_Lesseps,2005-11-01,2019-04-01,2005Q4,2019Q2,0,4
+Hotel Royal,48.2078727,16.3724042,8.6,Vienna,Hotel Royal,d1492590,Royal_Living_Apartments_Vienna,2013-02-01,2018-12-01,2013Q1,2018Q4,0,33
+Hotel Royal Elys es,48.872966600000005,2.2926226,7.0,Paris,Hotel Royal Elys es,d197453,Hotel_Royal_Elysees,2003-09-01,2019-04-01,2003Q3,2019Q2,0,46
+Hotel SB Diagonal Zero Barcelona 4 Sup,41.4111652,2.2192012,8.2,Barcelona,Hotel SB Diagonal Zero Barcelona 4 Sup,d1223953,Hotel_SB_Diagonal_Zero,2009-04-01,2019-05-03,2009Q2,2019Q2,0,4
+Hotel SB Icaria Barcelona,41.3935591,2.1993915,8.0,Barcelona,Hotel SB Icaria Barcelona,d498018,Hotel_SB_Icaria_Barcelona,2005-01-01,2019-04-21,2005Q1,2019Q2,0,5
+Hotel Sacher Wien,48.2038793,16.369808600000002,9.5,Vienna,Hotel Sacher Wien,d238191,Pension_Sacher,2006-01-01,2019-02-01,2006Q1,2019Q1,0,34
+Hotel Santa Marta Suites,45.4630441,9.183607,9.2,Milan,Hotel Santa Marta Suites,d238576,Santa_Marta_Suites,2014-11-01,2019-02-01,2014Q4,2019Q1,0,17
+Hotel Schani Wien,48.1824271,16.3808291,8.8,Vienna,Hotel Schani Wien,d234339,Hotel_Schani_Salon,2019-01-01,2019-05-05,2019Q1,2019Q2,0,2
+Hotel Schild,48.251195,16.2989165,7.9,Vienna,Hotel Schild,d278250,Hotel_Schild,2004-06-01,2019-03-01,2004Q2,2019Q1,0,1
+Hotel Scribe Paris Opera by Sofitel,48.8704175,2.3296832000000003,8.6,Paris,Hotel Scribe Paris Opera by Sofitel,d197577,Hotel_Scribe_Paris_Opera_by_Sofitel,2004-05-01,2019-04-01,2004Q2,2019Q2,0,48
+Hotel Seven One Seven,52.36480770000001,4.8853962,8.8,Amsterdam,Hotel Seven One Seven,d296630,Hotel_Seven_one_Seven,2003-01-01,2019-04-01,2003Q1,2019Q2,0,24
+Hotel Silver,45.4589731,9.0687506,8.4,Milan,Hotel Silver,d1109951,Hotel_Silver,2008-10-01,2019-04-01,2008Q4,2019Q2,0,0
+Hotel Spa Villa Olimpica Suites,41.3971434,2.1921947,8.0,Barcelona,Hotel Spa Villa Olimpica Suites,d1214460,Villa_Olimpica,2009-04-01,2018-06-01,2009Q2,2018Q2,0,6
+Hotel Sunflower,45.498503,9.1664111,7.6,Milan,Hotel Sunflower,d1638049,Hotel_Sunflower,2011-06-01,2019-04-03,2011Q2,2019Q2,0,1
+Hotel Tocq,45.4828787,9.186346,8.6,Milan,Hotel Tocq,d229046,Hotel_Tocq,2017-01-01,2019-04-01,2017Q1,2019Q2,0,8
+Hotel Topazz,48.210285,16.373579,8.7,Vienna,Hotel Topazz,d2554355,Hotel_Topazz,2012-04-01,2019-05-05,2012Q2,2019Q2,0,32
+Hotel Trianon Rive Gauche,48.8487675,2.3410376,8.2,Paris,Hotel Trianon Rive Gauche,d228737,Hotel_Trianon_Rive_Gauche,2003-09-01,2019-04-25,2003Q3,2019Q2,0,25
+Hotel V Fizeaustraat,52.3451511,4.925237200000001,9.1,Amsterdam,Hotel V Fizeaustraat,d10332886,Hotel_V_Fizeaustraat,2016-08-01,2019-05-09,2016Q3,2019Q2,0,0
+Hotel VIU Milan,45.488764,9.183057000000002,8.9,Milan,Hotel VIU Milan,d12199274,Hotel_VIU_Milan,2017-03-01,2019-04-01,2017Q1,2019Q2,0,3
+Hotel ViennArt am Museumsquartier,48.2035677,16.356445,8.4,Vienna,Hotel ViennArt am Museumsquartier,d231974,Hotel_Viennart_am_Museumsquartier,2004-01-01,2019-05-05,2004Q1,2019Q2,0,11
+Hotel Vignon,48.8717146,2.3261812,8.8,Paris,Hotel Vignon,d232532,Hotel_Le_Vignon,2017-05-01,2018-12-01,2017Q2,2018Q4,0,51
+Hotel Vilamar ,41.3766732,2.1524478,8.3,Barcelona,Hotel Vilamar ,d265742,Hotel_Vilamari,2011-12-01,2019-03-01,2011Q4,2019Q1,0,6
+Hotel Villa Lafayette Paris IX,48.87608839999999,2.3456465,8.8,Paris,Hotel Villa Lafayette Paris IX,d1910039,Hotel_Lafayette,2011-10-01,2018-08-01,2011Q4,2018Q3,0,30
+Hotel Villa Saxe Eiffel,48.849758,2.3095213,8.9,Paris,Hotel Villa Saxe Eiffel,d646480,La_Villa_Paris,2007-05-01,2019-04-01,2007Q2,2019Q2,0,7
+Hotel Vittoria,45.463135,9.2102,8.1,Milan,Hotel Vittoria,d232932,Hotel_Vittoria,2006-03-01,2019-05-01,2006Q1,2019Q2,0,3
+Hotel Vondel Amsterdam,52.3625662,4.8779225,8.0,Amsterdam,Hotel Vondel Amsterdam,d1550596,Vondel_View_B_B,2010-04-01,2017-04-01,2010Q2,2017Q2,0,13
+Hotel Wagner,45.4684949,9.1550355,8.0,Milan,Hotel Wagner,d237323,Wagner_Hotel,2007-03-01,2019-03-01,2007Q1,2019Q1,0,3
+Hotel Wandl,48.2097026,16.3703902,8.5,Vienna,Hotel Wandl,d235663,Hotel_Wandl,2004-06-01,2019-05-06,2004Q2,2019Q2,0,31
+Hotel Well and Come,41.3991773,2.1656134,9.0,Barcelona,Hotel Well and Come,d8956703,Hotel_Well_and_Come,2016-01-01,2019-05-08,2016Q1,2019Q2,0,24
+Hotel West End,48.8671391,2.3038447,8.8,Paris,Hotel West End,d228727,West_End_Hotel,2004-06-01,2019-05-07,2004Q2,2019Q2,0,49
+Hotel Whistler,48.879314,2.3560185,9.2,Paris,Hotel Whistler,d321391,Hotel_Whistler,2017-05-01,2019-04-27,2017Q2,2019Q2,0,14
+Hotel Xanadu,51.5117907,-0.306071,8.6,London,Hotel Xanadu,d3308812,Hotel_Xanadu,2012-09-01,2019-05-06,2012Q3,2019Q2,0,1
+Hotel Zeitgeist Vienna Hauptbahnhof,48.1829645,16.377670900000002,8.7,Vienna,Hotel Zeitgeist Vienna Hauptbahnhof,d4013115,A_o_Wien_Hauptbahnhof,2013-05-01,2019-04-01,2013Q2,2019Q2,0,3
+Hotel de Nell,48.8732788,2.3466576,9.0,Paris,Hotel de Nell,d2555907,Nell_Hotel_Suites,2012-04-01,2019-03-01,2012Q2,2019Q1,0,31
+Hotel de Seze,48.870574100000006,2.3264194,9.2,Paris,Hotel de Seze,d568940,Hotel_de_Seze,2014-09-01,2019-05-06,2014Q3,2019Q2,0,51
+Hotel degli Arcimboldi,45.5257221,9.2150033,8.3,Milan,Hotel degli Arcimboldi,d6206532,Hotel_degli_Arcimboldi,2014-09-01,2019-04-01,2014Q3,2019Q2,0,0
+Hotel des Tuileries Relais du Silence,48.8661705,2.331561,8.1,Paris,Hotel des Tuileries Relais du Silence,d219987,Hotel_Tuileries,2014-09-01,2019-04-03,2014Q3,2019Q2,0,47
+Hotel du Petit Moulin,48.8615843,2.3620652,9.1,Paris,Hotel du Petit Moulin,d280089,Hotel_Du_Moulin,2005-03-01,2018-11-01,2005Q1,2018Q4,0,17
+Hotel du Vin Cannizaro House Wimbledon,51.42424129999999,-0.2293502999999999,8.4,London,Hotel du Vin Cannizaro House Wimbledon,d1162959,Wimbledon_Hotel,2008-09-01,2019-03-01,2008Q3,2019Q1,0,0
+Hyatt Regency Amsterdam,52.3617751,4.9118187,8.8,Amsterdam,Hyatt Regency Amsterdam,d12264790,Hyatt_Regency_Amsterdam,2017-04-01,2019-05-05,2017Q2,2019Q2,0,1
+Hyatt Regency London The Churchill,51.5156471,-0.1572443,8.7,London,Hyatt Regency London The Churchill,d195155,Hyatt_Regency_London_The_Churchill,2003-01-01,2019-04-23,2003Q1,2019Q2,0,25
+Hyatt Regency Paris Etoile,48.8802782,2.2843852000000004,7.1,Paris,Hyatt Regency Paris Etoile,d595754,Hyatt_Regency_Paris_Etoile,2018-06-01,2019-05-07,2018Q2,2019Q2,0,15
+IH Hotels Milano Ambasciatori,45.4644348,9.1952727,7.8,Milan,IH Hotels Milano Ambasciatori,d237332,IH_Exclusive_Milano_Ambasciatori,2004-02-01,2019-04-20,2004Q1,2019Q2,0,20
+IH Hotels Milano Gioia,45.49952,9.206138,7.5,Milan,IH Hotels Milano Gioia,d596087,IH_Hotels_Milano_Gioia,2015-10-01,2019-05-01,2015Q4,2019Q2,0,0
+IH Hotels Milano Lorenteggio,45.4436132,9.1161094,7.0,Milan,IH Hotels Milano Lorenteggio,d202838,IH_Hotels_Milano_Lorenteggio,2017-07-01,2019-04-01,2017Q3,2019Q2,0,0
+IH Hotels Milano Puccini,45.4794406,9.2096756,7.6,Milan,IH Hotels Milano Puccini,d233473,IH_Hotels_Milano_Puccini,2003-11-01,2019-01-01,2003Q4,2019Q1,0,18
+IH Hotels Milano Watt 13,45.443791,9.152947,7.6,Milan,IH Hotels Milano Watt 13,d653459,IH_Hotels_Milano_Watt_13,2010-07-01,2019-03-01,2010Q3,2019Q1,0,0
+Ibis Styles Milano Palmanova,45.5045259,9.246461,6.7,Milan,Ibis Styles Milano Palmanova,d11619615,Hotel_Milano_Palmanova,2016-12-01,2019-04-01,2016Q4,2019Q2,1,0
+Ibis Styles Paris Gare Saint Lazare,48.8796596,2.3209155,7.7,Paris,Ibis Styles Paris Gare Saint Lazare,d229625,Hotel_Ibis_Styles_Paris_Gare_Saint_Lazare,2017-07-01,2019-04-06,2017Q3,2019Q2,1,0
+Idea Hotel Milano San Siro,45.4720654,9.0777871,6.9,Milan,Idea Hotel Milano San Siro,d1035741,Idea_Hotel_Milano_San_Siro,2010-06-01,2019-05-09,2010Q2,2019Q2,0,0
+Idol Hotel,48.8795369,2.3202966,9.1,Paris,Idol Hotel,d7225953,Idol_Hotel,2015-01-01,2019-04-25,2015Q1,2019Q2,0,28
+Ilunion Almirante,41.3860521,2.176157,7.1,Barcelona,Ilunion Almirante,d1048732,Ilunion_Barcelona,2009-04-01,2019-05-10,2009Q2,2019Q2,0,41
+Imperial Riding School Renaissance Vienna Hotel,48.1966396,16.3863822,8.1,Vienna,Imperial Riding School Renaissance Vienna Hotel,d229406,Renaissance_Wien_Hotel,2004-02-01,2019-04-01,2004Q1,2019Q2,0,5
+Innkeeper s Lodge London Greenwich,51.4801631,-0.0097201,8.2,London,Innkeeper s Lodge London Greenwich,d1018639,Innkeeper_s_Lodge_London_Greenwich,2008-03-01,2019-04-01,2008Q1,2019Q2,0,1
+Inntel Hotels Amsterdam Centre,52.3760456,4.8943917,8.2,Amsterdam,Inntel Hotels Amsterdam Centre,d230113,Inntel_Hotels_Amsterdam_Centre,2003-04-01,2019-04-24,2003Q2,2019Q2,0,12
+InterContinental London Park Lane,51.503863200000005,-0.1504132,8.5,London,InterContinental London Park Lane,d195205,InterContinental_London_Park_Lane,2003-03-01,2019-04-01,2003Q1,2019Q2,0,28
+InterContinental Paris Avenue Marceau,48.8706373,2.2982095,7.9,Paris,InterContinental Paris Avenue Marceau,d1139859,InterContinental_Paris_Avenue_Marceau,2008-12-01,2019-05-08,2008Q4,2019Q2,0,54
+InterContinental Paris Le Grand,48.8708391,2.3303651000000003,8.8,Paris,InterContinental Paris Le Grand,d207742,InterContinental_Paris_Le_Grand,2003-10-01,2019-04-01,2003Q4,2019Q2,0,52
+JUFA Hotel Wien,48.1756283,16.4200957,8.5,Vienna,JUFA Hotel Wien,d2309370,JUFA_Hotel_Wien_City,2012-08-01,2019-04-01,2012Q3,2019Q2,0,1
+Jumeirah Carlton Tower,51.4973568,-0.1576727999999999,8.6,London,Jumeirah Carlton Tower,d192163,Carlton_Hotel,2003-08-01,2019-03-01,2003Q3,2019Q1,0,20
+Jumeirah Lowndes Hotel,51.4993652,-0.1576612999999999,8.6,London,Jumeirah Lowndes Hotel,d187736,Jumeirah_Lowndes_Hotel,2003-07-01,2019-05-02,2003Q3,2019Q2,0,23
+K K Hotel George,51.49188779999999,-0.1949706,8.5,London,K K Hotel George,d195217,K_K_Hotel_George,2002-12-01,2019-05-09,2002Q4,2019Q2,0,19
+K K Hotel Maria Theresia,48.2031622,16.3561999,8.7,Vienna,K K Hotel Maria Theresia,d231985,K_K_Hotel_Maria_Theresia,2003-10-01,2019-05-09,2003Q4,2019Q2,0,9
+K K Hotel Picasso,41.3866227,2.1840722,8.9,Barcelona,K K Hotel Picasso,d2558794,K_K_Hotel_Picasso,2012-07-01,2019-05-03,2012Q3,2019Q2,0,19
+K West Hotel Spa,51.5013149,-0.2174458999999999,8.4,London,K West Hotel Spa,d192086,K_West_Hotel_Spa,2002-02-01,2019-05-07,2002Q1,2019Q2,0,3
+Kensington House Hotel,51.5012329,-0.1859937,8.2,London,Kensington House Hotel,d195219,Kensington_House_Hotel,2003-04-01,2019-04-03,2003Q2,2019Q2,0,21
+Kingsway Hall Hotel,51.5158643,-0.1200625,8.5,London,Kingsway Hall Hotel,d195220,Kingsway_Hall_Hotel,2002-04-01,2018-11-01,2002Q2,2018Q4,0,22
+Klima Hotel Milano Fiere,45.5147974,9.116606,8.3,Milan,Klima Hotel Milano Fiere,d3455157,Klima_Hotel_Milano_Fiere,2012-12-01,2019-05-13,2012Q4,2019Q2,0,0
+Knightsbridge Hotel,51.4980052,-0.1643238,9.1,London,Knightsbridge Hotel,d195395,Knightsbridge_Hotel,2003-01-01,2019-04-28,2003Q1,2019Q2,0,20
+Kube Hotel Ice Bar,48.88657,2.3588332000000003,7.2,Paris,Kube Hotel Ice Bar,d582530,Kube_Hotel,2006-04-01,2019-05-10,2006Q2,2019Q2,0,3
+L Edmond H tel,48.8823111,2.3132374,8.2,Paris,L Edmond H tel,d2294996,L_Edmond_Hotel_Paris,2011-11-01,2019-04-25,2011Q4,2019Q2,0,12
+LHP Hotel Napoleon,45.4802415,9.213191900000002,8.3,Milan,LHP Hotel Napoleon,d589507,LHP_Hotel_Napoleon,2009-08-01,2019-03-01,2009Q3,2019Q1,0,14
+La Chambre du Marais,48.8636168,2.3607998,9.4,Paris,La Chambre du Marais,d10319445,La_Chambre_du_Marais,2016-06-01,2019-04-23,2016Q2,2019Q2,0,18
+La Clef Tour Eiffel,48.8647019,2.2886425,9.0,Paris,La Clef Tour Eiffel,d197452,La_Clef_Tour_Eiffel_Paris,2015-03-01,2019-04-01,2015Q1,2019Q2,0,18
+La Maison Champs Elys es,48.866676,2.3089908,8.8,Paris,La Maison Champs Elys es,d197537,La_Maison_Champs_Elysees,2011-06-01,2019-04-25,2011Q2,2019Q2,0,47
+La Suite West Hyde Park,51.5126758,-0.1867828,8.0,London,La Suite West Hyde Park,d195207,La_Suite_West_Hyde_Park,2012-08-01,2019-04-01,2012Q3,2019Q2,0,21
+La Tremoille Paris,48.8668589,2.3028215,8.5,Paris,La Tremoille Paris,d228801,Hotel_de_la_Tremoille,2003-11-01,2019-04-01,2003Q4,2019Q2,0,48
+La Villa Haussmann,48.8753446,2.3167161,9.2,Paris,La Villa Haussmann,d11666465,La_Villa_Haussmann,2017-01-01,2019-04-01,2017Q1,2019Q2,0,41
+La Villa Maillot,48.875551,2.2835191000000004,8.9,Paris,La Villa Maillot,d207856,La_Villa_Maillot,2002-12-01,2019-04-01,2002Q4,2019Q2,0,20
+La Villa Royale,48.8821595,2.3367444,8.1,Paris,La Villa Royale,d240923,Villa_Royale,2004-02-01,2019-04-01,2004Q1,2019Q2,0,16
+La Villa des Ternes,48.8803479,2.2858242000000004,8.6,Paris,La Villa des Ternes,d229622,Hotel_La_Villa_des_Ternes,2015-05-01,2019-04-25,2015Q2,2019Q2,0,19
+LaGare Hotel Milano Centrale MGallery by Sofitel,45.484237,9.198858,8.7,Milan,LaGare Hotel Milano Centrale MGallery by Sofitel,d8148146,Hotel_Centrale,2015-06-01,2018-10-01,2015Q2,2018Q4,0,21
+Lancaster London,51.5119446,-0.179939,8.3,London,Lancaster London,d12124996,Apartments_Inn_London_Lancaster,2017-02-01,2019-03-01,2017Q1,2019Q1,0,21
+Landmark London,51.519016,-0.166267,9.0,London,Landmark London,d193105,The_Landmark_London,2003-05-01,2019-04-28,2003Q2,2019Q2,0,25
+Lansbury Heritage Hotel,51.5090985,-0.0157302,9.4,London,Lansbury Heritage Hotel,d12259847,Lansbury_Heritage_Hotel,2017-04-01,2019-04-27,2017Q2,2019Q2,0,4
+Le 123 Elysees Astotel,48.8730823,2.309659,9.2,Paris,Le 123 Elysees Astotel,d207659,Hotel_Elysees_Paris,2003-09-01,2019-04-06,2003Q3,2019Q2,0,49
+Le Belmont Champs Elys es,48.8691984,2.2979052,8.3,Paris,Le Belmont Champs Elys es,d197959,Le_Belmont_Hotel,2014-03-01,2019-04-24,2014Q1,2019Q2,0,52
+Le Burgundy Paris,48.8680055,2.3260075,9.1,Paris,Le Burgundy Paris,d198177,Hotel_Le_Burgundy,2010-07-01,2019-04-01,2010Q3,2019Q2,0,48
+Le Dokhan s a Tribute Portfolio Hotel,48.8663359,2.2867935,7.9,Paris,Le Dokhan s a Tribute Portfolio Hotel,d197455,Le_Dokhan_s_a_Tribute_Portfolio_Hotel,2003-09-01,2019-05-06,2003Q3,2019Q2,0,19
+Le Grey Hotel,48.881407,2.3274204,9.0,Paris,Le Grey Hotel,d3400936,Le_Grey_Hotel,2012-10-01,2019-03-01,2012Q4,2019Q1,0,20
+Le Lavoisier,48.8737702,2.3201063,8.0,Paris,Le Lavoisier,d189799,Hotel_le_Lavoisier,2003-03-01,2019-03-01,2003Q1,2019Q1,0,45
+Le Marcel,48.8761376,2.3572681,8.5,Paris,Le Marcel,d258916,Best_Western_Plus_Hotel_Litteraire_Marcel_Ayme,2018-04-01,2019-04-14,2018Q2,2019Q2,0,17
+Le Marquis Eiffel,48.8516619,2.2979395,8.8,Paris,Le Marquis Eiffel,d290384,Hotel_Le_Marquis,2015-07-01,2019-04-01,2015Q3,2019Q2,0,10
+Le Mathurin Hotel Spa,48.8732068,2.3239015,8.6,Paris,Le Mathurin Hotel Spa,d488442,Le_Mathurin_Hotel_Spa_Paris,2006-01-01,2019-04-07,2006Q1,2019Q2,0,49
+Le Meridien Vienna,48.202729600000005,16.3661211,8.3,Vienna,Le Meridien Vienna,d278251,Le_Meridien_Vienna,2018-05-01,2019-04-30,2018Q2,2019Q2,0,32
+Le Metropolitan a Tribute Portfolio Hotel,48.8656973,2.2829776,8.3,Paris,Le Metropolitan a Tribute Portfolio Hotel,d1236762,Le_Metropolitan_a_Tribute_Portfolio_Hotel_Paris,2009-06-01,2019-04-01,2009Q2,2019Q2,0,9
+Le Meurice,48.8653685,2.328218,9.3,Paris,Le Meurice,d188732,Le_Meurice,2008-02-01,2019-04-16,2008Q1,2019Q2,0,48
+Le Narcisse Blanc Spa,48.8605125,2.3106533,9.5,Paris,Le Narcisse Blanc Spa,d9452312,Le_Narcisse_Blanc_Hotel_Spa,2016-07-01,2019-04-26,2016Q3,2019Q2,0,19
+Le Parisis Paris Tour Eiffel,48.8494851,2.2955063,8.6,Paris,Le Parisis Paris Tour Eiffel,d207682,Le_Parisis_Paris_Tour_Eiffel,2015-09-01,2019-05-01,2015Q3,2019Q2,0,10
+Le Pavillon de la Reine Spa,48.8562725,2.3660412,9.2,Paris,Le Pavillon de la Reine Spa,d188738,Le_Pavillon_de_la_Reine,2002-07-01,2019-04-01,2002Q3,2019Q2,0,11
+Le Pavillon des Lettres,48.8713699,2.3181191,9.0,Paris,Le Pavillon des Lettres,d1887131,Le_Pavillon_des_Lettres,2010-12-01,2019-04-25,2010Q4,2019Q2,0,49
+Le Pradey,48.8645309,2.3315532,8.8,Paris,Le Pradey,d233388,Hotel_Le_Pradey,2011-10-01,2019-05-08,2011Q4,2019Q2,0,47
+Le Relais Madeleine,48.870961,2.3267678,8.7,Paris,Le Relais Madeleine,d1217451,Le_Relais_Madeleine,2008-11-01,2019-04-23,2008Q4,2019Q2,0,51
+Le Roch Hotel Spa,48.8661991,2.3328826,9.0,Paris,Le Roch Hotel Spa,d9993993,Le_Roch_Hotel_Spa,2016-07-01,2019-04-01,2016Q3,2019Q2,0,47
+Le Saint Hotel Paris,48.856542100000006,2.3303504,8.8,Paris,Le Saint Hotel Paris,d10035747,Hipotel_Paris_Bastille_Saint_Antoine,2016-05-01,2017-11-01,2016Q2,2017Q4,0,29
+Le Senat,48.8491427,2.3397118,8.3,Paris,Le Senat,d250387,Hotel_le_Senat,2002-11-01,2019-04-01,2002Q4,2019Q2,0,27
+Le Tourville Eiffel,48.854268100000006,2.3078116,8.8,Paris,Le Tourville Eiffel,d188746,Hotel_le_Tourville,2012-06-01,2019-04-13,2012Q2,2019Q2,0,11
+Le Tsuba Hotel,48.877762100000005,2.293177,9.3,Paris,Le Tsuba Hotel,d10521834,Le_Tsuba_Hotel,2017-03-01,2019-05-03,2017Q1,2019Q2,0,34
+Leonardo Hotel Milan City Center,45.482442,9.1756982,8.2,Milan,Leonardo Hotel Milan City Center,d229097,Leonardo_Hotel_Milan_City_Center,2004-08-01,2019-05-05,2004Q3,2019Q2,0,5
+Les Jardins Du Marais,48.8605219,2.3680239,8.1,Paris,Les Jardins Du Marais,d1699937,Paris_Le_Marais,2010-02-01,2019-02-01,2010Q1,2019Q1,0,12
+Les Matins de Paris Spa,48.878932,2.3394182,8.6,Paris,Les Matins de Paris Spa,d8140262,Hotel_Les_Matins_de_Paris_Spa,2015-09-01,2019-04-01,2015Q3,2019Q2,0,25
+Les Plumes Hotel,48.8766269,2.3432886,8.8,Paris,Les Plumes Hotel,d577658,Les_Plumes_Hotel,2013-06-01,2019-04-26,2013Q2,2019Q2,0,27
+Little Palace Hotel,48.8675674,2.3539896,8.2,Paris,Little Palace Hotel,d228719,Little_Palace_Hotel,2015-02-01,2019-05-04,2015Q1,2019Q2,0,24
+London Bridge Hotel,51.5052188,-0.088166,8.7,London,London Bridge Hotel,d10354666,Tower_Bridge_Superior_Apartments,2016-06-01,2019-05-04,2016Q2,2019Q2,0,6
+London City Suites,51.5206309,-0.0915341,8.9,London,London City Suites,d2164773,London_City_Suites_By_Montcalm,2011-09-01,2019-04-16,2011Q3,2019Q2,0,13
+London Elizabeth Hotel,51.5120219,-0.1762414,7.0,London,London Elizabeth Hotel,d192073,London_Elizabeth_Hotel,2003-01-01,2019-04-24,2003Q1,2019Q2,0,19
+London Hilton on Park Lane,51.5055513,-0.1501698,7.8,London,London Hilton on Park Lane,d195224,London_Hilton_on_Park_Lane,2012-04-01,2019-04-29,2012Q2,2019Q2,0,25
+London Marriott Hotel County Hall,51.5016102,-0.1191545,8.5,London,London Marriott Hotel County Hall,d2393748,The_County_Hotel,2005-09-01,2019-05-08,2005Q3,2019Q2,0,8
+London Marriott Hotel Grosvenor Square,51.511579,-0.1500193,7.9,London,London Marriott Hotel Grosvenor Square,d193160,London_Marriott_Hotel_Grosvenor_Square,2002-08-01,2019-04-27,2002Q3,2019Q2,0,35
+London Marriott Hotel Kensington,51.4944849,-0.1884173999999999,8.0,London,London Marriott Hotel Kensington,d13451678,Residence_Inn_Marriott_London_Kensington,2018-05-01,2019-04-26,2018Q2,2019Q2,0,32
+London Marriott Hotel Marble Arch,51.5163841,-0.1635763999999999,8.2,London,London Marriott Hotel Marble Arch,d199159,The_Marble_Arch_London,2011-05-01,2019-05-05,2011Q2,2019Q2,0,28
+London Suites,51.5215508,-0.0469238,7.4,London,London Suites,d10533868,Paddington_Rob_Roy_Executive_Suites,2017-02-01,2017-11-01,2017Q1,2017Q4,0,1
+Luxury Suites Amsterdam,52.3702613,4.9032489,9.3,Amsterdam,Luxury Suites Amsterdam,d7760616,Luxury_Suites_Amsterdam,2015-05-01,2019-05-07,2015Q2,2019Q2,0,15
+M by Montcalm Shoreditch London Tech City,51.5278465,-0.0889473,9.1,London,M by Montcalm Shoreditch London Tech City,d7182667,M_by_Montcalm_Shoreditch_London_Tech_City,2015-04-01,2019-04-26,2015Q2,2019Q2,0,5
+M venpick Hotel Amsterdam City Centre,52.3781016,4.9142508000000005,8.4,Amsterdam,M venpick Hotel Amsterdam City Centre,d324562,City_Hotel_Amsterdam,2011-10-01,2019-05-08,2011Q4,2019Q2,0,2
+ME London by Melia,51.511879,-0.118552,9.2,London,ME London by Melia,d2630895,ME_London,2012-12-01,2019-05-11,2012Q4,2019Q2,0,23
+ME Milan Il Duca,45.4793852,9.1961308,9.2,Milan,ME Milan Il Duca,d238252,ME_Milan_Il_Duca,2014-07-01,2019-05-08,2014Q3,2019Q2,0,25
+Madeleine Plaza,48.8710402,2.3248014,8.4,Paris,Madeleine Plaza,d228835,Hotel_Madeleine_Plaza,2004-03-01,2019-05-07,2004Q1,2019Q2,0,50
+Maison Albar Hotel Paris C line,48.8606187,2.344401,8.9,Paris,Maison Albar Hotel Paris C line,d11869269,Maison_Albar_Hotels_Le_Celine,2016-12-01,2019-05-01,2016Q4,2019Q2,0,26
+Maison Borella,45.4521067,9.1758135,9.1,Milan,Maison Borella,d1650286,Hotel_Maison_Borella,2011-09-01,2019-01-01,2011Q3,2019Q1,0,3
+Maison Souquet,48.88366,2.3313845,9.3,Paris,Maison Souquet,d7182695,Maison_Souquet,2015-03-01,2019-05-04,2015Q1,2019Q2,0,15
+Majestic Hotel Spa,48.8703672,2.2938868,8.7,Paris,Majestic Hotel Spa,d1675589,Majestic_Hotel_Spa_Paris,2005-08-01,2019-04-01,2005Q3,2019Q2,0,48
+Majestic Hotel Spa Barcelona GL,41.3935179,2.1639813,8.9,Barcelona,Majestic Hotel Spa Barcelona GL,d190616,Majestic_Hotel_Spa_Barcelona,2012-10-01,2019-05-07,2012Q4,2019Q2,0,46
+Mandarin Oriental Barcelona,41.391393,2.1668467,9.0,Barcelona,Mandarin Oriental Barcelona,d1456413,Mandarin_Oriental_Barcelona,2009-12-01,2019-05-08,2009Q4,2019Q2,0,51
+Mandarin Oriental Paris,48.8671889,2.326927,9.1,Paris,Mandarin Oriental Paris,d2041918,Mandarin_Oriental_Paris,2011-07-01,2019-04-23,2011Q3,2019Q2,0,49
+Marlin Waterloo,51.4990953,-0.1132136,8.6,London,Marlin Waterloo,d12475989,Marlin_Waterloo,2017-05-01,2019-05-03,2017Q2,2019Q2,0,3
+Maxim Op ra,48.8738557,2.3444232000000005,8.4,Paris,Maxim Op ra,d197580,Hotel_Maxim_Opera,2012-01-01,2019-05-04,2012Q1,2019Q2,0,29
+Medinaceli,41.3781685,2.1786627,7.8,Barcelona,Medinaceli,d603788,Hotel_Medinaceli,2006-06-01,2019-04-01,2006Q2,2019Q2,0,22
+Megaro Hotel,51.5294411,-0.1233744999999999,8.8,London,Megaro Hotel,d1026084,The_Megaro_Hotel,2008-04-01,2019-05-05,2008Q2,2019Q2,0,5
+Melia Barcelona Sarri ,41.391058,2.141706,8.1,Barcelona,Melia Barcelona Sarri ,d229680,Melia_Barcelona_Sarria,2003-06-01,2019-05-02,2003Q2,2019Q2,0,12
+Melia Barcelona Sky 4 Sup,41.4061636,2.2008956000000004,8.4,Barcelona,Melia Barcelona Sky 4 Sup,d1153245,Melia_Barcelona_Sky,2008-09-01,2019-05-03,2008Q3,2019Q2,0,5
+Melia Paris Champs Elys es,48.86889620000001,2.2827459,8.3,Paris,Melia Paris Champs Elys es,d228847,Melia_Paris_Champs_Elysees,2003-04-01,2019-05-01,2003Q2,2019Q2,0,14
+Melia Paris Notre Dame,48.8515198,2.3486511,8.7,Paris,Melia Paris Notre Dame,d228850,Melia_Paris_Notre_Dame,2003-09-01,2019-04-22,2003Q3,2019Q2,0,22
+Melia Paris Tour Eiffel,48.8651994,2.3045076,8.1,Paris,Melia Paris Tour Eiffel,d197932,Melia_Paris_Tour_Eiffel,2003-07-01,2019-05-02,2003Q3,2019Q2,0,42
+Melia Vienna,48.231911,16.4129493,8.6,Vienna,Melia Vienna,d5603740,Melia_Vienna,2014-02-01,2019-05-05,2014Q1,2019Q2,0,3
+Melia White House Hotel,51.5298597,-0.1444623,8.3,London,Melia White House Hotel,d1393055,The_White_House,2006-01-01,2009-10-01,2006Q1,2009Q4,0,2
+Mercer Hotel Barcelona,41.3827,2.1791999,9.5,Barcelona,Mercer Hotel Barcelona,d543388,Mercer_House_Boria_BCN,2005-04-01,2019-03-01,2005Q2,2019Q1,0,25
+Mercer House B ria BCN,41.3846844,2.1791065,8.6,Barcelona,Mercer House B ria BCN,d506652,B_Hotel,2005-05-01,2019-04-25,2005Q2,2019Q2,0,30
+Mercure Amsterdam Sloterdijk Station,52.3872884,4.8349748,8.6,Amsterdam,Mercure Amsterdam Sloterdijk Station,d7855996,Mercure_Amsterdam_Sloterdijk_Station,2015-07-01,2019-04-26,2015Q3,2019Q2,0,1
+Mercure Barcelona Condor,41.3999934,2.1452467,8.0,Barcelona,Mercure Barcelona Condor,d206923,Mercure_Barcelona_Condor,2016-12-01,2019-04-27,2016Q4,2019Q2,0,11
+Mercure Grand Hotel Biedermeier Wien,48.2038688,16.3887039,8.4,Vienna,Mercure Grand Hotel Biedermeier Wien,d192273,Mercure_Grand_Hotel_Biedermeier_Wien,2012-03-01,2019-04-28,2012Q1,2019Q2,0,8
+Mercure Hotel Amsterdam Centre Canal District,52.3611852,4.893634099999999,8.2,Amsterdam,Mercure Hotel Amsterdam Centre Canal District,d229124,Mercure_Amsterdam_Centre_Canal_District,2016-03-01,2019-04-01,2016Q1,2019Q2,0,15
+Mercure Hotel Amsterdam City South,52.335182,4.9138688,8.2,Amsterdam,Mercure Hotel Amsterdam City South,d230114,Mercure_Hotel_Amsterdam_City,2003-11-01,2019-05-09,2003Q4,2019Q2,0,0
+Mercure Hotel Raphael Wien,48.19192879999999,16.339139499999998,8.5,Vienna,Mercure Hotel Raphael Wien,d229558,Mercure_Hotel_Raphael_Wien,2016-06-01,2019-04-01,2016Q2,2019Q2,0,5
+Mercure London Paddington Hotel,51.51611389999999,-0.1749521,7.6,London,Mercure London Paddington Hotel,d267239,The_Paddington_Hotel,2003-07-01,2018-10-01,2003Q3,2018Q4,0,23
+Mercure Milano Regency,45.48976879999999,9.1549451,7.7,Milan,Mercure Milano Regency,d202848,Mercure_Milano_Regency,2014-06-01,2019-04-26,2014Q2,2019Q2,0,4
+Mercure Paris 15 Porte de Versailles,48.8382542,2.2903494,8.0,Paris,Mercure Paris 15 Porte de Versailles,d197665,Hotel_Mercure_Paris_15_Porte_de_Versailles,2004-06-01,2019-04-13,2004Q2,2019Q2,0,5
+Mercure Paris 17 me Saint Lazare Monceau,48.8837472,2.3186342,7.9,Paris,Mercure Paris 17 me Saint Lazare Monceau,d1065100,Mercure_Paris_Saint_Lazare_Monceau,2014-01-01,2019-01-01,2014Q1,2019Q1,0,11
+Mercure Paris 19 Philharmonie La Villette,48.8886969,2.3945403,7.5,Paris,Mercure Paris 19 Philharmonie La Villette,d228024,Mercure_Paris_19_Philharmonie_La_Villette_Hotel,2003-06-01,2019-04-01,2003Q2,2019Q2,0,0
+Mercure Paris Alesia,48.8237487,2.324056,8.4,Paris,Mercure Paris Alesia,d228828,Mercure_Paris_Alesia,2015-09-01,2019-03-01,2015Q3,2019Q1,0,0
+Mercure Paris Arc de Triomphe Etoile,48.8782679,2.294852,7.9,Paris,Mercure Paris Arc de Triomphe Etoile,d197499,Mercure_Paris_Arc_de_Triomphe_Etoile,2002-12-01,2019-04-18,2002Q4,2019Q2,0,35
+Mercure Paris Bercy Biblioth que,48.8370334,2.372322,8.4,Paris,Mercure Paris Bercy Biblioth que,d650162,Paris_Bercy_Hotel,2010-08-01,2017-06-01,2010Q3,2017Q2,0,3
+Mercure Paris Centre Tour Eiffel,48.8548641,2.2923181,8.0,Paris,Mercure Paris Centre Tour Eiffel,d3338551,Hotel_du_Centre,2012-10-01,2016-05-01,2012Q4,2016Q2,0,8
+Mercure Paris Champs Elys es,48.8699731,2.2909401000000003,7.2,Paris,Mercure Paris Champs Elys es,d228711,Mercure_Paris_Champs_Elysees,2009-05-01,2019-04-01,2009Q2,2019Q2,0,42
+Mercure Paris Gobelins Place d Italie,48.8321231,2.3536172000000004,7.6,Paris,Mercure Paris Gobelins Place d Italie,d197559,Mercure_Paris_Gobelins_Place_d_Italie,2005-01-01,2018-12-01,2005Q1,2018Q4,0,4
+Mercure Paris Montparnasse Raspail,48.8412131,2.3302954,8.2,Paris,Mercure Paris Montparnasse Raspail,d228756,Raspail_Montparnasse_Hotel,2003-10-01,2019-04-01,2003Q4,2019Q2,0,17
+Mercure Paris Opera Garnier,48.8749511,2.3259532000000003,8.1,Paris,Mercure Paris Opera Garnier,d256389,Mercure_Paris_Opera_Garnier,2003-01-01,2019-04-01,2003Q1,2019Q2,0,44
+Mercure Paris Opera Louvre,48.8710895,2.3393461,8.1,Paris,Mercure Paris Opera Louvre,d197472,Mercure_Paris_Opera_Louvre,2014-12-01,2019-05-06,2014Q4,2019Q2,0,45
+Mercure Paris Pigalle Sacre Coeur,48.8823398,2.3364764,8.3,Paris,Mercure Paris Pigalle Sacre Coeur,d197608,Le_Pigalle,2015-11-01,2019-04-01,2015Q4,2019Q2,0,15
+Mercure Paris Porte De Versailles Expo,48.8268251,2.2912033,7.7,Paris,Mercure Paris Porte De Versailles Expo,d529917,Hotel_Porte_de_Versailles,2007-01-01,2019-01-01,2007Q1,2019Q1,0,1
+Mercure Paris Terminus Nord,48.8794843,2.3556545,7.4,Paris,Mercure Paris Terminus Nord,d677508,Hotel_Paris_Nord,2009-05-01,2019-04-16,2009Q2,2019Q2,0,14
+Mercure Secession Wien,48.200561,16.364706299999998,8.5,Vienna,Mercure Secession Wien,d195234,Mercure_Secession_Wien,2005-02-01,2019-04-01,2005Q1,2019Q2,0,25
+Mercure Tour Eiffel Grenelle,48.850448,2.2928845,8.3,Paris,Mercure Tour Eiffel Grenelle,d197655,Mercure_Paris_Tour_Eiffel_Grenelle_Hotel,2003-12-01,2019-05-08,2003Q4,2019Q2,0,8
+Mercure Vaugirard Paris Porte De Versailles,48.8330649,2.2879617000000003,8.5,Paris,Mercure Vaugirard Paris Porte De Versailles,d197653,Mercure_Paris_Vaugirard_Porte_de_Versailles_Hotel,2006-09-01,2019-04-01,2006Q3,2019Q2,0,4
+Mercure Vienna First,48.21145670000001,16.373867699999998,8.8,Vienna,Mercure Vienna First,d7674973,Mercure_Vienna_First,2015-03-01,2019-05-03,2015Q1,2019Q2,0,30
+MiHotel,45.4405621,9.1921165,7.8,Milan,MiHotel,d1627551,MiHotel,2010-04-01,2019-04-01,2010Q2,2019Q2,0,0
+Milan Suite Hotel,45.5000245,9.1428722,8.7,Milan,Milan Suite Hotel,d1595360,Milan_Suite_Hotel,2010-04-01,2019-04-01,2010Q2,2019Q2,0,4
+Millennium Copthorne Hotels at Chelsea Football Club,51.481663,-0.1909565,8.2,London,Millennium Copthorne Hotels at Chelsea Football Club,d279521,Millennium_Copthorne_Hotels_at_Chelsea_Football_Club,2003-08-01,2019-05-05,2003Q3,2019Q2,0,0
+Millennium Gloucester Hotel London,51.4935083,-0.1834346,7.8,London,Millennium Gloucester Hotel London,d193125,Millennium_Gloucester_Hotel_London_Kensington,2002-09-01,2019-05-05,2002Q3,2019Q2,0,29
+Millennium Hotel Paris Opera,48.8724588,2.3378004,7.8,Paris,Millennium Hotel Paris Opera,d229600,Millennium_Hotel_Paris_Opera,2003-01-01,2019-04-25,2003Q1,2019Q2,0,50
+Mimi s Hotel Soho,51.5140329,-0.1320651,8.3,London,Mimi s Hotel Soho,d11962965,Mimis_Hotel_Soho,2017-01-01,2019-04-01,2017Q1,2019Q2,0,36
+Mokinba Hotels Baviera,45.47828079999999,9.1997755,7.7,Milan,Mokinba Hotels Baviera,d202873,Mokinba_Hotel_Baviera,2005-02-01,2019-04-01,2005Q1,2019Q2,0,26
+Mokinba Hotels Montebianco,45.4788051,9.1446276,7.5,Milan,Mokinba Hotels Montebianco,d202831,Mokinba_Hotel_Montebianco,2005-08-01,2018-11-01,2005Q3,2018Q4,0,1
+Monhotel Lounge SPA,48.874348100000006,2.2897334,8.4,Paris,Monhotel Lounge SPA,d284085,MonHotel_Lounge_Spa,2019-03-01,2019-05-10,2019Q1,2019Q2,0,38
+Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,48.8742767,2.3426276,8.7,Paris,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,d313066,Monsieur_Cadet_Hotel_Spa,2014-10-01,2019-04-01,2014Q4,2019Q2,0,30
+Montagu Place Hotel,51.5191009,-0.1592,9.1,London,Montagu Place Hotel,d254569,Hotel_La_Place,2004-01-01,2019-04-25,2004Q1,2019Q2,0,24
+Montfleuri,48.8747153,2.2906388,8.2,Paris,Montfleuri,d254324,Hotel_Montfleuri,2005-02-01,2019-05-02,2005Q1,2019Q2,0,39
+Monument Hotel,41.393908200000006,2.1622556,9.3,Barcelona,Monument Hotel,d9587943,Monument_Hotel,2016-04-01,2019-04-17,2016Q2,2019Q2,0,42
+Morgan Mees,52.374371200000006,4.8746196,8.8,Amsterdam,Morgan Mees,d7724407,Morgan_Mees,2015-03-01,2019-01-01,2015Q1,2019Q1,0,5
+My Chelsea,51.4919083,-0.1684398,8.2,London,My Chelsea,d265988,My_Chelsea,2002-03-01,2019-04-10,2002Q1,2019Q2,0,19
+My Home In Paris,48.8636049,2.3688352000000004,9.1,Paris,My Home In Paris,d198076,My_Home_in_Paris_Hotel,2016-04-01,2019-04-23,2016Q2,2019Q2,0,11
+NH Amsterdam Caransa,52.3664077,4.896909099999999,7.9,Amsterdam,NH Amsterdam Caransa,d229228,NH_Amsterdam_Caransa,2003-10-01,2019-04-01,2003Q4,2019Q2,0,15
+NH Amsterdam Centre,52.3630682,4.879445099999999,7.7,Amsterdam,NH Amsterdam Centre,d275406,NH_Amsterdam_Centre,2003-09-01,2019-04-29,2003Q3,2019Q2,0,16
+NH Amsterdam Noord,52.3923684,4.9110442,8.2,Amsterdam,NH Amsterdam Noord,d1858853,NH_Amsterdam_Noord,2004-08-01,2019-04-10,2004Q3,2019Q2,0,0
+NH Amsterdam Schiller,52.3657092,4.8966912,7.7,Amsterdam,NH Amsterdam Schiller,d229160,NH_Amsterdam_Schiller,2003-02-01,2019-04-23,2003Q1,2019Q2,0,14
+NH Barcelona Stadium,41.3812574,2.1269078,8.1,Barcelona,NH Barcelona Stadium,d206925,NH_Barcelona_Stadium,2005-08-01,2019-05-01,2005Q3,2019Q2,0,3
+NH Collection Barcelona Gran Hotel Calder n,41.3894654,2.1662651000000004,8.8,Barcelona,NH Collection Barcelona Gran Hotel Calder n,d206921,NH_Collection_Barcelona_Gran_Hotel_Calderon,2016-11-01,2019-05-02,2016Q4,2019Q2,0,51
+NH Collection Milano President,45.4630685,9.1979367,8.7,Milan,NH Collection Milano President,d202857,NH_Collection_Milano_President,2013-01-01,2019-04-24,2013Q1,2019Q2,0,14
+NH Collection Wien Zentrum,48.1979979,16.348331400000003,8.9,Vienna,NH Collection Wien Zentrum,d231971,NH_Collection_Wien_Zentrum,2015-06-01,2019-04-01,2015Q2,2019Q2,0,10
+NH Danube City,48.2353789,16.4219737,8.4,Vienna,NH Danube City,d231972,NH_Wien_City,2003-08-01,2019-04-25,2003Q3,2019Q2,0,4
+NH Hesperia Barcelona del Mar,41.4014399,2.2100745,8.2,Barcelona,NH Hesperia Barcelona del Mar,d1228670,Hotel_Del_Mar,2008-10-01,2019-04-25,2008Q4,2019Q2,0,4
+NH Milano Palazzo Moscova,45.480968,9.189977,8.2,Milan,NH Milano Palazzo Moscova,d8442856,NH_Milano_Palazzo_Moscova,2015-08-01,2019-05-03,2015Q3,2019Q2,0,10
+NH Milano Touring,45.4769167,9.196665,8.4,Milan,NH Milano Touring,d202856,NH_Milano_Touring,2015-04-01,2019-04-01,2015Q2,2019Q2,0,23
+NH Sants Barcelona,41.384591,2.1378107,8.2,Barcelona,NH Sants Barcelona,d206930,NH_Sants_Barcelona,2005-05-01,2019-04-01,2005Q2,2019Q2,0,10
+NYX Milan,45.4868745,9.2018406,8.8,Milan,NYX Milan,d12130410,NYX_Hotel_Milan,2017-03-01,2019-05-05,2017Q1,2019Q2,0,17
+Napoleon Paris,48.8743885,2.2980915,8.5,Paris,Napoleon Paris,d197534,Hotel_Napoleon_Paris,2015-10-01,2019-04-25,2015Q4,2019Q2,0,49
+New Linden Hotel,51.51338320000001,-0.1926617,7.6,London,New Linden Hotel,d214329,New_Linden_Hotel,2004-04-01,2019-04-22,2004Q2,2019Q2,0,15
+Nolinski Paris,48.8654874,2.3348924,9.4,Paris,Nolinski Paris,d10410118,Nolinski_Paris,2016-07-01,2019-04-01,2016Q3,2019Q2,0,43
+Norfolk Towers Paddington,51.5162883,-0.1721078,7.9,London,Norfolk Towers Paddington,d192083,The_Norfolk_Towers_Hotel,2017-01-01,2019-04-14,2017Q1,2019Q2,0,24
+Nottingham Place Hotel,51.522143,-0.153385,8.2,London,Nottingham Place Hotel,d214651,Regency_Hotel_Nottingham_Place,2004-11-01,2019-04-27,2004Q4,2019Q2,0,22
+Novotel Amsterdam City,52.333803,4.8884708,7.8,Amsterdam,Novotel Amsterdam City,d1071829,Novotel_Amsterdam_City,2003-03-01,2019-04-23,2003Q1,2019Q2,0,1
+Novotel Barcelona City,41.4038774,2.1911894,8.4,Barcelona,Novotel Barcelona City,d1532202,Novotel_Barcelona_City,2010-04-01,2019-04-01,2010Q2,2019Q2,0,4
+Novotel London Blackfriars,51.5050165,-0.1049831,8.7,London,Novotel London Blackfriars,d3530264,Novotel_London_Blackfriars,2012-10-01,2019-05-05,2012Q4,2019Q2,0,4
+Novotel London Excel,51.5077198,0.0229805,8.5,London,Novotel London Excel,d291617,Novotel_London_Excel,2004-05-01,2019-04-27,2004Q2,2019Q2,0,1
+Novotel London Paddington,51.519032,-0.1825943,8.5,London,Novotel London Paddington,d1159072,Novotel_London_Paddington,2008-10-01,2019-05-03,2008Q4,2019Q2,0,22
+Novotel London West,51.4919588,-0.2200956,8.3,London,Novotel London West,d193672,Novotel_London_West,2003-05-01,2019-05-02,2003Q2,2019Q2,0,1
+Novotel Milano Nord Ca Granda,45.506502000000005,9.1965192,7.8,Milan,Novotel Milano Nord Ca Granda,d204505,Novotel_Milan_Nord_Ca_Granda,2006-02-01,2019-04-08,2006Q1,2019Q2,0,0
+Novotel Paris 17,48.8920485,2.3023791,7.9,Paris,Novotel Paris 17,d259318,Novotel_Paris_17,2014-07-01,2019-05-05,2014Q3,2019Q2,0,3
+Novotel Paris Centre Tour Eiffel,48.8500283,2.2834126,7.6,Paris,Novotel Paris Centre Tour Eiffel,d233528,Novotel_Paris_Centre_Tour_Eiffel,2003-04-01,2019-05-11,2003Q2,2019Q2,0,7
+Novotel Paris Gare De Lyon,48.8453785,2.3753036,8.5,Paris,Novotel Paris Gare De Lyon,d197486,Novotel_Paris_Gare_de_Lyon,2004-05-01,2019-04-01,2004Q2,2019Q2,0,5
+Novotel Paris Les Halles,48.8607299,2.3465326,8.4,Paris,Novotel Paris Les Halles,d197424,Novotel_Paris_Les_Halles,2003-08-01,2019-04-29,2003Q3,2019Q2,0,22
+Novotel Paris Vaugirard Montparnasse,48.8399018,2.3031011,7.6,Paris,Novotel Paris Vaugirard Montparnasse,d197658,Novotel_Paris_Vaugirard_Montparnasse,2003-04-01,2019-04-23,2003Q2,2019Q2,0,3
+Novotel Wien City,48.2134246,16.3831309,8.1,Vienna,Novotel Wien City,d675101,Novotel_Wien_City,2008-02-01,2019-04-01,2008Q1,2019Q2,0,15
+Nu Hotel,45.4911829,9.2393614,8.9,Milan,Nu Hotel,d3135828,NU_Hotel_Milano,2012-09-01,2019-04-01,2012Q3,2019Q2,0,0
+Number Sixteen,51.4930905,-0.1755022,9.1,London,Number Sixteen,d188478,Number_Sixteen,2003-10-01,2019-04-21,2003Q4,2019Q2,0,22
+Occidental Atenea Mar Adults Only,41.402362100000005,2.2119049,8.2,Barcelona,Occidental Atenea Mar Adults Only,d291590,Occidental_Atenea_Mar_Adults_only,2004-08-01,2019-04-30,2004Q3,2019Q2,0,3
+Ofelias Hotel 4 Sup,41.3957584,2.1822402000000003,8.6,Barcelona,Ofelias Hotel 4 Sup,d2440485,Ofelias_Hotel,2012-07-01,2019-04-01,2012Q3,2019Q2,0,7
+Ohla Barcelona,41.3870479,2.1743360000000003,9.0,Barcelona,Ohla Barcelona,d10061941,Ohla_Eixample,2016-04-01,2019-04-22,2016Q2,2019Q2,0,42
+Okko Hotels Paris Porte De Versailles,48.8327729,2.2787597,9.2,Paris,Okko Hotels Paris Porte De Versailles,d12297633,Okko_Hotels_Paris_Porte_de_Versailles,2017-06-01,2019-04-01,2017Q2,2019Q2,0,2
+Old Ship Inn Hackney,51.5458476,-0.0554113,7.9,London,Old Ship Inn Hackney,d1383428,The_Old_Ship_Inn,2009-08-01,2019-04-01,2009Q3,2019Q2,0,0
+Olivia Balmes Hotel,41.392095,2.158493,9.3,Barcelona,Olivia Balmes Hotel,d4569039,Olivia_Balmes_Hotel,2013-09-01,2019-05-02,2013Q3,2019Q2,0,39
+Olivia Plaza Hotel,41.3861459,2.1711594,9.3,Barcelona,Olivia Plaza Hotel,d589352,Olivia_Plaza_Hotel,2006-02-01,2019-05-13,2006Q1,2019Q2,0,45
+Onix Liceo,41.3780229,2.1730782000000004,8.1,Barcelona,Onix Liceo,d667881,Onix_Liceo_Hotel,2007-09-01,2019-03-01,2007Q3,2019Q1,0,24
+Op ra Marigny,48.871723,2.3235377,8.1,Paris,Op ra Marigny,d638136,Hotel_Opera_Marigny,2009-05-01,2019-05-02,2009Q2,2019Q2,0,49
+Ozo Hotel,52.3047669,4.9476868,7.6,Amsterdam,Ozo Hotel,d7786396,Ozo_Hotel,2015-04-01,2019-04-26,2015Q2,2019Q2,0,2
+Pakat Suites Hotel,48.19183,16.3770876,8.6,Vienna,Pakat Suites Hotel,d1192251,Pakat_Suites_Hotel,2009-10-01,2019-03-01,2009Q4,2019Q1,0,8
+Palais Coburg Residenz,48.2058584,16.3766545,9.5,Vienna,Palais Coburg Residenz,d488395,Palais_Coburg_Hotel_Residenz,2006-05-01,2019-04-01,2006Q2,2019Q2,0,34
+Palazzo Parigi Hotel Grand Spa Milano,45.473348,9.1910733,9.3,Milan,Palazzo Parigi Hotel Grand Spa Milano,d4552883,Palazzo_Parigi_Hotel_Grand_Spa,2013-09-01,2019-04-01,2013Q3,2019Q2,0,21
+Palazzo Segreti,45.4672309,9.184154,8.9,Milan,Palazzo Segreti,d1870698,Palazzo_Segreti,2011-03-01,2019-04-22,2011Q1,2019Q2,0,17
+Paris Marriott Rive Gauche Hotel,48.83159620000001,2.3399796000000004,7.5,Paris,Paris Marriott Rive Gauche Hotel,d197610,Paris_Marriott_Rive_Gauche_Hotel_Conference_Center,2004-03-01,2019-04-01,2004Q1,2019Q2,0,2
+Park Avenue Baker Street,51.52414520000001,-0.1609907,7.7,London,Park Avenue Baker Street,d4491472,Park_Avenue_Baker_Street,2013-07-01,2019-04-08,2013Q3,2019Q2,0,16
+Park Grand London Kensington,51.4938468,-0.1917582,8.4,London,Park Grand London Kensington,d192090,The_Park_City_Grand_Plaza_Kensington_Hotel,2005-11-01,2019-04-01,2005Q4,2019Q2,0,25
+Park Grand London Lancaster Gate,51.51320689999999,-0.1807816,8.8,London,Park Grand London Lancaster Gate,d210363,The_Gate,2004-01-01,2017-02-01,2004Q1,2017Q1,0,21
+Park Grand Paddington Court,51.5135555,-0.180002,8.1,London,Park Grand Paddington Court,d1575619,Park_Grand_London_Paddington,2009-10-01,2019-04-01,2009Q4,2019Q2,0,22
+Park Hotel,52.3613814,4.8832594,8.3,Amsterdam,Park Hotel,d1186174,Park_Mansion,2009-10-01,2018-07-01,2009Q4,2018Q3,0,17
+Park Hyatt Vienna,48.2105243,16.3683592,9.3,Vienna,Park Hyatt Vienna,d6603500,Park_Hyatt_Vienna,2014-06-01,2019-04-01,2014Q2,2019Q2,0,29
+Park Inn by Radisson Uno City Vienna,48.2340799,16.421009299999998,8.6,Vienna,Park Inn by Radisson Uno City Vienna,d206605,Park_Inn_by_Radisson_Uno_City_Vienna,2006-06-01,2019-05-08,2006Q2,2019Q2,0,4
+Park International Hotel,51.4945144,-0.1866172,7.8,London,Park International Hotel,d192145,Park_International_Hotel,2002-11-01,2019-05-01,2002Q4,2019Q2,0,32
+Park Lane Mews Hotel,51.5059334,-0.1489417999999999,7.0,London,Park Lane Mews Hotel,d193159,Park_Lane_Mews_Hotel,2006-07-01,2019-04-01,2006Q3,2019Q2,0,25
+Park Plaza London Park Royal,51.527262,-0.282992,8.9,London,Park Plaza London Park Royal,d11717496,Park_Plaza_London_Park_Royal,2017-03-01,2019-05-02,2017Q1,2019Q2,0,1
+Pershing Hall,48.8691325,2.3021659,8.2,Paris,Pershing Hall,d233740,Hotel_Pershing_Hall,2003-04-01,2017-03-01,2003Q2,2017Q1,0,50
+Pertschy Palais Hotel,48.2082256,16.368412300000003,8.1,Vienna,Pertschy Palais Hotel,d235700,Pertschy_Palais_Hotel,2002-06-01,2019-04-01,2002Q2,2019Q2,0,31
+Pestana Arena Barcelona,41.376801,2.1460443,8.5,Barcelona,Pestana Arena Barcelona,d609760,Pestana_Arena_Barcelona,2013-10-01,2019-04-01,2013Q4,2019Q2,0,8
+Petit Palace Barcelona,41.3909816,2.1714938,7.9,Barcelona,Petit Palace Barcelona,d633539,ICON_BCN_by_Petit_Palace,2018-07-01,2019-04-29,2018Q3,2019Q2,0,39
+Petit Palace Boqueria Garden,41.3812223,2.1739622000000005,8.5,Barcelona,Petit Palace Boqueria Garden,d652746,Petit_Hotel,2008-06-01,2019-04-19,2008Q2,2019Q2,0,32
+Petit Palais Hotel De Charme,45.4559784,9.1871812,8.5,Milan,Petit Palais Hotel De Charme,d678542,Hotel_Petit_Palais,2019-04-14,2019-04-14,2019Q2,2019Q2,0,9
+Pillows Anna van den Vondel Amsterdam,52.3607413,4.8695315,9.4,Amsterdam,Pillows Anna van den Vondel Amsterdam,d196103,Pillows_Anna_van_den_Vondel,2017-01-01,2019-04-23,2017Q1,2019Q2,0,11
+Platine Hotel Spa,48.8473459,2.2832408,8.6,Paris,Platine Hotel Spa,d2307354,Platine_Hotel,2011-10-01,2019-04-13,2011Q4,2019Q2,0,5
+Plaza Tour Eiffel,48.8645647,2.2821827,8.5,Paris,Plaza Tour Eiffel,d228739,Plaza_Tour_Eiffel,2003-11-01,2019-04-01,2003Q4,2019Q2,0,8
+Pol Grace Hotel,41.4017465,2.1477365,8.8,Barcelona,Pol Grace Hotel,d232792,Pol_Grace_Hotel,2006-04-01,2019-04-19,2006Q2,2019Q2,0,12
+Portobello House,51.5199224,-0.2116636,8.4,London,Portobello House,d187995,Portobello_Hotel,2002-09-01,2019-04-15,2002Q3,2019Q2,0,0
+Primero Primera,41.4002812,2.1297427000000004,9.2,Barcelona,Primero Primera,d2367494,Hotel_Primero_Primera,2011-11-01,2019-04-01,2011Q4,2019Q2,0,3
+Prince de Galles a Luxury Collection hotel Paris,48.869143,2.3006526000000003,9.0,Paris,Prince de Galles a Luxury Collection hotel Paris,d188492,Prince_de_Galles_a_Luxury_Collection_Hotel_Paris,2013-05-01,2019-04-01,2013Q2,2019Q2,0,51
+Pulitzer Amsterdam,52.37283529999999,4.883326,9.1,Amsterdam,Pulitzer Amsterdam,d189387,Pulitzer_Amsterdam,2016-08-01,2019-05-13,2016Q3,2019Q2,0,10
+Pullman Barcelona Skipper,41.3860183,2.19473,8.6,Barcelona,Pullman Barcelona Skipper,d614392,Pullman_Barcelona_Skipper,2007-01-01,2019-04-23,2007Q1,2019Q2,0,5
+Pullman London St Pancras,51.5286766,-0.1283489,8.9,London,Pullman London St Pancras,d192068,Pullman_London_St_Pancras_Hotel,2012-07-01,2019-05-04,2012Q3,2019Q2,0,12
+Pullman Paris Centre Bercy,48.8315204,2.3870797,8.7,Paris,Pullman Paris Centre Bercy,d207838,Pullman_Paris_Centre_Bercy,2008-03-01,2019-05-01,2008Q1,2019Q2,0,1
+Pullman Paris Montparnasse,48.8382943,2.3210421,8.1,Paris,Pullman Paris Montparnasse,d228799,Pullman_Paris_Montparnasse_opening_March_2020,2011-01-01,2019-02-01,2011Q1,2019Q1,0,14
+Qualys Hotel Nasco,45.4848809,9.1596461,8.2,Milan,Qualys Hotel Nasco,d297018,Hotel_Nasco,2007-04-01,2019-05-04,2007Q2,2019Q2,0,5
+Radisson Blu Champs Elys es Paris,48.8719212,2.2971404,7.4,Paris,Radisson Blu Champs Elys es Paris,d239280,Radisson_Blu_Hotel_Champs_Elysees_Paris,2004-05-01,2019-04-01,2004Q2,2019Q2,0,51
+Radisson Blu Edwardian Bloomsbury Street,51.517608,-0.1276253,8.6,London,Radisson Blu Edwardian Bloomsbury Street,d188029,Radisson_Blu_Edwardian_London_Bloomsbury_Street,2009-01-01,2019-05-03,2009Q1,2019Q2,0,27
+Radisson Blu Edwardian Grafton,51.5241386,-0.1380807,8.3,London,Radisson Blu Edwardian Grafton,d192261,Radisson_Blu_Edwardian_Grafton_Hotel,2003-08-01,2019-05-08,2003Q3,2019Q2,0,15
+Radisson Blu Edwardian Kenilworth,51.5179725,-0.1280494999999999,8.2,London,Radisson Blu Edwardian Kenilworth,d192037,Radisson_Blu_Edwardian_Kenilworth_Hotel,2003-06-01,2019-05-06,2003Q2,2019Q2,0,31
+Radisson Blu Edwardian Mercer Street,51.5139275,-0.1271506,8.7,London,Radisson Blu Edwardian Mercer Street,d192034,Radisson_Blu_Edwardian_Mercer_Street_Hotel,2011-05-01,2019-04-25,2011Q2,2019Q2,0,34
+Radisson Blu Edwardian New Providence Wharf,51.5065578,-0.004514,9.0,London,Radisson Blu Edwardian New Providence Wharf,d651411,Radisson_Blu_Edwardian_New_Providence_Wharf_Hotel,2007-10-01,2019-04-28,2007Q4,2019Q2,0,1
+Radisson Blu Edwardian Sussex,51.5144381,-0.1558337,8.0,London,Radisson Blu Edwardian Sussex,d195282,Radisson_Blu_Edwardian_Sussex_Hotel,2002-10-01,2019-04-23,2002Q4,2019Q2,0,25
+Radisson Blu Edwardian Vanderbilt,51.4953691,-0.1818966,8.2,London,Radisson Blu Edwardian Vanderbilt,d192118,Radisson_Blu_Edwardian_Vanderbilt,2002-09-01,2019-04-25,2002Q3,2019Q2,0,31
+Radisson Blu Hotel Amsterdam,52.3702469,4.8966743,8.6,Amsterdam,Radisson Blu Hotel Amsterdam,d230875,Radisson_Blu_Hotel_Amsterdam,2002-05-01,2019-05-08,2002Q2,2019Q2,0,20
+Rainers Hotel Vienna,48.1791893,16.3625367,8.2,Vienna,Rainers Hotel Vienna,d1141013,Rainers_Hotel_Vienna,2009-05-01,2019-05-02,2009Q2,2019Q2,0,0
+Ramada Apollo Amsterdam Centre,52.3681299,4.8440847,8.2,Amsterdam,Ramada Apollo Amsterdam Centre,d2151608,Ramada_Apollo_Amsterdam_Centre,2012-08-01,2019-04-23,2012Q3,2019Q2,0,0
+Ramada Plaza Milano,45.501946,9.2277569,8.4,Milan,Ramada Plaza Milano,d1764108,Ramada_Plaza_Milano,2010-10-01,2019-04-25,2010Q4,2019Q2,0,1
+Relais Du Louvre,48.8592264,2.340996,8.9,Paris,Relais Du Louvre,d222914,Le_Relais_du_Louvre,2003-03-01,2019-04-01,2003Q1,2019Q2,0,37
+Relais H tel du Vieux Paris,48.85386079999999,2.3429487,8.9,Paris,Relais H tel du Vieux Paris,d242962,Relais_Hotel_du_Vieux_Paris,2004-11-01,2019-04-17,2004Q4,2019Q2,0,32
+Relais Saint Jacques,48.8430523,2.3422519,8.7,Paris,Relais Saint Jacques,d325719,Relais_Saint_Jacques,2002-10-01,2019-04-24,2002Q4,2019Q2,0,18
+Renaissance Paris Le Parc Trocadero Hotel,48.8673099,2.2856528,8.1,Paris,Renaissance Paris Le Parc Trocadero Hotel,d529920,Parc_Hotel_Paris,2009-09-01,2019-04-02,2009Q3,2019Q2,0,20
+Renaissance Paris Republique Hotel Spa,48.8687804,2.3610196,8.5,Paris,Renaissance Paris Republique Hotel Spa,d9761928,Renaissance_Paris_Republique_Hotel,2016-05-01,2019-04-01,2016Q2,2019Q2,0,15
+Residence Du Roy,48.8657687,2.3090386,8.4,Paris,Residence Du Roy,d228803,Residence_du_Roy_Hotel,2005-02-01,2019-04-28,2005Q1,2019Q2,0,43
+Residence Henri IV,48.8481917,2.3490316000000004,9.1,Paris,Residence Henri IV,d220002,Hotel_Henri_IV,2002-12-01,2019-04-16,2002Q4,2019Q2,0,19
+Ritz Paris,48.8679466,2.3289593,9.8,Paris,Ritz Paris,d188728,Ritz_Paris,2016-06-01,2019-05-08,2016Q2,2019Q2,0,48
+Roger de Ll ria,41.3910786,2.1717285,8.5,Barcelona,Roger de Ll ria,d232774,Hotel_Roger_De_Lluria,2005-09-01,2019-05-03,2005Q3,2019Q2,0,39
+Room Mate Aitana,52.3846059,4.894186599999999,8.8,Amsterdam,Room Mate Aitana,d4345724,Room_Mate_Aitana,2013-08-01,2019-05-04,2013Q3,2019Q2,0,3
+Room Mate Anna,41.392936600000006,2.1653954,9.1,Barcelona,Room Mate Anna,d10266358,Room_Mate_Anna,2016-07-01,2019-04-01,2016Q3,2019Q2,0,49
+Room Mate Carla,41.3962658,2.1662153,8.9,Barcelona,Room Mate Carla,d646310,Room_Mate_Carla,2016-06-01,2019-04-01,2016Q2,2019Q2,0,36
+Room Mate Gerard,41.3919114,2.1765438,9.0,Barcelona,Room Mate Gerard,d12211996,Room_Mate_Gerard,2017-05-01,2019-04-14,2017Q2,2019Q2,0,32
+Royal Amsterdam Hotel,52.3657281,4.8972883000000005,7.4,Amsterdam,Royal Amsterdam Hotel,d12332382,Royal_Plaza_Hotel,2017-05-01,2019-04-15,2017Q2,2019Q2,0,14
+Royal Garden Hotel,51.50270220000001,-0.1882164,8.8,London,Royal Garden Hotel,d193123,Royal_Garden_Hotel,2003-08-01,2019-04-26,2003Q3,2019Q2,0,19
+Royal Hotel Champs Elys es,48.8740463,2.300196,7.9,Paris,Royal Hotel Champs Elys es,d229615,Royal_Hotel_Paris_Champs_Elysees,2004-01-01,2019-04-01,2004Q1,2019Q2,0,53
+Royal Passeig de Gracia,41.3946775,2.1626380000000003,8.6,Barcelona,Royal Passeig de Gracia,d4463171,Hotel_Royal_Passeig_de_Gracia,2013-07-01,2019-05-11,2013Q3,2019Q2,0,39
+Royal Saint Honore,48.8658792,2.3298903,8.6,Paris,Royal Saint Honore,d197422,Hotel_Royal_Saint_Honore,2003-08-01,2019-03-01,2003Q3,2019Q1,0,45
+Rubens At The Palace,51.4981471,-0.1436492,8.7,London,Rubens At The Palace,d199868,The_Rubens_at_the_Palace,2002-08-01,2019-04-28,2002Q3,2019Q2,0,26
+Saint Georges Hotel,51.517839,-0.1424476,7.5,London,Saint Georges Hotel,d249231,Saint_Georges_Hotel,2004-02-01,2019-05-01,2004Q1,2019Q2,0,24
+Saint James Albany Paris Hotel Spa,48.8642689,2.3308179,8.0,Paris,Saint James Albany Paris Hotel Spa,d222913,Saint_James_Paris,2002-09-01,2019-04-22,2002Q3,2019Q2,0,46
+Saint SHERMIN bed breakfast champagne,48.1978409,16.367086999999998,9.0,Vienna,Saint SHERMIN bed breakfast champagne,d206635,Hotel_Saint_Shermin,2012-04-01,2019-04-01,2012Q2,2019Q2,0,17
+San Domenico House,51.4917798,-0.1616049,9.0,London,San Domenico House,d192123,San_Domenico_House,2005-01-01,2019-02-01,2005Q1,2019Q1,0,14
+Sanderson A Morgans Hotel,51.5174853,-0.1372109,9.0,London,Sanderson A Morgans Hotel,d188005,Sanderson_London_Hotel,2003-06-01,2019-04-15,2003Q2,2019Q2,0,27
+Sansi Diputacio,41.3882234,2.1644551,7.8,Barcelona,Sansi Diputacio,d304310,Sansi_Diputacio_Hotel,2004-02-01,2019-03-01,2004Q1,2019Q1,0,49
+Sansi Pedralbes,41.39367,2.1115418,8.4,Barcelona,Sansi Pedralbes,d206932,Hotel_Pedralbes,2007-06-01,2019-02-01,2007Q2,2019Q1,0,2
+Savoy Hotel Amsterdam,52.349743100000005,4.8911908,6.4,Amsterdam,Savoy Hotel Amsterdam,d320980,Hotel_Savoy_Amsterdam,2018-09-01,2019-04-01,2018Q3,2019Q2,0,3
+Schlosshotel R mischer Kaiser,48.2040859,16.3725046,8.9,Vienna,Schlosshotel R mischer Kaiser,d227173,Schlosshotel_Roemischer_Kaiser,2003-09-01,2019-04-23,2003Q3,2019Q2,0,33
+Senato Hotel Milano,45.4714062,9.1965303,9.0,Milan,Senato Hotel Milano,d8292445,Senato_Hotel_Milano,2015-07-01,2019-04-01,2015Q3,2019Q2,0,22
+Senator Hotel Vienna,48.2195864,16.3255339,8.1,Vienna,Senator Hotel Vienna,d1164715,Senator_Hotel_Vienna,2009-03-01,2019-05-08,2009Q1,2019Q2,0,1
+Seraphine Kensington Gardens Hotel,51.5021027,-0.187901,7.4,London,Seraphine Kensington Gardens Hotel,d1575770,Seraphine_London_Kensington_Gardens,2009-11-01,2019-04-24,2009Q4,2019Q2,0,18
+Shaftesbury Metropolis London Hyde Park,51.5166887,-0.1706147,7.7,London,Shaftesbury Metropolis London Hyde Park,d1182303,Shaftesbury_Metropolis_London_Hyde_Park,2008-10-01,2019-04-02,2008Q4,2019Q2,0,29
+Shaftesbury Suites London Marble Arch,51.515755,-0.1603335,8.1,London,Shaftesbury Suites London Marble Arch,d1755984,Shaftesbury_Suites_London_Marble_Arch,2010-09-01,2019-03-01,2010Q3,2019Q1,0,29
+Sheraton Grand London Park Lane,51.5092876,-0.1370062,8.1,London,Sheraton Grand London Park Lane,d192067,Sheraton_Grand_London_Park_Lane,2016-04-01,2019-04-01,2016Q2,2019Q2,0,30
+Silken Concordia,41.3747873,2.1611846000000003,8.2,Barcelona,Silken Concordia,d309580,Hotel_Concordia_Barcelona,2004-05-01,2019-04-01,2004Q2,2019Q2,0,8
+Silken Gran Hotel Havana,41.3927101,2.1722139,8.5,Barcelona,Silken Gran Hotel Havana,d208209,Gran_Hotel_Havana,2002-12-01,2019-04-26,2002Q4,2019Q2,0,39
+Simm s Hotel,48.1790835,16.4116997,8.5,Vienna,Simm s Hotel,d3595877,Simm_s_Hotel,2013-03-01,2019-04-20,2013Q1,2019Q2,0,2
+Simply Rooms Suites,51.4944875,-0.2070605,7.7,London,Simply Rooms Suites,d1775247,Simply_Rooms_Suites,2010-05-01,2019-04-28,2010Q2,2019Q2,0,7
+Sina De La Ville,45.465957,9.192297,8.2,Milan,Sina De La Ville,d202863,Sina_De_La_Ville,2013-09-01,2019-04-01,2013Q3,2019Q2,0,22
+Sina The Gray,45.4655368,9.1914986,8.3,Milan,Sina The Gray,d275806,Sina_The_Gray,2004-07-01,2019-04-01,2004Q3,2019Q2,0,23
+Sir Adam Hotel,52.38403579999999,4.9028572,9.0,Amsterdam,Sir Adam Hotel,d9589433,Sir_Adam_Hotel,2016-12-01,2019-04-01,2016Q4,2019Q2,0,3
+Sixtytwo Hotel,41.3930168,2.1646148,9.2,Barcelona,Sixtytwo Hotel,d1501787,Sixtytwo_Hotel,2009-09-01,2019-04-25,2009Q3,2019Q2,0,47
+Sloane Square Hotel,51.4927325,-0.1573707999999999,8.2,London,Sloane Square Hotel,d14990852,The_Dome_Sloane_Square,2018-08-01,2019-05-08,2018Q3,2019Q2,0,16
+Small Luxury Hotel Altstadt Vienna,48.2047761,16.3512515,9.3,Vienna,Small Luxury Hotel Altstadt Vienna,d263905,Hotel_Altstadt_Vienna,2003-03-01,2019-05-01,2003Q1,2019Q2,0,7
+Snob Hotel by Elegancia,48.8622723,2.3495707,9.0,Paris,Snob Hotel by Elegancia,d11725503,Snob_Hotel_by_Elegancia,2016-11-01,2019-04-01,2016Q4,2019Q2,0,19
+Sofitel Legend The Grand Amsterdam,52.370835,4.895403,9.2,Amsterdam,Sofitel Legend The Grand Amsterdam,d189389,Sofitel_Legend_The_Grand_Amsterdam,2003-02-01,2019-04-25,2003Q1,2019Q2,0,20
+Sofitel London St James,51.5076044,-0.132266,9.2,London,Sofitel London St James,d236350,Sofitel_London_St_James,2003-03-01,2019-04-27,2003Q1,2019Q2,0,26
+Sofitel Paris Baltimore Tour Eiffel,48.8663089,2.289609,8.3,Paris,Sofitel Paris Baltimore Tour Eiffel,d229450,Sofitel_Paris_Baltimore_Tour_Eiffel,2017-05-01,2019-04-01,2017Q2,2019Q2,0,27
+Splendid Etoile,48.874707,2.2936761000000003,8.9,Paris,Splendid Etoile,d654026,Splendid_Hotel,2007-04-01,2019-04-25,2007Q2,2019Q2,0,42
+Splendide Royal Paris,48.87096270000001,2.3154141,9.4,Paris,Splendide Royal Paris,d11724131,Hotel_Splendide_Royal_Paris,2016-12-01,2019-04-18,2016Q4,2019Q2,0,50
+St Ermin s Hotel Autograph Collection,51.498905,-0.1339092999999999,8.9,London,St Ermin s Hotel Autograph Collection,d248802,St_Ermin_s_Hotel_Autograph_Collection,2011-05-01,2019-04-01,2011Q2,2019Q2,0,17
+St George Hotel,51.5182768,-0.1583511,7.4,London,St George Hotel,d14077351,St_George_s_Apartments,2018-05-01,2019-04-01,2018Q2,2019Q2,0,26
+St George s Hotel Wembley,51.5553678,-0.2864945,8.9,London,St George s Hotel Wembley,d240244,St_George_Hotel,2005-07-01,2019-01-01,2005Q3,2019Q1,0,0
+St James Court A Taj Hotel London,51.4986732,-0.1376867,8.7,London,St James Court A Taj Hotel London,d265539,St_James_Court_A_Taj_Hotel,2014-01-01,2019-05-10,2014Q1,2019Q2,0,17
+St James Hotel Club Mayfair,51.50615870000001,-0.1402803,8.7,London,St James Hotel Club Mayfair,d224761,St_James_s_Hotel_and_Club,2008-09-01,2019-05-01,2008Q3,2019Q2,0,33
+Staunton Hotel B B,51.520378,-0.1303414,8.3,London,Staunton Hotel B B,d279744,Staunton_Hotel,2004-02-01,2019-03-01,2004Q1,2019Q1,0,29
+Staybridge Suites London Vauxhall,51.4891226,-0.1205638999999999,9.2,London,Staybridge Suites London Vauxhall,d6787576,Staybridge_Suites_London_Vauxhall,2015-01-01,2019-04-24,2015Q1,2019Q2,0,1
+Steigenberger Hotel Herrenhof,48.2097958,16.3658705,9.0,Vienna,Steigenberger Hotel Herrenhof,d1146177,Steigenberger_Hotel_Herrenhof_Wien,2009-02-01,2019-04-24,2009Q1,2019Q2,0,30
+Strandhotel Alte Donau,48.23900220000001,16.4292329,9.1,Vienna,Strandhotel Alte Donau,d944657,Strandhotel_Alte_Donau,2009-10-01,2019-04-01,2009Q4,2019Q2,0,2
+Style Hotel,45.4708973,9.1840992,7.7,Milan,Style Hotel,d2298126,Style_Hotel,2012-02-01,2019-04-17,2012Q1,2019Q2,0,17
+Suite Hotel 900 m zur Oper,48.1935235,16.3669145,8.0,Vienna,Suite Hotel 900 m zur Oper,d324708,Suite_Hotel_900_m_zur_Oper,2006-04-01,2019-04-01,2006Q2,2019Q2,0,6
+Suites H tel Helzear Montparnasse,48.8346811,2.3255098,8.1,Paris,Suites H tel Helzear Montparnasse,d3297567,Suites_Hotel_Helzear_Montparnasse,2012-08-01,2019-02-01,2012Q3,2019Q1,0,11
+Sunotel Central,41.3841429,2.1616896,8.2,Barcelona,Sunotel Central,d4741644,Sunotel_Club_Central,2013-08-01,2019-04-01,2013Q3,2019Q2,0,26
+Ten Manchester Street Hotel,51.5188,-0.153839,8.8,London,Ten Manchester Street Hotel,d1166367,No_Ten_Manchester_Street,2009-10-01,2019-05-02,2009Q4,2019Q2,0,24
+The Abbey Court Notting Hill,51.5101401,-0.1968951,7.8,London,The Abbey Court Notting Hill,d193117,The_Abbey_Court_Notting_Hill,2003-09-01,2018-11-01,2003Q3,2018Q4,0,7
+The Academy,51.5205441,-0.1308091,7.8,London,The Academy,d193093,The_Academy,2018-03-01,2019-04-18,2018Q1,2019Q2,0,29
+The Ampersand Hotel,51.49430770000001,-0.1755579,9.1,London,The Ampersand Hotel,d2554997,The_Ampersand_Hotel,2012-08-01,2019-05-04,2012Q3,2019Q2,0,21
+The Arch London,51.5159214,-0.1598793999999999,9.1,London,The Arch London,d1153462,Access_Apartments_Marble_Arch,2010-05-01,2017-04-01,2010Q2,2017Q2,0,29
+The Athenaeum,51.504716,-0.1475618,8.1,London,The Athenaeum,d187594,The_Athenaeum_Hotel_Residences,2002-01-01,2019-05-05,2002Q1,2019Q2,0,26
+The Beaufort,51.4978466,-0.164156,8.8,London,The Beaufort,d187924,The_Beaufort_Hotel,2002-11-01,2019-04-01,2002Q4,2019Q2,0,19
+The Beaumont Hotel,51.513055,-0.152257,9.4,London,The Beaumont Hotel,d6003130,The_Beaumont,2014-09-01,2019-05-03,2014Q3,2019Q2,0,31
+The Belgrave Hotel,51.4901051,-0.1381355,8.6,London,The Belgrave Hotel,d3335455,Lower_Belgrave_Street_Apartments,2013-02-01,2019-02-01,2013Q1,2019Q1,0,10
+The Berkeley,51.5020912,-0.1577795,9.1,London,The Berkeley,d199110,Berkeley_Court,2007-10-01,2019-05-01,2007Q4,2019Q2,0,20
+The Bryson Hotel,51.5220869,-0.1082443,7.8,London,The Bryson Hotel,d9990151,The_Bryson_Hotel,2016-04-01,2019-04-22,2016Q2,2019Q2,0,6
+The Capital,51.4997486,-0.1615242,9.0,London,The Capital,d187990,The_Capital_Hotel,2002-04-01,2019-05-06,2002Q2,2019Q2,0,17
+The Chamberlain,51.51224570000001,-0.0757326,8.9,London,The Chamberlain,d278529,Chamberlain_Hotel,2004-02-01,2019-04-01,2004Q1,2019Q2,0,9
+The Chess Hotel,48.87160170000001,2.3349768,8.7,Paris,The Chess Hotel,d6613318,The_Chess_Hotel,2014-08-01,2019-05-02,2014Q3,2019Q2,0,60
+The Chesterfield Mayfair,51.5076899,-0.1471357999999999,9.1,London,The Chesterfield Mayfair,d192064,The_Chesterfield_Mayfair,2003-02-01,2019-05-04,2003Q1,2019Q2,0,24
+The Cleveland,51.513969200000005,-0.1828202,8.2,London,The Cleveland,d6519281,Clarendon_Serviced_Apartments_Cleveland_Residences,2015-06-01,2019-01-01,2015Q2,2019Q1,0,21
+The College Hotel,52.3527675,4.88373,8.3,Amsterdam,The College Hotel,d483134,The_College_Hotel,2005-03-01,2019-05-04,2005Q1,2019Q2,0,8
+The Connaught,51.5101556,-0.1496314,9.3,London,The Connaught,d3365725,Connaught_House_Hotel_London_ExCeL,2012-08-01,2019-04-26,2012Q3,2019Q2,0,32
+The Corner Hotel,41.3890578,2.1565948,9.3,Barcelona,The Corner Hotel,d10127321,The_Corner_Hotel,2016-10-01,2019-04-24,2016Q4,2019Q2,0,36
+The Cranley Hotel,51.4916378,-0.1832832999999999,7.8,London,The Cranley Hotel,d199856,The_Cranley_Hotel,2002-03-01,2019-05-01,2002Q1,2019Q2,0,25
+The Cumberland A Guoman Hotel,51.514879,-0.1606501,7.5,London,The Cumberland A Guoman Hotel,d199113,The_Cumberland,2004-11-01,2019-04-27,2004Q4,2019Q2,0,28
+The Curtain,51.5237209,-0.0806178,9.1,London,The Curtain,d10844183,The_Curtain,2017-05-01,2019-04-21,2017Q2,2019Q2,0,8
+The Drayton Court Hotel,51.5141842,-0.3192925,8.8,London,The Drayton Court Hotel,d2176326,The_Drayton_Court_Hotel,2011-07-01,2019-04-01,2011Q3,2019Q2,0,1
+The Exhibitionist Hotel,51.4947754,-0.177789,8.4,London,The Exhibitionist Hotel,d7171735,The_Exhibitionist_Hotel,2014-11-01,2019-05-08,2014Q4,2019Q2,0,26
+The Franklin Hotel Starhotels Collezione,51.4960283,-0.1686355,8.8,London,The Franklin Hotel Starhotels Collezione,d10382433,The_Franklin_Starhotels_Collezione,2016-09-01,2019-04-29,2016Q3,2019Q2,0,24
+The Gates Diagonal Barcelona,41.4036219,2.1902808,8.0,Barcelona,The Gates Diagonal Barcelona,d518349,The_Gates_Diagonal_Barcelona,2018-09-01,2019-04-25,2018Q3,2019Q2,0,4
+The Gore Hotel Starhotels Collezione,51.5001979,-0.1795357,8.6,London,The Gore Hotel Starhotels Collezione,d193122,The_Gore_Starhotels_Collezione,2003-06-01,2019-05-12,2003Q2,2019Q2,0,23
+The Grand at Trafalgar Square,51.506935,-0.1260119999999999,8.3,London,The Grand at Trafalgar Square,d677369,The_Grand_at_Trafalgar_Square,2007-02-01,2019-04-01,2007Q1,2019Q2,0,22
+The Grosvenor,51.4956657,-0.1452793,8.4,London,The Grosvenor,d1149803,LSE_Grosvenor_House_Studios,2008-08-01,2018-09-01,2008Q3,2018Q3,0,19
+The Guesthouse Vienna,48.2051299,16.369035999999998,9.4,Vienna,The Guesthouse Vienna,d1607088,Guesthouse_Arabella,2010-01-01,2015-06-01,2010Q1,2015Q2,0,36
+The Harmonie Vienna,48.2199427,16.3598984,9.2,Vienna,The Harmonie Vienna,d227177,The_Harmonie_Vienna,2013-07-01,2019-05-07,2013Q3,2019Q2,0,5
+The Henrietta Hotel,51.5109079,-0.1238221,9.2,London,The Henrietta Hotel,d12147326,The_Henrietta_Hotel,2017-05-01,2019-04-27,2017Q2,2019Q2,0,25
+The Hoxton Shoreditch,51.5255136,-0.082927,9.0,London,The Hoxton Shoreditch,d12173404,Central_Hoxton_Shoreditch,2017-02-01,2019-01-01,2017Q1,2019Q1,0,7
+The Justin James Hotel,51.4202661,-0.2112679999999999,8.3,London,The Justin James Hotel,d1655975,Justin_James_Hotel,2010-06-01,2019-03-01,2010Q2,2019Q1,0,0
+The Kings Head Hotel,51.5079153,-0.2730145,8.9,London,The Kings Head Hotel,d10824572,The_Kings_Head_Hotel,2016-11-01,2019-01-01,2016Q4,2019Q1,0,0
+The Lanesborough,51.50303,-0.15242,9.4,London,The Lanesborough,d187925,The_Lanesborough,2015-07-01,2019-05-02,2015Q3,2019Q2,0,30
+The Laslett,51.50952589999999,-0.1967234,8.9,London,The Laslett,d3628648,The_Laslett,2015-08-01,2019-04-25,2015Q3,2019Q2,0,8
+The Leonard Hotel,51.5147071,-0.1578291,8.2,London,The Leonard Hotel,d193162,The_Leonard_Hotel,2004-08-01,2019-04-01,2004Q3,2019Q2,0,24
+The Levin Hotel,51.4998574,-0.161717,9.1,London,The Levin Hotel,d210074,The_Levin,2007-10-01,2019-05-01,2007Q4,2019Q2,0,17
+The Lodge Hotel Putney,51.45729910000001,-0.2055425,8.2,London,The Lodge Hotel Putney,d13074900,The_London_Lodge,2018-03-01,2018-10-01,2018Q1,2018Q4,0,0
+The Marylebone Hotel,51.51802070000001,-0.1500567,8.9,London,The Marylebone Hotel,d193610,Marylebone_Inn_Hotel,2011-07-01,2019-04-10,2011Q3,2019Q2,0,26
+The Mirror Barcelona,41.3930406,2.1545393,8.6,Barcelona,The Mirror Barcelona,d2018633,The_Mirror_Barcelona,2011-02-01,2019-04-01,2011Q1,2019Q2,0,32
+The Montcalm At Brewery London City,51.520815500000005,-0.0915319,8.8,London,The Montcalm At Brewery London City,d2048999,The_Montcalm_at_the_Brewery_London_City,2014-03-01,2019-05-08,2014Q1,2019Q2,0,11
+The Nadler Kensington,51.4931086,-0.190208,9.0,London,The Nadler Kensington,d189735,The_Nadler_Kensington,2006-05-01,2019-05-04,2006Q2,2019Q2,0,25
+The Nadler Soho,51.5147387,-0.1341108,9.0,London,The Nadler Soho,d4062677,The_Nadler_Soho,2013-06-01,2019-05-09,2013Q2,2019Q2,0,32
+The Nadler Victoria,51.4990259,-0.1427453,9.3,London,The Nadler Victoria,d259781,The_Victoria,2007-05-01,2019-03-01,2007Q2,2019Q1,0,24
+The Ned,51.5135929,-0.0907833,9.3,London,The Ned,d12258692,The_Ned,2017-04-01,2019-05-02,2017Q2,2019Q2,0,10
+The One Barcelona GL,41.3961448,2.1631674,9.4,Barcelona,The One Barcelona GL,d11847896,The_One_Barcelona,2017-01-01,2019-05-04,2017Q1,2019Q2,0,35
+The Pelham Starhotels Collezione,51.4943935,-0.1750168999999999,8.6,London,The Pelham Starhotels Collezione,d193147,The_Pelham_Starhotels_Collezione,2003-10-01,2019-05-04,2003Q4,2019Q2,0,22
+The Piccadilly London West End,51.51219570000001,-0.1318384,9.0,London,The Piccadilly London West End,d193114,The_Piccadilly_London_West_End,2015-12-01,2019-05-01,2015Q4,2019Q2,0,38
+The Pillar Hotel,51.583236,-0.2168679999999999,8.6,London,The Pillar Hotel,d3317111,The_Pillar_Hotel,2012-07-01,2019-02-01,2012Q3,2019Q1,0,0
+The Premier Notting Hill,51.5127453,-0.1926437,7.3,London,The Premier Notting Hill,d195392,Notting_Hill_Hotel,2003-12-01,2019-02-01,2003Q4,2019Q1,0,16
+The Queens Gate Hotel,51.4981225,-0.1799693,8.2,London,The Queens Gate Hotel,d189740,Queens_Hotel,2018-12-01,2019-04-22,2018Q4,2019Q2,0,28
+The Ritz London,51.5069446,-0.1415776,9.3,London,The Ritz London,d187591,The_Ritz_London,2003-07-01,2019-05-03,2003Q3,2019Q2,0,30
+The Rockwell,51.4948059,-0.1926525,8.6,London,The Rockwell,d612054,The_Rockwell,2006-06-01,2019-04-01,2006Q2,2019Q2,0,27
+The Rookery,51.520171000000005,-0.102463,9.1,London,The Rookery,d188958,The_Rookery_Hotel,2001-12-01,2019-04-01,2001Q4,2019Q2,0,8
+The Royal Horseguards,51.5054185,-0.1241499,8.9,London,The Royal Horseguards,d193079,The_Royal_Horseguards,2002-12-01,2019-05-01,2002Q4,2019Q2,0,18
+The Stafford London,51.505908700000006,-0.1403795,9.1,London,The Stafford London,d187570,The_Stafford_London,2003-06-01,2019-05-12,2003Q2,2019Q2,0,31
+The Toren,52.3758754,4.8859642,9.4,Amsterdam,The Toren,d229137,The_Toren,2002-12-01,2019-05-07,2002Q4,2019Q2,0,10
+The Trafalgar Hilton,51.507374,-0.129135,8.1,London,The Trafalgar Hilton,d209237,The_Trafalgar_St_James_London_Curio_Collection_by_Hilton,2017-09-01,2019-04-01,2017Q3,2019Q2,0,27
+The Victoria,51.4611219,-0.2756215999999999,8.3,London,The Victoria,d1005740,The_Victoria_Inn,2016-10-01,2019-04-24,2016Q4,2019Q2,0,0
+The Westbourne Hyde Park,51.5131074,-0.1778707,8.9,London,The Westbourne Hyde Park,d10723260,The_Westbourne_Hyde_Park,2016-09-01,2019-04-01,2016Q3,2019Q2,0,20
+The Westin Palace,45.4790357,9.199028,8.5,Milan,The Westin Palace,d230413,The_Westin_Palace_Milan,2014-08-01,2019-04-28,2014Q3,2019Q2,0,24
+The Wittmore Adults Only,41.380939,2.1796095,9.4,Barcelona,The Wittmore Adults Only,d10279308,The_Wittmore_Hotel,2016-05-01,2019-04-24,2016Q2,2019Q2,0,21
+The Zetter Hotel,51.522672,-0.1036841,8.9,London,The Zetter Hotel,d210070,The_Zetter_Townhouse_Marylebone,2015-10-01,2019-04-14,2015Q4,2019Q2,0,6
+The Zetter Townhouse Clerkenwell,51.523156400000005,-0.1035134,9.1,London,The Zetter Townhouse Clerkenwell,d299287,The_Zetter_Hotel,2004-06-01,2019-04-01,2004Q2,2019Q2,0,5
+Thistle Hyde Park,51.5112451,-0.1808938,7.8,London,Thistle Hyde Park,d187571,Thistle_Hyde_Park,2003-10-01,2019-05-10,2003Q4,2019Q2,0,21
+Thistle Kensington Gardens,51.510843900000005,-0.1839073999999999,8.2,London,Thistle Kensington Gardens,d195311,Kensington_Gardens_Hotel,2004-06-01,2019-04-19,2004Q2,2019Q2,0,22
+Thistle Trafalgar Square The Royal Trafalgar,51.509133,-0.130189,8.4,London,Thistle Trafalgar Square The Royal Trafalgar,d193111,Thistle_Trafalgar_Square_The_Royal_Trafalgar,2012-05-01,2019-04-01,2012Q2,2019Q2,0,27
+Timhotel Op ra Grands Magasins,48.879468200000005,2.3334957000000003,8.3,Paris,Timhotel Op ra Grands Magasins,d313070,Timhotel_Opera_Grands_Magasins,2013-05-01,2019-05-02,2013Q2,2019Q2,0,28
+TownHouse 33,45.4693349,9.2142383,8.2,Milan,TownHouse 33,d1493893,TownHouse_33,2010-12-01,2019-04-14,2010Q4,2019Q2,0,5
+Trinit Haussmann,48.8800565,2.3342353,8.4,Paris,Trinit Haussmann,d197589,Hotel_Trinite_Haussmann,2016-08-01,2019-04-18,2016Q3,2019Q2,0,22
+Tryp Barcelona Apolo Hotel,41.374703100000005,2.1707106,7.8,Barcelona,Tryp Barcelona Apolo Hotel,d231502,Tryp_Barcelona_Apolo_Hotel,2003-08-01,2019-05-04,2003Q3,2019Q2,0,12
+Tryp Barcelona Condal Mar Hotel,41.4126508,2.2090895,8.1,Barcelona,Tryp Barcelona Condal Mar Hotel,d648030,Hotel_Condal,2007-03-01,2019-04-01,2007Q1,2019Q2,0,5
+Twenty Nevern Square Hotel,51.4915712,-0.1963192,8.3,London,Twenty Nevern Square Hotel,d193118,Twenty_Nevern_Square,2003-05-01,2019-04-01,2003Q2,2019Q2,0,18
+U232 Hotel,41.389523700000005,2.1490307,8.7,Barcelona,U232 Hotel,d234572,U232_Hotel,2003-08-01,2019-04-29,2003Q3,2019Q2,0,20
+Upper Diagonal,41.39038,2.121,8.8,Barcelona,Upper Diagonal,d8875531,Upper_Diagonal,2016-02-01,2019-05-05,2016Q1,2019Q2,0,5
+Urban Lodge Hotel,52.3856494,4.834443,8.6,Amsterdam,Urban Lodge Hotel,d271439,Amsterdam_Lodge,2003-07-01,2013-07-01,2003Q3,2013Q3,0,1
+Vice Versa,48.8363819,2.2897793,8.3,Paris,Vice Versa,d3317600,Hotel_Vice_Versa,2011-10-01,2019-04-14,2011Q4,2019Q2,0,4
+Victoire Germain,48.853299,2.337993,9.3,Paris,Victoire Germain,d10227714,Hotel_Victoire_Germain,2016-08-01,2019-04-28,2016Q3,2019Q2,0,34
+Victoires Opera,48.8648997,2.3469432999999995,7.5,Paris,Victoires Opera,d198095,Victoires_Opera_Hotel,2002-09-01,2019-01-01,2002Q3,2019Q1,0,28
+Victoria Palace Hotel,48.845758700000005,2.3243071,8.3,Paris,Victoria Palace Hotel,d1419309,Hotel_Victoria,2009-04-01,2016-07-01,2009Q2,2016Q3,0,14
+Vienna Sporthotel,48.191373,16.4082294,8.4,Vienna,Vienna Sporthotel,d278255,Vienna_Sporthotel,2009-01-01,2019-01-01,2009Q1,2019Q1,0,2
+Vilana Hotel,41.4047934,2.1288527000000004,8.2,Barcelona,Vilana Hotel,d237154,Vilana_Hotel,2003-06-01,2019-01-01,2003Q2,2019Q1,0,4
+Villa Alessandra,48.8794223,2.2957628,7.3,Paris,Villa Alessandra,d228775,Villa_Alessandra,2003-02-01,2019-04-24,2003Q1,2019Q2,0,32
+Villa Beaumarchais,48.8589516,2.3670407000000004,8.1,Paris,Villa Beaumarchais,d196828,Hotel_Beaumarchais,2016-07-01,2019-02-01,2016Q3,2019Q1,0,13
+Villa Eugenie,48.8871283,2.314205,6.8,Paris,Villa Eugenie,d228730,Villa_Eugenie,2002-11-01,2019-04-01,2002Q4,2019Q2,0,9
+Villa Lut ce Port Royal,48.8364204,2.3603332000000004,7.0,Paris,Villa Lut ce Port Royal,d260472,Port_Royal_Hotel,2004-09-01,2018-11-01,2004Q3,2018Q4,0,4
+Villa Montparnasse,48.8349272,2.3295913,7.6,Paris,Villa Montparnasse,d229575,Villa_Montparnasse,2004-03-01,2019-04-01,2004Q1,2019Q2,0,13
+Villa Opera Drouot,48.8732231,2.3436097,8.4,Paris,Villa Opera Drouot,d207858,Villa_Opera_Drouot,2004-04-01,2019-05-10,2004Q2,2019Q2,0,30
+Vincci Gala,41.3895263,2.1747136,8.9,Barcelona,Vincci Gala,d5416370,Vincci_Gala,2014-03-01,2019-05-06,2014Q1,2019Q2,0,41
+Vincci Mae,41.3933943,2.1461315,8.9,Barcelona,Vincci Mae,d10902390,Vincci_Mae,2016-10-01,2019-04-01,2016Q4,2019Q2,0,17
+W Amsterdam,52.3727871,4.8900059,8.4,Amsterdam,W Amsterdam,d8470249,W_Amsterdam,2015-10-01,2019-05-02,2015Q4,2019Q2,0,18
+W London Leicester Square,51.510843,-0.1314287,8.4,London,W London Leicester Square,d13945253,Hotel_Indigo_London_1_Leicester_Square,2018-03-01,2019-04-27,2018Q1,2019Q2,0,30
+W12 Rooms,51.5045326,-0.2191174,8.7,London,W12 Rooms,d4162136,W12_Rooms,2013-05-01,2019-03-01,2013Q2,2019Q1,0,2
+Waldorf Astoria Amsterdam,52.364768,4.896945,9.5,Amsterdam,Waldorf Astoria Amsterdam,d5555141,Waldorf_Astoria_Amsterdam,2014-05-01,2019-05-12,2014Q2,2019Q2,0,12
+Waldorf Madeleine,48.8715828,2.3224853,8.4,Paris,Waldorf Madeleine,d207859,Hotel_Waldorf_Madeleine,2015-03-01,2019-05-04,2015Q1,2019Q2,0,48
+WestCord Art Hotel Amsterdam 4 stars,52.3924898,4.8683822,8.5,Amsterdam,WestCord Art Hotel Amsterdam 4 stars,d614078,WestCord_Art_Hotel_Amsterdam,2003-05-01,2019-04-28,2003Q2,2019Q2,0,0
+WestCord Fashion Hotel Amsterdam,52.357655,4.844576,8.7,Amsterdam,WestCord Fashion Hotel Amsterdam,d1382766,WestCord_Fashion_Hotel_Amsterdam,2009-07-01,2019-05-06,2009Q3,2019Q2,0,0
+Westside Arc de Triomphe Hotel,48.8811741,2.2948337000000003,8.1,Paris,Westside Arc de Triomphe Hotel,d197503,Hotel_Westside_Arc_de_Triomphe,2013-05-01,2019-04-08,2013Q2,2019Q2,0,24
+Windermere Hotel,51.4903724,-0.1459218,8.7,London,Windermere Hotel,d210760,The_Windermere_Hotel,2003-08-01,2019-05-04,2003Q3,2019Q2,0,12
+Windsor Opera,48.8734851,2.3485111,8.3,Paris,Windsor Opera,d197470,Hotel_Windsor_Opera,2006-05-01,2019-04-01,2006Q2,2019Q2,0,29
+Worldhotel Cristoforo Colombo,45.4758842,9.205791,8.6,Milan,Worldhotel Cristoforo Colombo,d229995,WORLDHOTEL_Cristoforo_Colombo,2004-06-01,2019-04-11,2004Q2,2019Q2,0,19
+XO Hotel,48.8827492,2.2982782000000004,8.9,Paris,XO Hotel,d226967,XO_Hotel,2017-05-01,2019-04-01,2017Q2,2019Q2,0,15
+Zenit Barcelona,41.3949199,2.1468594,8.1,Barcelona,Zenit Barcelona,d231531,Hotel_Zenit_Barcelona,2006-10-01,2019-02-01,2006Q4,2019Q1,0,15
+art otel Amsterdam,52.377743,4.897057,9.0,Amsterdam,art otel Amsterdam,d4105659,Art_otel_Amsterdam,2013-10-01,2019-04-20,2013Q4,2019Q2,0,12
+citizenM Tower of London,51.510237,-0.0764428,9.1,London,citizenM Tower of London,d10410272,CitizenM_Tower_of_London_Hotel,2016-07-01,2019-05-07,2016Q3,2019Q2,0,9

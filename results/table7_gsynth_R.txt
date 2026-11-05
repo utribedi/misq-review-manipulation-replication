@@ -1,0 +1,8 @@
+Table 7 (Texas). Generalized synthetic control (fect, method = ife), binary Airbnb treatment, 200 bootstraps
+        model   ATT    SE     p r treated controls
+  Promote all 0.033 0.015 0.027 0     165      101
+ Promote high 0.039 0.017 0.024 0     130       61
+  Promote low 0.009 0.042 0.829 0      35       40
+   Demote all 0.046 0.066 0.487 0     121       62
+  Demote high 0.004 0.069 0.953 0     107       47
+   Demote low 0.417 0.381 0.273 0      14       15

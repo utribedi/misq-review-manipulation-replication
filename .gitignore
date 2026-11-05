@@ -1,0 +1,23 @@
+# raw data too large for git (see data_extract/README.md)
+Full_HotelRec/
+*.jsonl
+*.tmp
+*.arff
+booking.com 1/
+booking.com 2
+data_extract/state.json
+data_extract/*.log
+# uncompressed copies of shipped .csv.gz files
+data_extract/reviews_TX.csv
+data_extract/reviews_EU6.csv
+data_extract/booking515k.csv
+# environments / caches
+__pycache__/
+*.pyc
+.RData
+.Rhistory
+*.log
+.ipynb_checkpoints/
+~$*
+# copyrighted article
+paper/*.pdf

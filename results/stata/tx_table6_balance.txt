@@ -1,0 +1,55 @@
+----------------------------------------------------------------------------------------------------------------------------------------
+      name:  balance
+       log:  C:\Users\utrib\Desktop\OneDrive - Iowa State University\Desktop\PhD\Courses\Fall 2026\MIS Empirical Research\replication pr
+> oj\results/stata/tx_table6_balance.txt
+  log type:  text
+ opened on:   4 Nov 2026, 20:46:20
+
+. display "Table 6 (Texas). Covariate balance before and after look-ahead PSM: " `n_tr' " treated, " `n_co' " controls"
+Table 6 (Texas). Covariate balance before and after look-ahead PSM: 101 treated, 101 controls
+
+. pstest lowend pre_reviews pre_rating pre_share5 pre_share12 n_comp_same opened_before_2011, both
+
+----------------------------------------------------------------------------------------
+                Unmatched |       Mean               %reduct |     t-test    |  V(T)/
+Variable          Matched | Treated Control    %bias  |bias| |    t    p>|t| |  V(C)
+--------------------------+----------------------------------+---------------+----------
+lowend                 U  | .20339   .35948    -35.2         |  -3.63  0.000 |     .
+                       M  | .24752   .34653    -22.3    36.6 |  -1.54  0.125 |     .
+                          |                                  |               |
+pre_reviews            U  | 9.2051   6.6015     24.8         |   2.36  0.019 |  2.04*
+                       M  | 7.1697   6.7337      4.1    83.3 |   0.34  0.732 |  1.06
+                          |                                  |               |
+pre_rating             U  | 3.8509   3.6404     24.2         |   2.50  0.013 |  0.67*
+                       M  | 3.7264   3.6055     13.9    42.6 |   0.93  0.351 |  0.83
+                          |                                  |               |
+pre_share5             U  | .44584   .40518     15.7         |   1.59  0.113 |  0.89
+                       M  | .42647   .39879     10.7    31.9 |   0.77  0.441 |  0.92
+                          |                                  |               |
+pre_share12            U  | .18169   .24133    -24.9         |  -2.61  0.009 |  0.60*
+                       M  | .21756   .25966    -17.6    29.4 |  -1.14  0.257 |  0.74
+                          |                                  |               |
+n_comp_same            U  | 5.7627   2.1634     82.9         |   7.46  0.000 |  7.77*
+                       M  | 2.5941   2.1089     11.2    86.5 |   1.37  0.171 |  1.93*
+                          |                                  |               |
+opened_before_2011     U  |  .5661   .58824     -4.5         |  -0.45  0.654 |     .
+                       M  | .60396   .59406      2.0    55.3 |   0.14  0.887 |     .
+                          |                                  |               |
+----------------------------------------------------------------------------------------
+* if variance ratio outside [0.80; 1.26] for U and [0.67; 1.48] for M
+
+-----------------------------------------------------------------------------------
+ Sample    | Ps R2   LR chi2   p>chi2   MeanBias   MedBias      B      R     %Var
+-----------+-----------------------------------------------------------------------
+ Unmatched | 0.119     68.44    0.000     30.3      24.8      84.9*   5.70*    80
+ Matched   | 0.016      4.38    0.736     11.7      11.2      29.2*   0.91     20
+-----------------------------------------------------------------------------------
+* if B>25%, R outside [0.5; 2]
+
+. log close balance
+      name:  balance
+       log:  C:\Users\utrib\Desktop\OneDrive - Iowa State University\Desktop\PhD\Courses\Fall 2026\MIS Empirical Research\replication pr
+> oj\results/stata/tx_table6_balance.txt
+  log type:  text
+ closed on:   4 Nov 2026, 20:46:20
+----------------------------------------------------------------------------------------------------------------------------------------
